@@ -50,7 +50,7 @@ for (const s of sizes) {
   await page.waitForSelector('.card[data-id]');
   // dismiss the install sheet if the UA triggered it
   if (await page.locator('#install[open]').count()) await page.click('#install-dismiss');
-  const cards = page.locator('.card[data-id]');
+  const cards = page.locator('.card[data-id]:not([data-id="done"])');
   const n = await cards.count();
   for (let i = 0; i < 3; i++) {
     await cards.nth(i).scrollIntoViewIfNeeded();
@@ -89,7 +89,7 @@ for (const s of sizes) {
     try {
       await page.reload({ waitUntil: 'domcontentloaded' });
       await page.waitForSelector('.card[data-id]', { timeout: 8000 });
-      offlineCards = await page.locator('.card[data-id]').count();
+      offlineCards = await page.locator('.card[data-id]:not([data-id="done"])').count();
       offlineStrip = await page.locator('#built').textContent();
       offlineOk = offlineCards > 0;
       await page.screenshot({ path: path.join(OUT, `${s.name}-offline.png`) });

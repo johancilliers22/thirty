@@ -128,3 +128,62 @@ If Johan wants the literature quotes re-verified from their primary hosts, the d
 ## 7. Ranking rubric (how scores in data/scores.json were assigned)
 
 Score every candidate 0-10 for "worth 30 seconds of Johan's attention" against the lines in interests.md. 9-10: a named author, book or idea from a listed shelf, or a new book in a listed area, presented as an idea to use. 7-8: squarely on a shelf, or a strong AI-agents/Claude Code item tied to building something. 5-6: adjacent (a good essay on thinking, a frontier-model release, a human-behaviour story). 3-4: generic curiosity or tooling with a thin link to a shelf. 0-2: off-shelf tech minutiae, and anything the "score low" line names (gossip, sports, crypto prices, political outrage, unsourced motivation, engagement bait). Sponsored or affiliate posts score 2 even from a listed channel. The reason names the shelf or the rule, in one sentence, without claiming more than the title and excerpt support.
+
+## 8. Verification on 2026-09-06 (build VM, Chromium 1194, Lighthouse 13.4.1)
+
+Lighthouse, mobile preset, 390x844 at 3x, against `vite preview` of the production build:
+
+| Category | Score | Notes |
+|---|---|---|
+| Performance | 100 | FCP 0.9 s, LCP 1.1 s, TBT 30 ms, CLS 0 |
+| Accessibility | 100 | contrast fixed in both palettes (tertiary text 6.1:1 light, 6.8:1 dark; light accent 5.9:1) |
+| Best practices | 100 | no console errors once the service worker stopped reloading on first install |
+| SEO | 66 | the only failing audit is `is-crawlable`: `index.html` carries `robots noindex` and `robots.txt` disallows all. Deliberate: a personal feed on a public Hobby URL should not be indexed. Removing the meta tag and the disallow line would score 100; that is Johan's call. |
+
+Lighthouse removed its PWA category in v12.0.0 (2024-04-22), confirmed in the changelog, so installability was checked by hand against `dist/`:
+
+| Check | Result |
+|---|---|
+| Manifest linked from index.html; name and short_name | pass |
+| start_url within scope; display standalone; orientation portrait | pass |
+| 192, 512 and 512 maskable PNG icons present | pass |
+| theme_color and background_color | pass |
+| apple-touch-icon 180x180 linked and present | pass |
+| apple-mobile-web-app-capable, mobile-web-app-capable, status-bar-style | pass |
+| viewport-fit=cover | pass |
+| sw.js shipped with a per-build id; registered from the app bundle | pass |
+| HTTPS | pass on Vercel; the local preview is http |
+
+Playwright (Chromium, iPhone 13 profile) at 390x844 and 430x932: 30 cards then the done card, first three cards screenshotted at both sizes plus light palette, settings, done, offline reopen (30 cards, strip reads "built N ago · offline copy") and the install sheet on a Safari user agent. Headless Chromium cannot reach the internet from the build VM (its egress proxy resets browser traffic while curl succeeds), so the screenshot script hands thumbnails to the page through route interception after fetching them with curl; the app is untouched.
+
+Sandbox test of the feed builder: with every fetch failing it exits 2 and leaves `feed.json`, `scores.json` and `candidates.json` untouched; with lobste.rs alone returning 503 the run publishes the other sources and keeps all lobste.rs scores.
+
+## 9. Binding constraints carried from the brief
+
+The agent-system clone (with `docs/holiday-builds/thirty-feed.md` and the holiday README) was not present in this environment, so the constraints were taken from `docs/KICKOFF.md`, which carries the CORRECTION line and the additions verbatim:
+
+- Hugging Face trending is fetched keyless from `huggingface.co/api/models?sort=trendingScore`; no Hugging Face connector.
+- Station cards are dropped entirely; sources are Hacker News, lobste.rs, Bluesky, YouTube RSS and Hugging Face only.
+- No agent-system branch name, key, token or private path reaches the repo or the deploy (checked with `git grep`).
+- The Routine is drafted, not created; when created it runs 2/day with `notifications {push:true}`, its model set to opus with `update_trigger` and confirmed with `list_triggers`.
+- YouTube cards ship thumbnails with tap-to-play; muted autoplay is progressive enhancement after the tap.
+- Named-path commits only; nothing posts, nothing spends, nothing publishes beyond the Vercel deploy.
+
+## 10. Review round
+
+After the first build, four Opus reviewers (iOS and UX, service worker and security, feed builder and brief compliance, and an independent ranking judge) read the code. Fixed from their findings: `window.open` with the `noopener` feature returns null by spec, so every tap would have navigated the standalone app away (now the opener is severed by hand); feed URLs are validated to http(s) at build and at render, and a Content Security Policy is set; the feed cache honours a reload request, revalidates inside `waitUntil`, only ever replaces the cached feed with a newer JSON build, and navigation has a 3-second timeout before the cached shell; the session's thumbnails are warmed into the media cache; mutes are keyed per YouTube channel; mute and "less like this" remove cards in place without a scroll jump, and the long-press acts on release; card bodies scroll when Dynamic Type or landscape overflows them; the strip is dark in both palettes so the translucent status bar stays readable; tap targets are 44 px; the toast sits above the action row; the install sheet records any dismissal; the builder refuses to publish an empty fetch and prunes scores by age rather than presence, guards each item's date, honours Bluesky post labels and skips reposts, scopes interests to the top list, matches score-low phrases on word boundaries, prefers the discussion-bearing copy of a duplicate link, and no longer ships engagement counts or the dedupe key. The ranking judge scored all candidates blind; 22 scores were adjusted toward its reading (Hugging Face model cards down to 0-3, two AI-maths items and a technical "mental model" post down, a promo down to 2).
+
+## Appendix A. Drafted Routine (not created; session 3 creates it after Johan says go)
+
+```
+create_trigger({
+  name: "THIRTY rebuild",
+  create_new_session_on_fire: true,
+  cron_expression: "0 4,15 * * *",   // 06:00 and 17:00 Africa/Johannesburg (UTC+2) as UTC
+  connectors: ["Vercel"],
+  notifications: { push: true },
+  initiation: "human_request",
+  prompt: "Continue THIRTY at johancilliers22/thirty (add_repo access=push, clone, read README.md 'Rebuild contract' and DESIGN.md section 7). Run `npm ci` then `node scripts/build-feed.mjs --unscored`. If it exits non-zero, stop and report which sources failed; do not commit. Read interests.md and data/candidates.json and write data/scores.json entries {score 0-10, reason one line} for every id the --unscored list printed, using the rubric in DESIGN.md section 7. Run `node scripts/build-feed.mjs --offline`. Commit by named path only: git add data/scores.json data/candidates.json public/feed.json, commit 'Rebuild feed <UTC date>', push origin main (Vercel deploys main on push). With the Vercel connector, confirm the newest production deployment for project thirty is READY and report its URL, the item count, the count of newly scored items and the top five cards with reasons. Never git add -A, never touch interests.md or sources.json, never create triggers, nothing posts anywhere else."
+})
+// then: update_trigger({ trigger_id, model: "opus" }) and list_triggers() to confirm the model.
+```

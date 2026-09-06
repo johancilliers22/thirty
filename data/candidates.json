@@ -1,149 +1,192 @@
 {
- "fetchedAt": "2026-09-06T09:12:38.877Z",
+ "fetchedAt": "2026-09-06T11:49:45.219Z",
  "items": [
   {
-   "id": "hn:49578866",
+   "id": "hn:49584083",
    "source": "hn",
    "sourceName": "Hacker News",
    "kind": "link",
-   "title": "The Real Luxuries In Life",
-   "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life/",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49578866",
-   "domain": "feld.com",
-   "author": "tosh",
-   "publishedAt": "2026-09-05T17:46:16.000Z",
+   "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+   "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+   "discussionUrl": "https://news.ycombinator.com/item?id=49584083",
+   "domain": "isaraerospace.com",
+   "author": "mpweiher",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
    "excerpt": "",
    "signals": {
-    "points": 325,
-    "comments": 137
-   },
-   "key": "feld.com/archives/2026/09/the-real-luxuries-in-life"
+    "points": 247,
+    "comments": 49
+   }
   },
   {
-   "id": "hn:49580164",
+   "id": "hn:49585161",
    "source": "hn",
    "sourceName": "Hacker News",
    "kind": "link",
-   "title": "LLMs as a Cognitive Virus",
-   "url": "https://arxiv.org/abs/2609.03344",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49580164",
-   "domain": "arxiv.org",
-   "author": "canjobear",
-   "publishedAt": "2026-09-05T20:02:35.000Z",
+   "title": "I Changed My License",
+   "url": "https://bergie.iki.fi/blog/eupl/",
+   "discussionUrl": "https://news.ycombinator.com/item?id=49585161",
+   "domain": "bergie.iki.fi",
+   "author": "jllyhill",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
    "excerpt": "",
    "signals": {
-    "points": 65,
-    "comments": 25
-   },
-   "key": "arxiv.org/abs/2609.03344"
+    "points": 49,
+    "comments": 48
+   }
   },
   {
-   "id": "hn:49580369",
+   "id": "hn:49582000",
    "source": "hn",
    "sourceName": "Hacker News",
    "kind": "link",
-   "title": "Private German rocket makes history, reaches orbit from European soil",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49580369",
-   "domain": "space.com",
-   "author": "bookmtn",
-   "publishedAt": "2026-09-05T20:31:38.000Z",
+   "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+   "url": "https://cloudinabottle.org/blog/launch-post",
+   "discussionUrl": "https://news.ycombinator.com/item?id=49582000",
+   "domain": "cloudinabottle.org",
+   "author": "zplizzi",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
    "excerpt": "",
    "signals": {
-    "points": 128,
-    "comments": 39
-   },
-   "key": "space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket"
+    "points": 446,
+    "comments": 218
+   }
   },
   {
-   "id": "hn:49580329",
+   "id": "hn:49580939",
    "source": "hn",
    "sourceName": "Hacker News",
    "kind": "link",
-   "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
-   "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49580329",
-   "domain": "terrytao.wordpress.com",
-   "author": "gmays",
-   "publishedAt": "2026-09-05T20:25:59.000Z",
+   "title": "The revolt of the reader",
+   "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+   "discussionUrl": "https://news.ycombinator.com/item?id=49580939",
+   "domain": "bcantrill.dtrace.org",
+   "author": "chmaynard",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
    "excerpt": "",
    "signals": {
-    "points": 29,
-    "comments": 10
-   },
-   "key": "terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation"
+    "points": 396,
+    "comments": 165
+   }
   },
   {
-   "id": "hn:49578280",
+   "id": "hn:49541888",
    "source": "hn",
    "sourceName": "Hacker News",
    "kind": "link",
-   "title": "Learn Programming with OCaml",
-   "url": "https://usr.lmf.cnrs.fr/lpo/",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49578280",
-   "domain": "usr.lmf.cnrs.fr",
-   "author": "elvis70",
-   "publishedAt": "2026-09-05T16:45:02.000Z",
+   "title": "Music Theory for Programmers",
+   "url": "https://runjs.app/blog/music-theory-for-programmers",
+   "discussionUrl": "https://news.ycombinator.com/item?id=49541888",
+   "domain": "runjs.app",
+   "author": "birdculture",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
    "excerpt": "",
    "signals": {
-    "points": 116,
-    "comments": 46
-   },
-   "key": "usr.lmf.cnrs.fr/lpo"
+    "points": 169,
+    "comments": 83
+   }
   },
   {
-   "id": "hn:49576386",
+   "id": "hn:49531619",
    "source": "hn",
    "sourceName": "Hacker News",
    "kind": "link",
-   "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
-   "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49576386",
-   "domain": "devquasar.com",
-   "author": "networked",
-   "publishedAt": "2026-09-05T13:36:38.000Z",
+   "title": "M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years",
+   "url": "https://en.wikipedia.org/wiki/M-DISC",
+   "discussionUrl": "https://news.ycombinator.com/item?id=49531619",
+   "domain": "en.wikipedia.org",
+   "author": "gurjeet",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
    "excerpt": "",
    "signals": {
-    "points": 223,
-    "comments": 71
-   },
-   "key": "devquasar.com/hardware/the-60-gaming-pc-amd-bc-250"
-  },
-  {
-   "id": "hn:49576343",
-   "source": "hn",
-   "sourceName": "Hacker News",
-   "kind": "link",
-   "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
-   "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49576343",
-   "domain": "sofiabelen.github.io",
-   "author": "torutofu",
-   "publishedAt": "2026-09-05T13:31:05.000Z",
-   "excerpt": "",
-   "signals": {
-    "points": 87,
+    "points": 24,
     "comments": 8
-   },
-   "key": "sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory"
+   }
   },
   {
-   "id": "hn:49549778",
+   "id": "hn:49546198",
    "source": "hn",
    "sourceName": "Hacker News",
    "kind": "link",
-   "title": "Balrogg: Demonically compacting (up to 15%) lossless Vorbis/Opus recompressor",
-   "url": "https://github.com/iczelia/balrogg",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49549778",
-   "domain": "github.com",
-   "author": "palaiologos",
-   "publishedAt": "2026-09-03T13:37:22.000Z",
+   "title": "IBM Quantum Nighthawk R2",
+   "url": "https://www.ibm.com/quantum/blog/nighthawk-r2",
+   "discussionUrl": "https://news.ycombinator.com/item?id=49546198",
+   "domain": "ibm.com",
+   "author": "fuglede_",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
    "excerpt": "",
    "signals": {
-    "points": 35,
+    "points": 22,
+    "comments": 8
+   }
+  },
+  {
+   "id": "hn:49529398",
+   "source": "hn",
+   "sourceName": "Hacker News",
+   "kind": "link",
+   "title": "The ColorChecker, photography's most important 24 squares, turns 50",
+   "url": "https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/",
+   "discussionUrl": "https://news.ycombinator.com/item?id=49529398",
+   "domain": "dpreview.com",
+   "author": "sohkamyung",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
+   "excerpt": "",
+   "signals": {
+    "points": 74,
+    "comments": 11
+   }
+  },
+  {
+   "id": "hn:49582656",
+   "source": "hn",
+   "sourceName": "Hacker News",
+   "kind": "link",
+   "title": "AI, Tools and Transformation",
+   "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+   "discussionUrl": "https://news.ycombinator.com/item?id=49582656",
+   "domain": "ben-evans.com",
+   "author": "firexcy",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
+   "excerpt": "",
+   "signals": {
+    "points": 76,
+    "comments": 30
+   }
+  },
+  {
+   "id": "hn:49584637",
+   "source": "hn",
+   "sourceName": "Hacker News",
+   "kind": "link",
+   "title": "You Don't Have a Right to Safe Drinking Water, US Court Rules",
+   "url": "https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/",
+   "discussionUrl": "https://news.ycombinator.com/item?id=49584637",
+   "domain": "motherjones.com",
+   "author": "vrganj",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
+   "excerpt": "",
+   "signals": {
+    "points": 154,
+    "comments": 91
+   }
+  },
+  {
+   "id": "hn:49582719",
+   "source": "hn",
+   "sourceName": "Hacker News",
+   "kind": "link",
+   "title": "AMD Based FreeBSD Desktop Reloaded",
+   "url": "https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/",
+   "discussionUrl": "https://news.ycombinator.com/item?id=49582719",
+   "domain": "vermaden.wordpress.com",
+   "author": "vermaden",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
+   "excerpt": "",
+   "signals": {
+    "points": 61,
     "comments": 7
-   },
-   "key": "github.com/iczelia/balrogg"
+   }
   },
   {
    "id": "hn:49563355",
@@ -155,49 +198,114 @@
    "discussionUrl": "https://news.ycombinator.com/item?id=49563355",
    "domain": "collusion.wiki",
    "author": "moultano",
-   "publishedAt": "2026-09-04T11:54:53.000Z",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
    "excerpt": "https://www.reuters.com/world/europe/openai-agents-hijacked-...",
    "signals": {
-    "points": 2040,
-    "comments": 1494
-   },
-   "key": "collusion.wiki"
+    "points": 2197,
+    "comments": 1552
+   }
   },
   {
-   "id": "hn:49580325",
+   "id": "hn:49539759",
    "source": "hn",
    "sourceName": "Hacker News",
    "kind": "link",
-   "title": "Isar Aerospace launch into orbit [video]",
-   "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49580325",
-   "domain": "youtube.com",
-   "author": "stefan_",
-   "publishedAt": "2026-09-05T20:25:30.000Z",
+   "title": "OpenBSD Stories: Strange Medieval Devices",
+   "url": "http://miod.online.fr/software/openbsd/stories/smd.html",
+   "discussionUrl": "https://news.ycombinator.com/item?id=49539759",
+   "domain": "miod.online.fr",
+   "author": "zdw",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
    "excerpt": "",
    "signals": {
-    "points": 44,
-    "comments": 7
-   },
-   "key": "youtube.com/watch?v=ss1duqljecc"
+    "points": 71,
+    "comments": 14
+   }
   },
   {
-   "id": "hn:49570669",
+   "id": "hn:49578280",
    "source": "hn",
    "sourceName": "Hacker News",
    "kind": "link",
-   "title": "Actively exploited sandbox RCE in all Chromium versions",
-   "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49570669",
-   "domain": "nvd.nist.gov",
-   "author": "negura",
-   "publishedAt": "2026-09-04T21:52:01.000Z",
+   "title": "Learn Programming with OCaml",
+   "url": "https://usr.lmf.cnrs.fr/lpo/",
+   "discussionUrl": "https://news.ycombinator.com/item?id=49578280",
+   "domain": "usr.lmf.cnrs.fr",
+   "author": "elvis70",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
    "excerpt": "",
    "signals": {
-    "points": 723,
-    "comments": 417
-   },
-   "key": "nvd.nist.gov/vuln/detail/cve-2026-85046"
+    "points": 264,
+    "comments": 100
+   }
+  },
+  {
+   "id": "hn:49581870",
+   "source": "hn",
+   "sourceName": "Hacker News",
+   "kind": "link",
+   "title": "Chrome again exempts Google from user site data settings",
+   "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
+   "discussionUrl": "https://news.ycombinator.com/item?id=49581870",
+   "domain": "lapcatsoftware.com",
+   "author": "ExMachina73",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
+   "excerpt": "",
+   "signals": {
+    "points": 440,
+    "comments": 66
+   }
+  },
+  {
+   "id": "hn:49576386",
+   "source": "hn",
+   "sourceName": "Hacker News",
+   "kind": "link",
+   "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
+   "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
+   "discussionUrl": "https://news.ycombinator.com/item?id=49576386",
+   "domain": "devquasar.com",
+   "author": "networked",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
+   "excerpt": "",
+   "signals": {
+    "points": 350,
+    "comments": 103
+   }
+  },
+  {
+   "id": "hn:49580369",
+   "source": "hn",
+   "sourceName": "Hacker News",
+   "kind": "link",
+   "title": "Private German rocket makes history, reaches orbit from European soil",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+   "discussionUrl": "https://news.ycombinator.com/item?id=49580369",
+   "domain": "space.com",
+   "author": "bookmtn",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
+   "excerpt": "",
+   "signals": {
+    "points": 638,
+    "comments": 342
+   }
+  },
+  {
+   "id": "hn:49580164",
+   "source": "hn",
+   "sourceName": "Hacker News",
+   "kind": "link",
+   "title": "LLMs as a Cognitive Virus",
+   "url": "https://arxiv.org/abs/2609.03344",
+   "discussionUrl": "https://news.ycombinator.com/item?id=49580164",
+   "domain": "arxiv.org",
+   "author": "canjobear",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
+   "excerpt": "",
+   "signals": {
+    "points": 290,
+    "comments": 205
+   }
   },
   {
    "id": "hn:49571634",
@@ -209,31 +317,97 @@
    "discussionUrl": "https://news.ycombinator.com/item?id=49571634",
    "domain": "codeberg.org",
    "author": "Cider9986",
-   "publishedAt": "2026-09-05T00:04:16.000Z",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
    "excerpt": "",
    "signals": {
-    "points": 576,
-    "comments": 265
-   },
-   "key": "codeberg.org/mv12star/shitter/wiki/instances"
+    "points": 687,
+    "comments": 357
+   }
   },
   {
-   "id": "hn:49552615",
+   "id": "hn:49527599",
    "source": "hn",
    "sourceName": "Hacker News",
    "kind": "link",
-   "title": "Steffen's Polyhedron",
-   "url": "https://www.gregegan.net/SCIENCE/Steffen/Steffen.html",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49552615",
-   "domain": "gregegan.net",
-   "author": "pavel_lishin",
-   "publishedAt": "2026-09-03T16:24:13.000Z",
+   "title": "Topologist's Map of the World",
+   "url": "https://www.futilitycloset.com/2026/09/01/small-world-20/",
+   "discussionUrl": "https://news.ycombinator.com/item?id=49527599",
+   "domain": "futilitycloset.com",
+   "author": "beardyw",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
    "excerpt": "",
    "signals": {
-    "points": 40,
-    "comments": 3
-   },
-   "key": "gregegan.net/science/steffen/steffen.html"
+    "points": 103,
+    "comments": 25
+   }
+  },
+  {
+   "id": "hn:49576343",
+   "source": "hn",
+   "sourceName": "Hacker News",
+   "kind": "link",
+   "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+   "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+   "discussionUrl": "https://news.ycombinator.com/item?id=49576343",
+   "domain": "sofiabelen.github.io",
+   "author": "torutofu",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
+   "excerpt": "",
+   "signals": {
+    "points": 180,
+    "comments": 38
+   }
+  },
+  {
+   "id": "hn:49582582",
+   "source": "hn",
+   "sourceName": "Hacker News",
+   "kind": "link",
+   "title": "GPT-6 Astra on robot arms",
+   "url": "https://openai.robocurve.org/gpt-6-astra/",
+   "discussionUrl": "https://news.ycombinator.com/item?id=49582582",
+   "domain": "openai.robocurve.org",
+   "author": "Anon84",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
+   "excerpt": "",
+   "signals": {
+    "points": 204,
+    "comments": 153
+   }
+  },
+  {
+   "id": "hn:49527110",
+   "source": "hn",
+   "sourceName": "Hacker News",
+   "kind": "link",
+   "title": "RecurseCenter.return()",
+   "url": "https://mm-dev.rocks/series/recursecenter.return/",
+   "discussionUrl": "https://news.ycombinator.com/item?id=49527110",
+   "domain": "mm-dev.rocks",
+   "author": "evakhoury",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
+   "excerpt": "",
+   "signals": {
+    "points": 53,
+    "comments": 8
+   }
+  },
+  {
+   "id": "hn:49548852",
+   "source": "hn",
+   "sourceName": "Hacker News",
+   "kind": "link",
+   "title": "How Swiss tables work in Go built-in map",
+   "url": "https://victoriametrics.com/blog/go-swiss-table-map/index.html",
+   "discussionUrl": "https://news.ycombinator.com/item?id=49548852",
+   "domain": "victoriametrics.com",
+   "author": "valyala",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
+   "excerpt": "",
+   "signals": {
+    "points": 83,
+    "comments": 6
+   }
   },
   {
    "id": "hn:49539110",
@@ -245,121 +419,29 @@
    "discussionUrl": "https://news.ycombinator.com/item?id=49539110",
    "domain": "lttlabs.com",
    "author": "willx86",
-   "publishedAt": "2026-09-02T16:56:03.000Z",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
    "excerpt": "",
    "signals": {
-    "points": 31,
-    "comments": 0
-   },
-   "key": "lttlabs.com/articles/2026/09/02/delidded-intel-i9-14900ks"
+    "points": 109,
+    "comments": 11
+   }
   },
   {
-   "id": "hn:49575150",
+   "id": "hn:49549778",
    "source": "hn",
    "sourceName": "Hacker News",
    "kind": "link",
-   "title": "Terpstra Keyboard",
-   "url": "http://terpstrakeyboard.com/",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49575150",
-   "domain": "terpstrakeyboard.com",
-   "author": "cl3misch",
-   "publishedAt": "2026-09-05T10:33:01.000Z",
+   "title": "Balrogg: Demonically compacting (up to 15%) lossless Vorbis/Opus recompressor",
+   "url": "https://github.com/iczelia/balrogg",
+   "discussionUrl": "https://news.ycombinator.com/item?id=49549778",
+   "domain": "github.com",
+   "author": "palaiologos",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
    "excerpt": "",
    "signals": {
-    "points": 103,
-    "comments": 48
-   },
-   "key": "terpstrakeyboard.com"
-  },
-  {
-   "id": "hn:49568506",
-   "source": "hn",
-   "sourceName": "Hacker News",
-   "kind": "link",
-   "title": "Formalizing Fermat's Last Theorem",
-   "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49568506",
-   "domain": "anthropic.com",
-   "author": "jlebar",
-   "publishedAt": "2026-09-04T18:42:56.000Z",
-   "excerpt": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-h...",
-   "signals": {
-    "points": 732,
-    "comments": 473
-   },
-   "key": "anthropic.com/research/formalizing-fermats-last-theorem"
-  },
-  {
-   "id": "hn:49525188",
-   "source": "hn",
-   "sourceName": "Hacker News",
-   "kind": "link",
-   "title": "Stopping the Unstoppable: When an unstoppable force meets a dashpot snubber",
-   "url": "https://practical.engineering/blog/2026/9/1/stopping-the-unstoppable",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49525188",
-   "domain": "practical.engineering",
-   "author": "crescit_eundo",
-   "publishedAt": "2026-09-01T17:38:10.000Z",
-   "excerpt": "",
-   "signals": {
-    "points": 33,
-    "comments": 3
-   },
-   "key": "practical.engineering/blog/2026/9/1/stopping-the-unstoppable"
-  },
-  {
-   "id": "hn:49577975",
-   "source": "hn",
-   "sourceName": "Hacker News",
-   "kind": "link",
-   "title": "Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA",
-   "url": "https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49577975",
-   "domain": "wikiworkersunited.org",
-   "author": "robin_reala",
-   "publishedAt": "2026-09-05T16:13:57.000Z",
-   "excerpt": "",
-   "signals": {
-    "points": 230,
-    "comments": 95
-   },
-   "key": "wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa"
-  },
-  {
-   "id": "hn:49575859",
-   "source": "hn",
-   "sourceName": "Hacker News",
-   "kind": "link",
-   "title": "A bizarre Commodore 64 peripheral, a mime, and some pretty bad ads",
-   "url": "https://buttondown.com/suchbadtechads/archive/spartan-and-the-mime/",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49575859",
-   "domain": "buttondown.com",
-   "author": "rfarley04",
-   "publishedAt": "2026-09-05T12:23:51.000Z",
-   "excerpt": "",
-   "signals": {
-    "points": 61,
-    "comments": 4
-   },
-   "key": "buttondown.com/suchbadtechads/archive/spartan-and-the-mime"
-  },
-  {
-   "id": "hn:49535940",
-   "source": "hn",
-   "sourceName": "Hacker News",
-   "kind": "link",
-   "title": "Singapore subway (mrt) information display types",
-   "url": "https://www.sgtrains.com/technology-infosys.html",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49535940",
-   "domain": "sgtrains.com",
-   "author": "gregorvand",
-   "publishedAt": "2026-09-02T13:30:09.000Z",
-   "excerpt": "",
-   "signals": {
-    "points": 35,
-    "comments": 7
-   },
-   "key": "sgtrains.com/technology-infosys.html"
+    "points": 90,
+    "comments": 12
+   }
   },
   {
    "id": "hn:49569896",
@@ -371,13 +453,29 @@
    "discussionUrl": "https://news.ycombinator.com/item?id=49569896",
    "domain": "statichost.eu",
    "author": "p4bl0",
-   "publishedAt": "2026-09-04T20:34:49.000Z",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
    "excerpt": "",
    "signals": {
-    "points": 428,
-    "comments": 193
-   },
-   "key": "statichost.eu"
+    "points": 487,
+    "comments": 228
+   }
+  },
+  {
+   "id": "hn:49575150",
+   "source": "hn",
+   "sourceName": "Hacker News",
+   "kind": "link",
+   "title": "Terpstra Keyboard",
+   "url": "http://terpstrakeyboard.com/",
+   "discussionUrl": "https://news.ycombinator.com/item?id=49575150",
+   "domain": "terpstrakeyboard.com",
+   "author": "cl3misch",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
+   "excerpt": "",
+   "signals": {
+    "points": 137,
+    "comments": 63
+   }
   },
   {
    "id": "hn:49569366",
@@ -389,121 +487,80 @@
    "discussionUrl": "https://news.ycombinator.com/item?id=49569366",
    "domain": "eebench.org",
    "author": "iopapa",
-   "publishedAt": "2026-09-04T19:48:29.000Z",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
    "excerpt": "",
    "signals": {
-    "points": 351,
-    "comments": 203
-   },
-   "key": "eebench.org/blog/can-ai-design-circuit-boards-yet"
+    "points": 408,
+    "comments": 225
+   }
   },
   {
-   "id": "hn:49576258",
+   "id": "hn:49570669",
    "source": "hn",
    "sourceName": "Hacker News",
    "kind": "link",
-   "title": ".gitignore Everything by Default",
-   "url": "https://packagemain.tech/p/gitignore-everything-by-default",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49576258",
-   "domain": "packagemain.tech",
-   "author": "der_gopher",
-   "publishedAt": "2026-09-05T13:19:42.000Z",
+   "title": "Actively exploited sandbox RCE in all Chromium versions",
+   "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+   "discussionUrl": "https://news.ycombinator.com/item?id=49570669",
+   "domain": "nvd.nist.gov",
+   "author": "negura",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
    "excerpt": "",
    "signals": {
-    "points": 127,
-    "comments": 138
-   },
-   "key": "packagemain.tech/p/gitignore-everything-by-default"
+    "points": 779,
+    "comments": 473
+   }
   },
   {
-   "id": "hn:49540253",
+   "id": "hn:49579956",
    "source": "hn",
    "sourceName": "Hacker News",
    "kind": "link",
-   "title": "A Million Falcons Went Missing. Here’s How They Were Found",
-   "url": "https://www.nationalgeographic.com/animals/article/falcons-migration-angola-falcopolis",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49540253",
-   "domain": "nationalgeographic.com",
-   "author": "bryanrasmussen",
-   "publishedAt": "2026-09-02T18:19:53.000Z",
+   "title": "ISAR Aerospace 5 Sept Mission Onward and Upward",
+   "url": "https://isaraerospace.com/mission-updates-overview",
+   "discussionUrl": "https://news.ycombinator.com/item?id=49579956",
+   "domain": "isaraerospace.com",
+   "author": "t43562",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
    "excerpt": "",
    "signals": {
-    "points": 58,
-    "comments": 26
-   },
-   "key": "nationalgeographic.com/animals/article/falcons-migration-angola-falcopolis"
+    "points": 41,
+    "comments": 4
+   }
   },
   {
-   "id": "hn:49574167",
+   "id": "hn:49525188",
    "source": "hn",
    "sourceName": "Hacker News",
    "kind": "link",
-   "title": "AI handles incidents, engineers lose touch with their systems",
-   "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49574167",
-   "domain": "sylvainkalache.com",
-   "author": "sylvainkalache",
-   "publishedAt": "2026-09-05T07:52:50.000Z",
+   "title": "Stopping the Unstoppable: When an unstoppable force meets a dashpot snubber",
+   "url": "https://practical.engineering/blog/2026/9/1/stopping-the-unstoppable",
+   "discussionUrl": "https://news.ycombinator.com/item?id=49525188",
+   "domain": "practical.engineering",
+   "author": "crescit_eundo",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
    "excerpt": "",
    "signals": {
-    "points": 348,
-    "comments": 305
-   },
-   "key": "sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems"
+    "points": 69,
+    "comments": 10
+   }
   },
   {
-   "id": "hn:49573680",
+   "id": "hn:49580329",
    "source": "hn",
    "sourceName": "Hacker News",
    "kind": "link",
-   "title": "Git hosting that never leaves Europe",
-   "url": "https://pushin.eu",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49573680",
-   "domain": "pushin.eu",
-   "author": "sevenseacat",
-   "publishedAt": "2026-09-05T06:31:49.000Z",
+   "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
+   "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
+   "discussionUrl": "https://news.ycombinator.com/item?id=49580329",
+   "domain": "terrytao.wordpress.com",
+   "author": "gmays",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
    "excerpt": "",
    "signals": {
-    "points": 297,
-    "comments": 147
-   },
-   "key": "pushin.eu"
-  },
-  {
-   "id": "hn:49545430",
-   "source": "hn",
-   "sourceName": "Hacker News",
-   "kind": "link",
-   "title": "Write Software in Latin (2025) [video]",
-   "url": "https://www.youtube.com/watch?v=fGZpaqMha0o",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49545430",
-   "domain": "youtube.com",
-   "author": "akkartik",
-   "publishedAt": "2026-09-03T02:53:46.000Z",
-   "excerpt": "",
-   "signals": {
-    "points": 34,
-    "comments": 15
-   },
-   "key": "youtube.com/watch?v=fgzpaqmha0o"
-  },
-  {
-   "id": "hn:49567437",
-   "source": "hn",
-   "sourceName": "Hacker News",
-   "kind": "link",
-   "title": "Show HN: Open-Source eInk Bike Computer",
-   "url": "https://opentrailpaper.com",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49567437",
-   "domain": "opentrailpaper.com",
-   "author": "stingrae",
-   "publishedAt": "2026-09-04T17:18:08.000Z",
-   "excerpt": "Hey all, i just launched my Eink Bike computer project and think it is cool. Another tidbit, in the crazy things that AI has done... It has helped create a ANT (common sensor wireless protocol used in workout/biking) im…",
-   "signals": {
-    "points": 379,
-    "comments": 117
-   },
-   "key": "opentrailpaper.com"
+    "points": 70,
+    "comments": 41
+   }
   },
   {
    "id": "hn:49533840",
@@ -515,139 +572,46 @@
    "discussionUrl": "https://news.ycombinator.com/item?id=49533840",
    "domain": "news.ycombinator.com",
    "author": "tosmatos",
-   "publishedAt": "2026-09-02T09:24:11.000Z",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
    "excerpt": "Hello. I've recently started soldering, specifically wanting to repair the joysticks on several Playstation 4 controllers I have, but I also want to get good at electronic repair in general. Right now I've busted a boar…",
    "signals": {
-    "points": 222,
-    "comments": 143
-   },
-   "key": "news.ycombinator.com/item?id=49533840"
+    "points": 260,
+    "comments": 161
+   }
   },
   {
-   "id": "hn:49568579",
+   "id": "hn:49567437",
    "source": "hn",
    "sourceName": "Hacker News",
    "kind": "link",
-   "title": "Shutting down our public encrypted DNS",
-   "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49568579",
-   "domain": "mullvad.net",
-   "author": "mywacaday",
-   "publishedAt": "2026-09-04T18:50:28.000Z",
-   "excerpt": "",
+   "title": "Show HN: Open-Source eInk Bike Computer",
+   "url": "https://opentrailpaper.com/",
+   "discussionUrl": "https://news.ycombinator.com/item?id=49567437",
+   "domain": "opentrailpaper.com",
+   "author": "stingrae",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
+   "excerpt": "Hey all, i just launched my Eink Bike computer project and think it is cool. Another tidbit, in the crazy things that AI has done... It has helped create a ANT (common sensor wireless protocol used in workout/biking) im…",
    "signals": {
-    "points": 434,
-    "comments": 215
-   },
-   "key": "mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead"
+    "points": 398,
+    "comments": 126
+   }
   },
   {
-   "id": "hn:49570545",
+   "id": "hn:49575859",
    "source": "hn",
    "sourceName": "Hacker News",
    "kind": "link",
-   "title": "GPT-6 Astra on OpenRouter",
-   "url": "https://openrouter.ai/openai/gpt-6-astra",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49570545",
-   "domain": "openrouter.ai",
-   "author": "Topfi",
-   "publishedAt": "2026-09-04T21:39:19.000Z",
+   "title": "A bizarre Commodore 64 peripheral, a mime, and some pretty bad ads",
+   "url": "https://buttondown.com/suchbadtechads/archive/spartan-and-the-mime/",
+   "discussionUrl": "https://news.ycombinator.com/item?id=49575859",
+   "domain": "buttondown.com",
+   "author": "rfarley04",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
    "excerpt": "",
    "signals": {
-    "points": 295,
-    "comments": 219
-   },
-   "key": "openrouter.ai/openai/gpt-6-astra"
-  },
-  {
-   "id": "hn:49580248",
-   "source": "hn",
-   "sourceName": "Hacker News",
-   "kind": "link",
-   "title": "Space industry lacks workers needed to rebuild satellites lost in war: report",
-   "url": "https://www.defensenews.com/industry/techwatch/2026/09/04/space-industry-lacks-workers-needed-to-rebuild-satellites-lost-in-war-report-says/",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49580248",
-   "domain": "defensenews.com",
-   "author": "billybuckwheat",
-   "publishedAt": "2026-09-05T20:14:25.000Z",
-   "excerpt": "",
-   "signals": {
-    "points": 31,
-    "comments": 40
-   },
-   "key": "defensenews.com/industry/techwatch/2026/09/04/space-industry-lacks-workers-needed-to-rebuild-satellites-lost-in-war-report-says"
-  },
-  {
-   "id": "hn:49535024",
-   "source": "hn",
-   "sourceName": "Hacker News",
-   "kind": "link",
-   "title": "Pointing at the error: compiler-style diagnostics in uutils coreutils",
-   "url": "https://uutils.org/blog/2026-08-error-diagnostics/",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49535024",
-   "domain": "uutils.org",
-   "author": "ingve",
-   "publishedAt": "2026-09-02T12:05:05.000Z",
-   "excerpt": "",
-   "signals": {
-    "points": 67,
-    "comments": 8
-   },
-   "key": "uutils.org/blog/2026-08-error-diagnostics"
-  },
-  {
-   "id": "hn:49563851",
-   "source": "hn",
-   "sourceName": "Hacker News",
-   "kind": "link",
-   "title": "IBM Bob",
-   "url": "https://bob.ibm.com/",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49563851",
-   "domain": "bob.ibm.com",
-   "author": "artpar",
-   "publishedAt": "2026-09-04T12:50:29.000Z",
-   "excerpt": "",
-   "signals": {
-    "points": 325,
-    "comments": 323
-   },
-   "key": "bob.ibm.com"
-  },
-  {
-   "id": "hn:49576986",
-   "source": "hn",
-   "sourceName": "Hacker News",
-   "kind": "link",
-   "title": "How the Disaster of \"Forever Chemicals\" Was Kept Secret",
-   "url": "https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49576986",
-   "domain": "propublica.org",
-   "author": "stevenwoo",
-   "publishedAt": "2026-09-05T14:40:52.000Z",
-   "excerpt": "",
-   "signals": {
-    "points": 267,
-    "comments": 83
-   },
-   "key": "propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen"
-  },
-  {
-   "id": "hn:49576611",
-   "source": "hn",
-   "sourceName": "Hacker News",
-   "kind": "link",
-   "title": "Meet the Ig Nobel Prize Winners",
-   "url": "https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49576611",
-   "domain": "arstechnica.com",
-   "author": "mkl",
-   "publishedAt": "2026-09-05T14:02:44.000Z",
-   "excerpt": "",
-   "signals": {
-    "points": 92,
-    "comments": 25
-   },
-   "key": "arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners"
+    "points": 97,
+    "comments": 12
+   }
   },
   {
    "id": "hn:49554643",
@@ -659,103 +623,182 @@
    "discussionUrl": "https://news.ycombinator.com/item?id=49554643",
    "domain": "openai.com",
    "author": "kibae",
-   "publishedAt": "2026-09-03T18:41:05.000Z",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
    "excerpt": "System Card: https://deploymentsafety.openai.com/gpt-6-astra Related ongoing threads: OpenAI's GPT-6 Astra on ARC-AGI-3 - https://news.ycombinator.com/item?id=49555691 GPT-6 Astra makes major gains in the Artificial Ana…",
    "signals": {
-    "points": 2216,
-    "comments": 2031
-   },
-   "key": "openai.com/index/gpt-6-astra"
+    "points": 2235,
+    "comments": 2047
+   }
   },
   {
-   "id": "hn:49571465",
+   "id": "hn:49535940",
    "source": "hn",
    "sourceName": "Hacker News",
    "kind": "link",
-   "title": "Portal by Spotify cut my Claude Code token usage by 90%",
-   "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49571465",
-   "domain": "engineering.atspotify.com",
-   "author": "cebert",
-   "publishedAt": "2026-09-04T23:38:50.000Z",
+   "title": "Singapore subway (mrt) information display types",
+   "url": "https://www.sgtrains.com/technology-infosys.html",
+   "discussionUrl": "https://news.ycombinator.com/item?id=49535940",
+   "domain": "sgtrains.com",
+   "author": "gregorvand",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
    "excerpt": "",
    "signals": {
-    "points": 239,
-    "comments": 151
-   },
-   "key": "engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90"
+    "points": 56,
+    "comments": 19
+   }
   },
   {
-   "id": "hn:49519850",
+   "id": "hn:49568506",
    "source": "hn",
    "sourceName": "Hacker News",
    "kind": "link",
-   "title": "Git Submodules as a Package Manager",
-   "url": "https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49519850",
-   "domain": "nesbitt.io",
-   "author": "ErenayDev",
-   "publishedAt": "2026-09-01T09:36:10.000Z",
+   "title": "Formalizing Fermat's Last Theorem",
+   "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+   "discussionUrl": "https://news.ycombinator.com/item?id=49568506",
+   "domain": "anthropic.com",
+   "author": "jlebar",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
+   "excerpt": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-h...",
+   "signals": {
+    "points": 758,
+    "comments": 493
+   }
+  },
+  {
+   "id": "hn:49570545",
+   "source": "hn",
+   "sourceName": "Hacker News",
+   "kind": "link",
+   "title": "GPT-6 Astra on OpenRouter",
+   "url": "https://openrouter.ai/openai/gpt-6-astra",
+   "discussionUrl": "https://news.ycombinator.com/item?id=49570545",
+   "domain": "openrouter.ai",
+   "author": "Topfi",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
    "excerpt": "",
    "signals": {
-    "points": 83,
-    "comments": 30
-   },
-   "key": "nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html"
+    "points": 313,
+    "comments": 226
+   }
   },
   {
-   "id": "hn:49562219",
+   "id": "hn:49552615",
    "source": "hn",
    "sourceName": "Hacker News",
    "kind": "link",
-   "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
-   "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49562219",
-   "domain": "github.com",
-   "author": "gioscarab",
-   "publishedAt": "2026-09-04T09:03:00.000Z",
-   "excerpt": "I love research and development, you may have heard of me because of PJON (Padded Jittering Operative Network). It is a network protocol I started developing in 2010, which was recently implemented in silicon by the ETH…",
-   "signals": {
-    "points": 184,
-    "comments": 44
-   },
-   "key": "github.com/gioblu/npc-forge/blob/main/docs/development.md"
-  },
-  {
-   "id": "hn:49571047",
-   "source": "hn",
-   "sourceName": "Hacker News",
-   "kind": "link",
-   "title": "Can guitar frets perform multiplication?",
-   "url": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49571047",
-   "domain": "charlespetzold.com",
-   "author": "wibbily",
-   "publishedAt": "2026-09-04T22:40:30.000Z",
+   "title": "Steffen's Polyhedron",
+   "url": "https://www.gregegan.net/SCIENCE/Steffen/Steffen.html",
+   "discussionUrl": "https://news.ycombinator.com/item?id=49552615",
+   "domain": "gregegan.net",
+   "author": "pavel_lishin",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
    "excerpt": "",
    "signals": {
-    "points": 123,
+    "points": 63,
+    "comments": 5
+   }
+  },
+  {
+   "id": "hn:49583842",
+   "source": "hn",
+   "sourceName": "Hacker News",
+   "kind": "link",
+   "title": "Site Is Closed on Sundays",
+   "url": "https://v7.robweychert.com/",
+   "discussionUrl": "https://news.ycombinator.com/item?id=49583842",
+   "domain": "v7.robweychert.com",
+   "author": "edent",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
+   "excerpt": "",
+   "signals": {
+    "points": 90,
+    "comments": 115
+   }
+  },
+  {
+   "id": "hn:49519101",
+   "source": "hn",
+   "sourceName": "Hacker News",
+   "kind": "link",
+   "title": "Show HN: Fly By – retro biplane flying game",
+   "url": "https://michaelteter.com/flyby.html",
+   "discussionUrl": "https://news.ycombinator.com/item?id=49519101",
+   "domain": "michaelteter.com",
+   "author": "michaelteter",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
+   "excerpt": "Feedback welcome. Best on desktop. Works on mobile, but needs more polish there. My concept, my guidance, and Gemini Flash doing the work. Took about 4 hours and 50+ conversations with Gemini. Big Kudos to Gemini Flash…",
+   "signals": {
+    "points": 82,
+    "comments": 54
+   }
+  },
+  {
+   "id": "hn:49584123",
+   "source": "hn",
+   "sourceName": "Hacker News",
+   "kind": "link",
+   "title": "Play GTA Vice City in the Browser",
+   "url": "https://quenq.com/apps/vice-city-online/",
+   "discussionUrl": "https://news.ycombinator.com/item?id=49584123",
+   "domain": "quenq.com",
+   "author": "rzk",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
+   "excerpt": "",
+   "signals": {
+    "points": 72,
+    "comments": 31
+   }
+  },
+  {
+   "id": "hn:49573680",
+   "source": "hn",
+   "sourceName": "Hacker News",
+   "kind": "link",
+   "title": "Git hosting that never leaves Europe",
+   "url": "https://pushin.eu/",
+   "discussionUrl": "https://news.ycombinator.com/item?id=49573680",
+   "domain": "pushin.eu",
+   "author": "sevenseacat",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
+   "excerpt": "",
+   "signals": {
+    "points": 346,
+    "comments": 157
+   }
+  },
+  {
+   "id": "hn:49540253",
+   "source": "hn",
+   "sourceName": "Hacker News",
+   "kind": "link",
+   "title": "A Million Falcons Went Missing. Here’s How They Were Found",
+   "url": "https://www.nationalgeographic.com/animals/article/falcons-migration-angola-falcopolis",
+   "discussionUrl": "https://news.ycombinator.com/item?id=49540253",
+   "domain": "nationalgeographic.com",
+   "author": "bryanrasmussen",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
+   "excerpt": "",
+   "signals": {
+    "points": 76,
     "comments": 33
-   },
-   "key": "charlespetzold.com/blog/2026/09/can-guitar-frets-perform-multiplication.html"
+   }
   },
   {
-   "id": "hn:49571632",
+   "id": "hn:49576258",
    "source": "hn",
    "sourceName": "Hacker News",
    "kind": "link",
-   "title": "Artificial Analysis Intelligence Index v4.2",
-   "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49571632",
-   "domain": "artificialanalysis.ai",
-   "author": "nojs",
-   "publishedAt": "2026-09-05T00:04:14.000Z",
+   "title": ".gitignore Everything by Default",
+   "url": "https://packagemain.tech/p/gitignore-everything-by-default",
+   "discussionUrl": "https://news.ycombinator.com/item?id=49576258",
+   "domain": "packagemain.tech",
+   "author": "der_gopher",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
    "excerpt": "",
    "signals": {
-    "points": 143,
-    "comments": 62
-   },
-   "key": "artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2"
+    "points": 172,
+    "comments": 169
+   }
   },
   {
    "id": "hn:49550772",
@@ -767,193 +810,101 @@
    "discussionUrl": "https://news.ycombinator.com/item?id=49550772",
    "domain": "neil.fraser.name",
    "author": "pavel_lishin",
-   "publishedAt": "2026-09-03T14:54:39.000Z",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
    "excerpt": "",
    "signals": {
-    "points": 2190,
-    "comments": 536
-   },
-   "key": "neil.fraser.name/news/2026/09/03"
+    "points": 2202,
+    "comments": 538
+   }
   },
   {
-   "id": "hn:49567873",
+   "id": "hn:49568579",
    "source": "hn",
    "sourceName": "Hacker News",
    "kind": "link",
-   "title": "The Rust React Compiler is now native in Vite",
-   "url": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49567873",
-   "domain": "blog.master.dev",
-   "author": "acusti",
-   "publishedAt": "2026-09-04T17:49:09.000Z",
+   "title": "Shutting down our public encrypted DNS",
+   "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+   "discussionUrl": "https://news.ycombinator.com/item?id=49568579",
+   "domain": "mullvad.net",
+   "author": "mywacaday",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
    "excerpt": "",
    "signals": {
-    "points": 163,
-    "comments": 48
-   },
-   "key": "blog.master.dev/react-now-rusted-all-the-way-out"
+    "points": 465,
+    "comments": 235
+   }
   },
   {
-   "id": "hn:49529161",
+   "id": "hn:49581240",
    "source": "hn",
    "sourceName": "Hacker News",
    "kind": "link",
-   "title": "Decompiler Explorer",
-   "url": "https://dogbolt.org",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49529161",
-   "domain": "dogbolt.org",
-   "author": "tripdout",
-   "publishedAt": "2026-09-01T22:33:15.000Z",
+   "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+   "url": "https://github.com/okf-memory/okf-agent-memory",
+   "discussionUrl": "https://news.ycombinator.com/item?id=49581240",
+   "domain": "github.com",
+   "author": "okf_memory",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
    "excerpt": "",
    "signals": {
-    "points": 125,
-    "comments": 7
-   },
-   "key": "dogbolt.org"
+    "points": 68,
+    "comments": 20
+   }
   },
   {
-   "id": "hn:49569663",
+   "id": "hn:49562219",
    "source": "hn",
    "sourceName": "Hacker News",
    "kind": "link",
-   "title": "An open DNS recursive service for free security and high privacy",
-   "url": "https://quad9.net/",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49569663",
-   "domain": "quad9.net",
-   "author": "mooreds",
-   "publishedAt": "2026-09-04T20:13:08.000Z",
-   "excerpt": "",
+   "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
+   "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
+   "discussionUrl": "https://news.ycombinator.com/item?id=49562219",
+   "domain": "github.com",
+   "author": "gioscarab",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
+   "excerpt": "I love research and development, you may have heard of me because of PJON (Padded Jittering Operative Network). It is a network protocol I started developing in 2010, which was recently implemented in silicon by the ETH…",
    "signals": {
-    "points": 113,
-    "comments": 35
-   },
-   "key": "quad9.net"
+    "points": 201,
+    "comments": 45
+   }
   },
   {
-   "id": "hn:49566193",
+   "id": "hn:49574167",
    "source": "hn",
    "sourceName": "Hacker News",
    "kind": "link",
-   "title": "deSEC – Free Secure DNS",
-   "url": "https://desec.io/",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49566193",
-   "domain": "desec.io",
-   "author": "gurjeet",
-   "publishedAt": "2026-09-04T15:38:58.000Z",
+   "title": "AI handles incidents, engineers lose touch with their systems",
+   "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+   "discussionUrl": "https://news.ycombinator.com/item?id=49574167",
+   "domain": "sylvainkalache.com",
+   "author": "sylvainkalache",
+   "publishedAt": "2026-09-06T11:48:38.486Z",
    "excerpt": "",
    "signals": {
-    "points": 150,
-    "comments": 53
-   },
-   "key": "desec.io"
+    "points": 383,
+    "comments": 334
+   }
   },
   {
-   "id": "hn:49568828",
-   "source": "hn",
-   "sourceName": "Hacker News",
+   "id": "lob:ceuque",
+   "source": "lobsters",
+   "sourceName": "lobste.rs",
    "kind": "link",
-   "title": "Government Rails Site Hit Hours After CVE Patch",
-   "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49568828",
-   "domain": "rietta.com",
-   "author": "rietta",
-   "publishedAt": "2026-09-04T19:06:39.000Z",
+   "title": "Debian Code Search: Fast TurboPFor with Go SIMD",
+   "url": "https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/",
+   "discussionUrl": "https://lobste.rs/s/ceuque/debian_code_search_fast_turbopfor_with_go",
+   "domain": "michael.stapelberg.ch",
+   "author": "stapelberg",
+   "publishedAt": "2026-09-06T07:03:41.931Z",
    "excerpt": "",
+   "tags": [
+    "go",
+    "performance"
+   ],
    "signals": {
-    "points": 110,
-    "comments": 35
-   },
-   "key": "rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch"
-  },
-  {
-   "id": "hn:49516962",
-   "source": "hn",
-   "sourceName": "Hacker News",
-   "kind": "link",
-   "title": "Kale: A Transformation-Safe Spreadsheet System",
-   "url": "https://arxiv.org/abs/2608.26345",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49516962",
-   "domain": "arxiv.org",
-   "author": "zdw",
-   "publishedAt": "2026-09-01T01:42:30.000Z",
-   "excerpt": "",
-   "signals": {
-    "points": 49,
-    "comments": 15
-   },
-   "key": "arxiv.org/abs/2608.26345"
-  },
-  {
-   "id": "hn:49516312",
-   "source": "hn",
-   "sourceName": "Hacker News",
-   "kind": "link",
-   "title": "Elevator of the Year: Modernization of the Metropolis Trust Building",
-   "url": "https://www.starelevator.com/projects/star-elevator-modernization-of-the-metropolis-trust-building",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49516312",
-   "domain": "starelevator.com",
-   "author": "palashawas",
-   "publishedAt": "2026-09-01T00:01:13.000Z",
-   "excerpt": "",
-   "signals": {
-    "points": 152,
-    "comments": 55
-   },
-   "key": "starelevator.com/projects/star-elevator-modernization-of-the-metropolis-trust-building"
-  },
-  {
-   "id": "hn:49567310",
-   "source": "hn",
-   "sourceName": "Hacker News",
-   "kind": "link",
-   "title": "“Next-token predictor” is the wrong mental model for LLMs",
-   "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49567310",
-   "domain": "gmcgoldr.github.io",
-   "author": "garrinm",
-   "publishedAt": "2026-09-04T17:09:24.000Z",
-   "excerpt": "",
-   "signals": {
-    "points": 141,
-    "comments": 284
-   },
-   "key": "gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html"
-  },
-  {
-   "id": "hn:49546284",
-   "source": "hn",
-   "sourceName": "Hacker News",
-   "kind": "link",
-   "title": "RSA-260 Factorized",
-   "url": "https://twitter.com/penlume/status/2095372672356212876",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49546284",
-   "domain": "twitter.com",
-   "author": "samyok",
-   "publishedAt": "2026-09-03T05:35:31.000Z",
-   "excerpt": "https://lilting.ch/en/articles/rsa-260-factored-how-computed https://www.scientificamerican.com/article/whats-the-tech-be... https://en.wikipedia.org/wiki/RSA_numbers#RSA-260",
-   "signals": {
-    "points": 130,
-    "comments": 76
-   },
-   "key": "twitter.com/penlume/status/2095372672356212876"
-  },
-  {
-   "id": "hn:49575034",
-   "source": "hn",
-   "sourceName": "Hacker News",
-   "kind": "link",
-   "title": "Netherlands pulls gold out of the US",
-   "url": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
-   "discussionUrl": "https://news.ycombinator.com/item?id=49575034",
-   "domain": "abc.net.au",
-   "author": "daniel_iversen",
-   "publishedAt": "2026-09-05T10:14:28.000Z",
-   "excerpt": "",
-   "signals": {
-    "points": 335,
-    "comments": 243
-   },
-   "key": "abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990"
+    "points": 14,
+    "comments": 0
+   }
   },
   {
    "id": "lob:64n3wp",
@@ -972,10 +923,112 @@
     "zig"
    ],
    "signals": {
+    "points": 31,
+    "comments": 18
+   }
+  },
+  {
+   "id": "lob:ben6a4",
+   "source": "lobsters",
+   "sourceName": "lobste.rs",
+   "kind": "link",
+   "title": "M2: Episode 1 (or, Asahi Linux on M3)",
+   "url": "https://asahilinux.org/2026/09/m2-episode-1/",
+   "discussionUrl": "https://lobste.rs/s/ben6a4/m2_episode_1_asahi_linux_on_m3",
+   "domain": "asahilinux.org",
+   "author": "kreeft",
+   "publishedAt": "2026-09-06T00:52:57.915Z",
+   "excerpt": "",
+   "tags": [
+    "linux",
+    "mac",
+    "release"
+   ],
+   "signals": {
+    "points": 36,
+    "comments": 0
+   }
+  },
+  {
+   "id": "lob:i9zp2x",
+   "source": "lobsters",
+   "sourceName": "lobste.rs",
+   "kind": "link",
+   "title": "Any Nix package, live in your browser",
+   "url": "https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser",
+   "discussionUrl": "https://lobste.rs/s/i9zp2x/any_nix_package_live_your_browser",
+   "domain": "fzakaria.com",
+   "author": "diktomat",
+   "publishedAt": "2026-09-06T07:09:11.718Z",
+   "excerpt": "",
+   "tags": [
+    "nix"
+   ],
+   "signals": {
     "points": 15,
-    "comments": 10
-   },
-   "key": "codeberg.org/hgrsd/zopt"
+    "comments": 1
+   }
+  },
+  {
+   "id": "lob:dxjvcc",
+   "source": "lobsters",
+   "sourceName": "lobste.rs",
+   "kind": "link",
+   "title": "It matters who teaches you",
+   "url": "https://bastiangruber.ca/posts/it-matters-who-teaches-you/",
+   "discussionUrl": "https://lobste.rs/s/dxjvcc/it_matters_who_teaches_you",
+   "domain": "bastiangruber.ca",
+   "author": "gruberb",
+   "publishedAt": "2026-09-05T17:47:34.482Z",
+   "excerpt": "",
+   "tags": [
+    "education",
+    "vibecoding"
+   ],
+   "signals": {
+    "points": 31,
+    "comments": 2
+   }
+  },
+  {
+   "id": "lob:rfn2mn",
+   "source": "lobsters",
+   "sourceName": "lobste.rs",
+   "kind": "link",
+   "title": "There's No Limit to How Bad Code Can Get",
+   "url": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/",
+   "discussionUrl": "https://lobste.rs/s/rfn2mn/there_s_no_limit_how_bad_code_can_get",
+   "domain": "zachkehs.com",
+   "author": "rau",
+   "publishedAt": "2026-09-06T02:05:52.226Z",
+   "excerpt": "",
+   "tags": [
+    "practices"
+   ],
+   "signals": {
+    "points": 13,
+    "comments": 4
+   }
+  },
+  {
+   "id": "lob:1kdrx2",
+   "source": "lobsters",
+   "sourceName": "lobste.rs",
+   "kind": "link",
+   "title": "How To: Federated Stars",
+   "url": "https://domaindrivenarchitecture.org/blog/2024-06-05-howto-federated-stars/",
+   "discussionUrl": "https://lobste.rs/s/1kdrx2/how_federated_stars",
+   "domain": "domaindrivenarchitecture.org",
+   "author": "tusharhero",
+   "publishedAt": "2026-09-06T06:05:41.954Z",
+   "excerpt": "",
+   "tags": [
+    "vcs"
+   ],
+   "signals": {
+    "points": 6,
+    "comments": 4
+   }
   },
   {
    "id": "lob:p5w5j6",
@@ -995,10 +1048,51 @@
     "security"
    ],
    "signals": {
-    "points": 48,
-    "comments": 8
-   },
-   "key": "arxiv.org/abs/2607.24888"
+    "points": 61,
+    "comments": 12
+   }
+  },
+  {
+   "id": "lob:rcddma",
+   "source": "lobsters",
+   "sourceName": "lobste.rs",
+   "kind": "link",
+   "title": "Beyond ORMs",
+   "url": "https://noteflakes.com/articles/2026-09-05-beyond-orms",
+   "discussionUrl": "https://lobste.rs/s/rcddma/beyond_orms",
+   "domain": "noteflakes.com",
+   "author": "noteflakes",
+   "publishedAt": "2026-09-06T04:52:05.266Z",
+   "excerpt": "",
+   "tags": [
+    "databases",
+    "ruby"
+   ],
+   "signals": {
+    "points": 3,
+    "comments": 3
+   }
+  },
+  {
+   "id": "lob:nohdoj",
+   "source": "lobsters",
+   "sourceName": "lobste.rs",
+   "kind": "link",
+   "title": "Terence Tao on “prematurely solving [a maths] problem by purely AI-powered methods”",
+   "url": "https://mathstodon.xyz/@tao/117207856734787448",
+   "discussionUrl": "https://lobste.rs/s/nohdoj/terence_tao_on_prematurely_solving_maths",
+   "domain": "mathstodon.xyz",
+   "author": "tmcb",
+   "publishedAt": "2026-09-06T07:45:24.038Z",
+   "excerpt": "I recommend reading the whole thread, but I linked to the part I found the most relevant. I believe the same is true for programming.",
+   "tags": [
+    "ai",
+    "math"
+   ],
+   "signals": {
+    "points": 8,
+    "comments": 0
+   }
   },
   {
    "id": "lob:wk38d2",
@@ -1017,10 +1111,50 @@
     "linux"
    ],
    "signals": {
-    "points": 10,
-    "comments": 27
-   },
-   "key": "lobste.rs/s/wk38d2"
+    "points": 22,
+    "comments": 49
+   }
+  },
+  {
+   "id": "lob:lfaddj",
+   "source": "lobsters",
+   "sourceName": "lobste.rs",
+   "kind": "link",
+   "title": "Maybe We Shouldn't Be Reviewing All This Code",
+   "url": "https://martinfowler.com/rachels-ramblings/code-review.html",
+   "discussionUrl": "https://lobste.rs/s/lfaddj/maybe_we_shouldn_t_be_reviewing_all_this",
+   "domain": "martinfowler.com",
+   "author": "natfu",
+   "publishedAt": "2026-09-06T10:06:56.101Z",
+   "excerpt": "",
+   "tags": [
+    "practices",
+    "vibecoding"
+   ],
+   "signals": {
+    "points": 2,
+    "comments": 5
+   }
+  },
+  {
+   "id": "lob:job3jy",
+   "source": "lobsters",
+   "sourceName": "lobste.rs",
+   "kind": "link",
+   "title": "Pointing at the error: compiler-style diagnostics in uutils coreutils",
+   "url": "https://uutils.org/blog/2026-08-error-diagnostics/",
+   "discussionUrl": "https://lobste.rs/s/job3jy/pointing_at_error_compiler_style",
+   "domain": "uutils.org",
+   "author": "mpweiher",
+   "publishedAt": "2026-09-05T14:34:40.900Z",
+   "excerpt": "",
+   "tags": [
+    "unix"
+   ],
+   "signals": {
+    "points": 18,
+    "comments": 10
+   }
   },
   {
    "id": "lob:duuz8z",
@@ -1039,73 +1173,9 @@
     "satire"
    ],
    "signals": {
-    "points": 22,
-    "comments": 15
-   },
-   "key": "blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please"
-  },
-  {
-   "id": "lob:dxjvcc",
-   "source": "lobsters",
-   "sourceName": "lobste.rs",
-   "kind": "link",
-   "title": "It matters who teaches you",
-   "url": "https://bastiangruber.ca/posts/it-matters-who-teaches-you/",
-   "discussionUrl": "https://lobste.rs/s/dxjvcc/it_matters_who_teaches_you",
-   "domain": "bastiangruber.ca",
-   "author": "gruberb",
-   "publishedAt": "2026-09-05T17:47:34.482Z",
-   "excerpt": "",
-   "tags": [
-    "education"
-   ],
-   "signals": {
-    "points": 6,
-    "comments": 1
-   },
-   "key": "bastiangruber.ca/posts/it-matters-who-teaches-you"
-  },
-  {
-   "id": "lob:7tpc5q",
-   "source": "lobsters",
-   "sourceName": "lobste.rs",
-   "kind": "link",
-   "title": "Surviving Code Reviews in the era of AI",
-   "url": "https://lobste.rs/s/7tpc5q",
-   "discussionUrl": "https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai",
-   "domain": "lobste.rs",
-   "author": "mrpossoms",
-   "publishedAt": "2026-09-04T13:11:47.640Z",
-   "excerpt": "My coworkers are all fully AI pilled. As a consequence, every PR that comes my way for review is on average ~6k lines of diff. It's well established that even PRs an order of magnitude smaller than this are too big to b…",
-   "tags": [
-    "ask"
-   ],
-   "signals": {
-    "points": 124,
-    "comments": 88
-   },
-   "key": "lobste.rs/s/7tpc5q"
-  },
-  {
-   "id": "lob:grm0m9",
-   "source": "lobsters",
-   "sourceName": "lobste.rs",
-   "kind": "link",
-   "title": "Knowing Where to Type ‘Zero’ (2015)",
-   "url": "https://randomascii.wordpress.com/2015/01/19/knowing-where-to-type-zero/",
-   "discussionUrl": "https://lobste.rs/s/grm0m9/knowing_where_type_zero_2015",
-   "domain": "randomascii.wordpress.com",
-   "author": "typesanitizer",
-   "publishedAt": "2026-09-05T11:12:59.204Z",
-   "excerpt": "",
-   "tags": [
-    "performance"
-   ],
-   "signals": {
-    "points": 18,
-    "comments": 1
-   },
-   "key": "randomascii.wordpress.com/2015/01/19/knowing-where-to-type-zero"
+    "points": 34,
+    "comments": 17
+   }
   },
   {
    "id": "lob:svyytg",
@@ -1123,10 +1193,31 @@
     "job"
    ],
    "signals": {
-    "points": 18,
-    "comments": 1
-   },
-   "key": "nyc.gov/content/pitcrew/pages"
+    "points": 24,
+    "comments": 8
+   }
+  },
+  {
+   "id": "lob:dckubt",
+   "source": "lobsters",
+   "sourceName": "lobste.rs",
+   "kind": "link",
+   "title": "See Windows CE Running On The N64",
+   "url": "https://retrododo.com/see-windows-ce-running-on-the-n64/",
+   "discussionUrl": "https://lobste.rs/s/dckubt/see_windows_ce_running_on_n64",
+   "domain": "retrododo.com",
+   "author": "murad",
+   "publishedAt": "2026-09-06T10:25:42.575Z",
+   "excerpt": "",
+   "tags": [
+    "hardware",
+    "retrocomputing",
+    "windows"
+   ],
+   "signals": {
+    "points": 2,
+    "comments": 0
+   }
   },
   {
    "id": "lob:fxccx9",
@@ -1141,144 +1232,52 @@
    "publishedAt": "2026-09-05T07:09:14.682Z",
    "excerpt": "You believe coding by hand is the Way and I both admire and appreciate beautiful, hand-crafted code. But I want to use your library, and when I ask my AI to evaluate it for bugs, memory leaks, security issues, it return…",
    "tags": [
-    "programming",
     "vibecoding"
    ],
    "signals": {
-    "points": 13,
-    "comments": 91
-   },
-   "key": "lobste.rs/s/fxccx9"
+    "points": 22,
+    "comments": 105
+   }
   },
   {
-   "id": "lob:o8bp2s",
+   "id": "lob:7tpc5q",
    "source": "lobsters",
    "sourceName": "lobste.rs",
    "kind": "link",
-   "title": "Babashka 1.13.220 gets FFI",
-   "url": "https://blog.michielborkent.nl/babashka-ffi.html",
-   "discussionUrl": "https://lobste.rs/s/o8bp2s/babashka_1_13_220_gets_ffi",
-   "domain": "blog.michielborkent.nl",
-   "author": "borkdude",
-   "publishedAt": "2026-09-04T18:33:44.332Z",
-   "excerpt": "",
-   "tags": [
-    "clojure"
-   ],
-   "signals": {
-    "points": 39,
-    "comments": 5
-   },
-   "key": "blog.michielborkent.nl/babashka-ffi.html"
-  },
-  {
-   "id": "lob:omhoxh",
-   "source": "lobsters",
-   "sourceName": "lobste.rs",
-   "kind": "link",
-   "title": "Rust SIMD on the GPU",
-   "url": "https://vectorware.com/blog/simd-on-gpu/",
-   "discussionUrl": "https://lobste.rs/s/omhoxh/rust_simd_on_gpu",
-   "domain": "vectorware.com",
-   "author": "nrposner",
-   "publishedAt": "2026-09-05T13:24:01.085Z",
-   "excerpt": "",
-   "tags": [
-    "performance",
-    "rust"
-   ],
-   "signals": {
-    "points": 12,
-    "comments": 0
-   },
-   "key": "vectorware.com/blog/simd-on-gpu"
-  },
-  {
-   "id": "lob:utloro",
-   "source": "lobsters",
-   "sourceName": "lobste.rs",
-   "kind": "link",
-   "title": "Is AI ruining my brain?",
-   "url": "https://thoughtbot.com/blog/is-ai-ruining-my-brain",
-   "discussionUrl": "https://lobste.rs/s/utloro/is_ai_ruining_my_brain",
-   "domain": "thoughtbot.com",
-   "author": "MatheusRich",
-   "publishedAt": "2026-09-04T14:41:18.640Z",
-   "excerpt": "",
-   "tags": [
-    "vibecoding"
-   ],
-   "signals": {
-    "points": 66,
-    "comments": 18
-   },
-   "key": "thoughtbot.com/blog/is-ai-ruining-my-brain"
-  },
-  {
-   "id": "lob:5iacaa",
-   "source": "lobsters",
-   "sourceName": "lobste.rs",
-   "kind": "link",
-   "title": "FLT: Anthropic has beaten me to it",
-   "url": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/",
-   "discussionUrl": "https://lobste.rs/s/5iacaa/flt_anthropic_has_beaten_me_it",
-   "domain": "xenaproject.wordpress.com",
-   "author": "lalitm",
-   "publishedAt": "2026-09-04T19:11:37.414Z",
-   "excerpt": "",
-   "tags": [
-    "math",
-    "vibecoding"
-   ],
-   "signals": {
-    "points": 48,
-    "comments": 6
-   },
-   "key": "xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it"
-  },
-  {
-   "id": "lob:f2ele4",
-   "source": "lobsters",
-   "sourceName": "lobste.rs",
-   "kind": "link",
-   "title": "C++26: std::hive",
-   "url": "https://www.sandordargo.com/blog/2026/09/02/cpp26-hive",
-   "discussionUrl": "https://lobste.rs/s/f2ele4/c_26_std_hive",
-   "domain": "sandordargo.com",
-   "author": "raymii",
-   "publishedAt": "2026-09-05T18:46:39.834Z",
-   "excerpt": "",
-   "tags": [
-    "c++"
-   ],
-   "signals": {
-    "points": 4,
-    "comments": 0
-   },
-   "key": "sandordargo.com/blog/2026/09/02/cpp26-hive"
-  },
-  {
-   "id": "lob:trzpsg",
-   "source": "lobsters",
-   "sourceName": "lobste.rs",
-   "kind": "link",
-   "title": "Seeking Designer for a Small Company",
-   "url": "https://lobste.rs/s/trzpsg",
-   "discussionUrl": "https://lobste.rs/s/trzpsg/seeking_designer_for_small_company",
+   "title": "Surviving Code Reviews in the era of AI",
+   "url": "https://lobste.rs/s/7tpc5q",
+   "discussionUrl": "https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai",
    "domain": "lobste.rs",
-   "author": "spoonmilk",
-   "publishedAt": "2026-09-05T13:04:05.878Z",
-   "excerpt": "A friend and I intend to start a business in the near future and would love to have a great human designer make us some great human (logo/web) designs. I am a programmer and painter by training but have no talent for gr…",
+   "author": "mrpossoms",
+   "publishedAt": "2026-09-04T13:11:47.640Z",
+   "excerpt": "My coworkers are all fully AI pilled. As a consequence, every PR that comes my way for review is on average ~6k lines of diff. It's well established that even PRs an order of magnitude smaller than this are too big to b…",
    "tags": [
-    "ask",
-    "design",
-    "job"
+    "ask"
    ],
    "signals": {
-    "points": 4,
-    "comments": 3
-   },
-   "key": "lobste.rs/s/trzpsg"
+    "points": 129,
+    "comments": 93
+   }
+  },
+  {
+   "id": "lob:fgxkle",
+   "source": "lobsters",
+   "sourceName": "lobste.rs",
+   "kind": "link",
+   "title": "Building a Brainfuck DSL in Forth using code generation",
+   "url": "https://venko.blog/articles/forth-brainfuck",
+   "discussionUrl": "https://lobste.rs/s/fgxkle/building_brainfuck_dsl_forth_using_code",
+   "domain": "venko.blog",
+   "author": "abhin4v",
+   "publishedAt": "2026-09-06T11:39:20.520Z",
+   "excerpt": "",
+   "tags": [
+    "concatenative"
+   ],
+   "signals": {
+    "points": 1,
+    "comments": 0
+   }
   },
   {
    "id": "lob:kcklzg",
@@ -1297,150 +1296,159 @@
     "testing"
    ],
    "signals": {
-    "points": 2,
-    "comments": 0
-   },
-   "key": "jonathan-frere.com/posts/anatomy-of-a-test"
+    "points": 3,
+    "comments": 3
+   }
   },
   {
-   "id": "lob:5wzkwm",
+   "id": "lob:grm0m9",
    "source": "lobsters",
    "sourceName": "lobste.rs",
    "kind": "link",
-   "title": "Gleam and BEAM- Looking beyond the JVM",
-   "url": "https://vimeo.com/1223666800",
-   "discussionUrl": "https://lobste.rs/s/5wzkwm/gleam_beam_looking_beyond_jvm",
-   "domain": "vimeo.com",
-   "author": "kamila",
-   "publishedAt": "2026-09-05T12:22:34.372Z",
+   "title": "Knowing Where to Type ‘Zero’ (2015)",
+   "url": "https://randomascii.wordpress.com/2015/01/19/knowing-where-to-type-zero/",
+   "discussionUrl": "https://lobste.rs/s/grm0m9/knowing_where_type_zero_2015",
+   "domain": "randomascii.wordpress.com",
+   "author": "typesanitizer",
+   "publishedAt": "2026-09-05T11:12:59.204Z",
    "excerpt": "",
    "tags": [
-    "gleam",
-    "java",
-    "video"
+    "performance"
    ],
    "signals": {
-    "points": 8,
-    "comments": 0
-   },
-   "key": "vimeo.com/1223666800"
+    "points": 20,
+    "comments": 1
+   }
   },
   {
-   "id": "lob:rhjedr",
+   "id": "lob:ywxrua",
    "source": "lobsters",
    "sourceName": "lobste.rs",
    "kind": "link",
-   "title": "jank reimagines C++ errors and gets an official native package repo",
-   "url": "https://jank-lang.org/blog/2026-09-04-better-and-better/",
-   "discussionUrl": "https://lobste.rs/s/rhjedr/jank_reimagines_c_errors_gets_official",
-   "domain": "jank-lang.org",
-   "author": "jeaye",
-   "publishedAt": "2026-09-04T17:47:34.388Z",
+   "title": "Compression in Full Quiet",
+   "url": "https://pineight.com/retrotainment/fq-compression.html",
+   "discussionUrl": "https://lobste.rs/s/ywxrua/compression_full_quiet",
+   "domain": "pineight.com",
+   "author": "JordiGH",
+   "publishedAt": "2026-09-06T02:13:34.106Z",
    "excerpt": "",
    "tags": [
-    "c++",
-    "clojure",
-    "compilers",
-    "plt"
+    "compsci",
+    "games",
+    "retrocomputing"
    ],
    "signals": {
-    "points": 28,
+    "points": 3,
     "comments": 0
-   },
-   "key": "jank-lang.org/blog/2026-09-04-better-and-better"
+   }
   },
   {
-   "id": "lob:f4jtaf",
-   "source": "lobsters",
-   "sourceName": "lobste.rs",
-   "kind": "link",
-   "title": "Exploring Mojo’s raw pointer type",
-   "url": "https://melodyogonna.substack.com/p/exploring-mojos-raw-pointer-type",
-   "discussionUrl": "https://lobste.rs/s/f4jtaf/exploring_mojo_s_raw_pointer_type",
-   "domain": "melodyogonna.substack.com",
-   "author": "melodyogonna",
-   "publishedAt": "2026-09-04T21:02:11.093Z",
-   "excerpt": "",
-   "tags": [
-    "programming"
-   ],
-   "signals": {
-    "points": 11,
-    "comments": 6
-   },
-   "key": "melodyogonna.substack.com/p/exploring-mojos-raw-pointer-type"
-  },
-  {
-   "id": "bsky:3murzrilmqs2j:4ucmrdmu",
+   "id": "bsky:3muthh4vmfs2w:pbph4p3b",
    "source": "bluesky",
    "sourceName": "Bluesky",
    "kind": "post",
-   "title": "Charlotte Wainwright restoring and saving old/ancient books. www.wainwrightbookbinding.com",
-   "url": "https://bsky.app/profile/arepublic86.bsky.social/post/3murzrilmqs2j",
-   "discussionUrl": "https://bsky.app/profile/arepublic86.bsky.social/post/3murzrilmqs2j",
+   "title": "I just want to see what the engagement I would get for traditional pen and ink. These things can take over 20 hours and…",
+   "url": "https://bsky.app/profile/jnw-artstudio.bsky.social/post/3muthh4vmfs2w",
+   "discussionUrl": "https://bsky.app/profile/jnw-artstudio.bsky.social/post/3muthh4vmfs2w",
    "domain": "bsky.app",
-   "author": "Dan (@arepublic86.bsky.social)",
-   "publishedAt": "2026-09-05T17:44:13.752Z",
-   "excerpt": "Charlotte Wainwright restoring and saving old/ancient books. www.wainwrightbookbinding.com",
+   "author": "@jnw-artstudio.bsky.social",
+   "publishedAt": "2026-09-06T07:21:38.063Z",
+   "excerpt": "I just want to see what the engagement I would get for traditional pen and ink. These things can take over 20 hours and up to 60 hours.This is city scape I did 5 years ago (2021). #art #traditionalart #inkart #cityscape",
+   "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wuspkb6vvy4p2c4tpbph4p3b/bafkreideygfblvmz5dbvh6xsentwuzt27d7zuwqbjwc6u3y6mdzi35r2ly",
    "signals": {
-    "likes": 4694,
-    "reposts": 1274
-   },
-   "key": "bsky.app/profile/arepublic86.bsky.social/post/3murzrilmqs2j"
+    "likes": 1575,
+    "reposts": 161
+   }
   },
   {
-   "id": "bsky:3murytlxzox2v:h7lp2ryr",
+   "id": "bsky:3mutco7vjtk26:f7ztxcx2",
    "source": "bluesky",
    "sourceName": "Bluesky",
    "kind": "post",
-   "title": "Did you know? There's this nice natural geological formation in Iceland, called the 'Elephant rock' for a precise reaso…",
-   "url": "https://bsky.app/profile/rainmaker1973-m.bsky.social/post/3murytlxzox2v",
-   "discussionUrl": "https://bsky.app/profile/rainmaker1973-m.bsky.social/post/3murytlxzox2v",
+   "title": "Learner Tien becomes the youngest American man to reach the Round of 16 at the U.S. Open since Andy Roddick in 2002. Hi…",
+   "url": "https://bsky.app/profile/thetennisletter.bsky.social/post/3mutco7vjtk26",
+   "discussionUrl": "https://bsky.app/profile/thetennisletter.bsky.social/post/3mutco7vjtk26",
    "domain": "bsky.app",
-   "author": "Massimo (mirror) (@rainmaker1973-m.bsky.social)",
-   "publishedAt": "2026-09-05T17:27:30.582Z",
-   "excerpt": "Did you know? There's this nice natural geological formation in Iceland, called the 'Elephant rock' for a precise reason. Repost of @Realnitesh945: Original post",
-   "signals": {
-    "likes": 3135,
-    "reposts": 444
-   },
-   "key": "bsky.app/profile/rainmaker1973-m.bsky.social/post/3murytlxzox2v"
-  },
-  {
-   "id": "bsky:3muroi3f56c2s:6yeuxtpt",
-   "source": "bluesky",
-   "sourceName": "Bluesky",
-   "kind": "post",
-   "title": "When 3M scientist Kris Hansen discovered that a chemical the company produced was in the blood of the general public, h…",
-   "url": "https://bsky.app/profile/propublica.org/post/3muroi3f56c2s",
-   "discussionUrl": "https://bsky.app/profile/propublica.org/post/3muroi3f56c2s",
-   "domain": "bsky.app",
-   "author": "ProPublica (@propublica.org)",
-   "publishedAt": "2026-09-05T14:22:06.757Z",
-   "excerpt": "When 3M scientist Kris Hansen discovered that a chemical the company produced was in the blood of the general public, her bosses questioned her work. Yet all along, some people inside the company had known the same thing. Listen to this excerpt:",
-   "signals": {
-    "likes": 4467,
-    "reposts": 2069
-   },
-   "key": "bsky.app/profile/propublica.org/post/3muroi3f56c2s"
-  },
-  {
-   "id": "bsky:3musgslcpps2m:l22z2k7v",
-   "source": "bluesky",
-   "sourceName": "Bluesky",
-   "kind": "post",
-   "title": "What if this was your back garden?",
-   "url": "https://bsky.app/profile/democratcats.bsky.social/post/3musgslcpps2m",
-   "discussionUrl": "https://bsky.app/profile/democratcats.bsky.social/post/3musgslcpps2m",
-   "domain": "bsky.app",
-   "author": "Democrat Cats (@democratcats.bsky.social)",
-   "publishedAt": "2026-09-05T21:37:28.804Z",
-   "excerpt": "What if this was your back garden?",
+   "author": "The Tennis Letter (@thetennisletter.bsky.social)",
+   "publishedAt": "2026-09-06T05:56:07.388Z",
+   "excerpt": "Learner Tien becomes the youngest American man to reach the Round of 16 at the U.S. Open since Andy Roddick in 2002. His record in 5 set matches: 5 wins, 0 losses. It’s Tien Time. 🇺🇸",
+   "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nin65xmpfflkc32wf7ztxcx2/bafkreieba7buhdsy2azom7ywhkjbrrujmgqqaji2mvm6adiuf26e5iggti",
    "signals": {
     "likes": 37,
-    "reposts": 5
-   },
-   "key": "bsky.app/profile/democratcats.bsky.social/post/3musgslcpps2m"
+    "reposts": 4
+   }
+  },
+  {
+   "id": "bsky:3mutjc3e25t2g:44263dha",
+   "source": "bluesky",
+   "sourceName": "Bluesky",
+   "kind": "post",
+   "title": "Ofici i art. Charlotte Wainwright restaura i salva llibres antics. https://www.wainwrightbookbinding.com/",
+   "url": "https://bsky.app/profile/divulgacio-catala.bsky.social/post/3mutjc3e25t2g",
+   "discussionUrl": "https://bsky.app/profile/divulgacio-catala.bsky.social/post/3mutjc3e25t2g",
+   "domain": "bsky.app",
+   "author": "Divulgació en Català 🧬🛰️ (@divulgacio-catala.bsky.social)",
+   "publishedAt": "2026-09-06T07:54:35.435Z",
+   "excerpt": "Ofici i art. Charlotte Wainwright restaura i salva llibres antics. https://www.wainwrightbookbinding.com/",
+   "signals": {
+    "likes": 60,
+    "reposts": 19
+   }
+  },
+  {
+   "id": "bsky:3mutqhasldo2h:lhe55kgb",
+   "source": "bluesky",
+   "sourceName": "Bluesky",
+   "kind": "post",
+   "title": "Yesterday Victor Lindelöf completed more passes (100), more line-breaking passes (19), created more chances (2) and mad…",
+   "url": "https://bsky.app/profile/avfcstatto.bsky.social/post/3mutqhasldo2h",
+   "discussionUrl": "https://bsky.app/profile/avfcstatto.bsky.social/post/3mutqhasldo2h",
+   "domain": "bsky.app",
+   "author": "Aston Villa Statto (@avfcstatto.bsky.social)",
+   "publishedAt": "2026-09-06T10:02:45.605Z",
+   "excerpt": "Yesterday Victor Lindelöf completed more passes (100), more line-breaking passes (19), created more chances (2) and made more clearances (4) than any other player on the pitch during Aston Villa's draw with Hull City. #AVFC",
+   "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jlso64snx777srkjlhe55kgb/bafkreihygkr6t6wz2zr2543i5hduqsl4tt3olh6c5v6w4u3vclpb74vzyy",
+   "signals": {
+    "likes": 14,
+    "reposts": 0
+   }
+  },
+  {
+   "id": "bsky:3musc76uovs2t:5huocalo",
+   "source": "bluesky",
+   "sourceName": "Bluesky",
+   "kind": "post",
+   "title": "CAMPEÃO!! Alison \"Piu\" dos Santos conquista os 400 m com barreiras de Bruxelas e leva o tri da Diamond League",
+   "url": "https://bsky.app/profile/surtoolimpico.bsky.social/post/3musc76uovs2t",
+   "discussionUrl": "https://bsky.app/profile/surtoolimpico.bsky.social/post/3musc76uovs2t",
+   "domain": "surtoolimpico.com.br",
+   "linkUrl": "https://surtoolimpico.com.br/artigo/campeao-alison-piu-dos-santos-conquista-os-400-m-com-barreiras-de-bruxelas-e-leva-o-tri-da-diamond-league",
+   "author": "Surto Olímpico (@surtoolimpico.bsky.social)",
+   "publishedAt": "2026-09-05T20:15:03.259Z",
+   "excerpt": "CAMPEÃO!! Alison \"Piu\" dos Santos conquista os 400 m com barreiras de Bruxelas e leva o tri da Diamond League surtoolimpico.com.br/artigo/campe...",
+   "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jcvllhm3ogarbsis5huocalo/bafkreieq6gqqa6tpwtfk65fv5fiqq3ytxxtencxbwytak44flqznpbycvu",
+   "signals": {
+    "likes": 138,
+    "reposts": 22
+   }
+  },
+  {
+   "id": "bsky:3mutngxetac2v:7un7iccc",
+   "source": "bluesky",
+   "sourceName": "Bluesky",
+   "kind": "post",
+   "title": "Good morning sunshines 🌞",
+   "url": "https://bsky.app/profile/blueheartedly1.bsky.social/post/3mutngxetac2v",
+   "discussionUrl": "https://bsky.app/profile/blueheartedly1.bsky.social/post/3mutngxetac2v",
+   "domain": "bsky.app",
+   "author": "4fuxake (@blueheartedly1.bsky.social)",
+   "publishedAt": "2026-09-06T09:08:54.729Z",
+   "excerpt": "Good morning sunshines 🌞",
+   "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gtvctdk42imc65vk7un7iccc/bafkreid5p4eneak7f5fsakebfvwobmsfwh3ldnlpke5ohlqevjs737a6ui",
+   "signals": {
+    "likes": 74,
+    "reposts": 2
+   }
   },
   {
    "id": "bsky:3murts2tl7s2p:ij4sq5jj",
@@ -1456,49 +1464,254 @@
    "excerpt": "Team Canada Strong ❤️🇨🇦",
    "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rzsrhff53g7vimzjij4sq5jj/bafkreiecmy5uvveft4oueaxirg3r6bsy2ytylo4glnmdbkvjwfeyk4agai",
    "signals": {
-    "likes": 3191,
-    "reposts": 725
-   },
-   "key": "bsky.app/profile/stash1234.bsky.social/post/3murts2tl7s2p"
+    "likes": 6860,
+    "reposts": 1524
+   }
   },
   {
-   "id": "bsky:3muqj77xu7c2x:6yeuxtpt",
+   "id": "bsky:3mutkzsjbxc24:qg6vy6l5",
    "source": "bluesky",
    "sourceName": "Bluesky",
    "kind": "post",
-   "title": "Where Was My Generic Prescription Drug Made? - Rx Inspector - ProPublica",
-   "url": "https://bsky.app/profile/propublica.org/post/3muqj77xu7c2x",
-   "discussionUrl": "https://bsky.app/profile/propublica.org/post/3muqj77xu7c2x",
-   "domain": "projects.propublica.org",
-   "linkUrl": "https://projects.propublica.org/rx-inspector/?utm_campaign=propublica-sprout&utm_content=1788578100&utm_medium=social&utm_source=bluesky",
-   "author": "ProPublica (@propublica.org)",
-   "publishedAt": "2026-09-05T03:15:01.113Z",
-   "excerpt": "The FDA won’t tell Americans where their generic drugs are made, so ProPublica did it instead. Use information from your prescription label to locate the factory and see if the plant has a history of inspection violations.",
-   "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k4jt6heuiamymgi46yeuxtpt/bafkreiha4novzm7y7njxkukrykiasr4yynqz2qrvkw33g5saahtkvyblsi",
-   "signals": {
-    "likes": 1676,
-    "reposts": 905
-   },
-   "key": "projects.propublica.org/rx-inspector"
-  },
-  {
-   "id": "bsky:3murzrtgakc2d:cjvvnpbl",
-   "source": "bluesky",
-   "sourceName": "Bluesky",
-   "kind": "post",
-   "title": "happy saturday sisters and brothers. beautiful day here up in the tip of the mitt. a pic of my new cottage in michigan…",
-   "url": "https://bsky.app/profile/matthewjdowd.bsky.social/post/3murzrtgakc2d",
-   "discussionUrl": "https://bsky.app/profile/matthewjdowd.bsky.social/post/3murzrtgakc2d",
+   "title": "Latenite archival BABBYGONZ TIME!",
+   "url": "https://bsky.app/profile/gonzo.bsky.social/post/3mutkzsjbxc24",
+   "discussionUrl": "https://bsky.app/profile/gonzo.bsky.social/post/3mutkzsjbxc24",
    "domain": "bsky.app",
-   "author": "Matthew Dowd (@matthewjdowd.bsky.social)",
-   "publishedAt": "2026-09-05T17:44:25.106Z",
-   "excerpt": "happy saturday sisters and brothers. beautiful day here up in the tip of the mitt. a pic of my new cottage in michigan from a kayak on the straits of mackinac.",
-   "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lnapbhc6j7bau6t3cjvvnpbl/bafkreiejujp34s2dxkr7bdgyqzllew3iycxh46i7eseev3eyncp7t2kzxq",
+   "author": "GONZO the Ca'at (@gonzo.bsky.social)",
+   "publishedAt": "2026-09-06T08:25:45.889Z",
+   "excerpt": "Latenite archival BABBYGONZ TIME!",
+   "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gunx7ih6iezi3biuqg6vy6l5/bafkreihztdhmktcntuomejv7r66vzy4w2ww5232tbtqz6zokmeyso4o2km",
    "signals": {
-    "likes": 1698,
-    "reposts": 93
-   },
-   "key": "bsky.app/profile/matthewjdowd.bsky.social/post/3murzrtgakc2d"
+    "likes": 306,
+    "reposts": 19
+   }
+  },
+  {
+   "id": "bsky:3murmakpwi323:wv63nnh4",
+   "source": "bluesky",
+   "sourceName": "Bluesky",
+   "kind": "post",
+   "title": "Born in 1926 Chicago, not Harlem, the Globetrotters turned basketball into comedy and acrobatics set to \"Sweet Georgia…",
+   "url": "https://bsky.app/profile/yourdigitalbrain.bsky.social/post/3murmakpwi323",
+   "discussionUrl": "https://bsky.app/profile/yourdigitalbrain.bsky.social/post/3murmakpwi323",
+   "domain": "bsky.app",
+   "author": "Digital Brain (@yourdigitalbrain.bsky.social)",
+   "publishedAt": "2026-09-05T13:41:53.000Z",
+   "excerpt": "Born in 1926 Chicago, not Harlem, the Globetrotters turned basketball into comedy and acrobatics set to \"Sweet Georgia Brown,\" playing over 26,000 games in 120+ countries.",
+   "signals": {
+    "likes": 5689,
+    "reposts": 1082
+   }
+  },
+  {
+   "id": "bsky:3mutmadilc22s:yaphfljj",
+   "source": "bluesky",
+   "sourceName": "Bluesky",
+   "kind": "post",
+   "title": "Şapkalı patican. 🐾🐈🙂‍↔️",
+   "url": "https://bsky.app/profile/kirikkalemm.bsky.social/post/3mutmadilc22s",
+   "discussionUrl": "https://bsky.app/profile/kirikkalemm.bsky.social/post/3mutmadilc22s",
+   "domain": "bsky.app",
+   "author": "Kırık Kalem (@kirikkalemm.bsky.social)",
+   "publishedAt": "2026-09-06T08:47:18.817Z",
+   "excerpt": "Şapkalı patican. 🐾🐈🙂‍↔️",
+   "signals": {
+    "likes": 42,
+    "reposts": 0
+   }
+  },
+  {
+   "id": "bsky:3musytoxwuc23:6yeuxtpt",
+   "source": "bluesky",
+   "sourceName": "Bluesky",
+   "kind": "post",
+   "title": "ProPublica spoke to dozens of people who had lived in homeless encampments when cities cleared them out in “sweeps.” We…",
+   "url": "https://bsky.app/profile/propublica.org/post/3musytoxwuc23",
+   "discussionUrl": "https://bsky.app/profile/propublica.org/post/3musytoxwuc23",
+   "domain": "bsky.app",
+   "author": "ProPublica (@propublica.org)",
+   "publishedAt": "2026-09-06T03:00:13.527Z",
+   "excerpt": "ProPublica spoke to dozens of people who had lived in homeless encampments when cities cleared them out in “sweeps.” We distributed notecards so people could tell us about the toll in their own words. ➡️ This is what they wrote:",
+   "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k4jt6heuiamymgi46yeuxtpt/bafkreigwdjr3mputufj2zqs6tvspkmp44dbdnhefvw4ov74hti6dhde4nm",
+   "signals": {
+    "likes": 1752,
+    "reposts": 704
+   }
+  },
+  {
+   "id": "bsky:3mut35nfyss23:fapyefyb",
+   "source": "bluesky",
+   "sourceName": "Bluesky",
+   "kind": "post",
+   "title": "Beautiful Banff Alberta Canada 🇨🇦",
+   "url": "https://bsky.app/profile/contemprainn.bsky.social/post/3mut35nfyss23",
+   "discussionUrl": "https://bsky.app/profile/contemprainn.bsky.social/post/3mut35nfyss23",
+   "domain": "bsky.app",
+   "author": "ContempraInn 🌹 (@contemprainn.bsky.social)",
+   "publishedAt": "2026-09-06T03:41:34.944Z",
+   "excerpt": "Beautiful Banff Alberta Canada 🇨🇦",
+   "signals": {
+    "likes": 1692,
+    "reposts": 219
+   }
+  },
+  {
+   "id": "bsky:3muspq6rhdk2n:e56lp2eb",
+   "source": "bluesky",
+   "sourceName": "Bluesky",
+   "kind": "post",
+   "title": "I’m so lucky to spend the weekend camping on the shores of the truly Great Lake Ontario.",
+   "url": "https://bsky.app/profile/racheljweil.bsky.social/post/3muspq6rhdk2n",
+   "discussionUrl": "https://bsky.app/profile/racheljweil.bsky.social/post/3muspq6rhdk2n",
+   "domain": "bsky.app",
+   "author": "Rachel Weil (@racheljweil.bsky.social)",
+   "publishedAt": "2026-09-06T00:17:12.215Z",
+   "excerpt": "I’m so lucky to spend the weekend camping on the shores of the truly Great Lake Ontario.",
+   "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:g6k2rujuautjz32oe56lp2eb/bafkreidmwt4lytepvhujyjayw5oyohzhhkl4yctx5z5qcifxjnkej3lioa",
+   "signals": {
+    "likes": 4612,
+    "reposts": 426
+   }
+  },
+  {
+   "id": "bsky:3mutdcilwfc2j:q3ncf7kg",
+   "source": "bluesky",
+   "sourceName": "Bluesky",
+   "kind": "post",
+   "title": "Aamulla klo 6.30. Pic taken 6.30 am. #september #archipelago #BalticSea",
+   "url": "https://bsky.app/profile/juhamanninen.bsky.social/post/3mutdcilwfc2j",
+   "discussionUrl": "https://bsky.app/profile/juhamanninen.bsky.social/post/3mutdcilwfc2j",
+   "domain": "bsky.app",
+   "author": "Juha Manninen (@juhamanninen.bsky.social)",
+   "publishedAt": "2026-09-06T06:07:27.586Z",
+   "excerpt": "Aamulla klo 6.30. Pic taken 6.30 am. #september #archipelago #BalticSea",
+   "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tjy3rdl56hksvisyq3ncf7kg/bafkreigwgapxk5njq32244yfedzcsthqkqe7tewac6ysq5zzcm72ov6uq4",
+   "signals": {
+    "likes": 76,
+    "reposts": 2
+   }
+  },
+  {
+   "id": "bsky:3mutpqkfdek2b:m524iiym",
+   "source": "bluesky",
+   "sourceName": "Bluesky",
+   "kind": "post",
+   "title": "I feel like Bluesky is the place where people will appreciate how envious I still am of my sister, around 35 years afte…",
+   "url": "https://bsky.app/profile/kbneal.bsky.social/post/3mutpqkfdek2b",
+   "discussionUrl": "https://bsky.app/profile/kbneal.bsky.social/post/3mutpqkfdek2b",
+   "domain": "bsky.app",
+   "author": "Dr Kathleen Neal (@kbneal.bsky.social)",
+   "publishedAt": "2026-09-06T09:50:04.147Z",
+   "excerpt": "I feel like Bluesky is the place where people will appreciate how envious I still am of my sister, around 35 years after she achieved her (and my) top bucket list item of being locked in the bookshop when it closed, and having the place to entirely to herself.",
+   "signals": {
+    "likes": 296,
+    "reposts": 8
+   }
+  },
+  {
+   "id": "bsky:3mutmotucyw2l:3w7scd74",
+   "source": "bluesky",
+   "sourceName": "Bluesky",
+   "kind": "post",
+   "title": "CTE in football players is a health crisis. It’s time for us to stop watching",
+   "url": "https://bsky.app/profile/us.theguardian.com/post/3mutmotucyw2l",
+   "discussionUrl": "https://bsky.app/profile/us.theguardian.com/post/3mutmotucyw2l",
+   "domain": "theguardian.com",
+   "linkUrl": "https://www.theguardian.com/sport/2026/sep/05/cte-football-players-nfl?utm_term=Autofeed&CMP=us_bsky&utm_medium=Social&utm_source=Bluesky#Echobox=1788683308",
+   "author": "Guardian US (@us.theguardian.com)",
+   "publishedAt": "2026-09-06T08:55:25.502Z",
+   "excerpt": "A new study offers more evidence that America’s biggest sport produces life-altering head trauma. The NFL will never turn itself off, so it’s on fans to do so",
+   "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nl32untxngcg74dl3w7scd74/bafkreibd6gqulw26vsbicjrv2v5c3b5b6kiq2i4aid7t6rgz57hjang4bi",
+   "signals": {
+    "likes": 13,
+    "reposts": 3
+   }
+  },
+  {
+   "id": "bsky:3mutswyj6c225:7srpqpta",
+   "source": "bluesky",
+   "sourceName": "Bluesky",
+   "kind": "post",
+   "title": "Asan Ginkgo Tree Road, South Korea",
+   "url": "https://bsky.app/profile/fravery.bsky.social/post/3mutswyj6c225",
+   "discussionUrl": "https://bsky.app/profile/fravery.bsky.social/post/3mutswyj6c225",
+   "domain": "bsky.app",
+   "author": "@fravery.bsky.social",
+   "publishedAt": "2026-09-06T10:47:21.504Z",
+   "excerpt": "Asan Ginkgo Tree Road, South Korea",
+   "signals": {
+    "likes": 370,
+    "reposts": 50
+   }
+  },
+  {
+   "id": "bsky:3muroi3f56c2s:6yeuxtpt",
+   "source": "bluesky",
+   "sourceName": "Bluesky",
+   "kind": "post",
+   "title": "When 3M scientist Kris Hansen discovered that a chemical the company produced was in the blood of the general public, h…",
+   "url": "https://bsky.app/profile/propublica.org/post/3muroi3f56c2s",
+   "discussionUrl": "https://bsky.app/profile/propublica.org/post/3muroi3f56c2s",
+   "domain": "bsky.app",
+   "author": "ProPublica (@propublica.org)",
+   "publishedAt": "2026-09-05T14:22:06.757Z",
+   "excerpt": "When 3M scientist Kris Hansen discovered that a chemical the company produced was in the blood of the general public, her bosses questioned her work. Yet all along, some people inside the company had known the same thing. Listen to this excerpt:",
+   "signals": {
+    "likes": 6750,
+    "reposts": 3149
+   }
+  },
+  {
+   "id": "bsky:3mus2pifr5l2i:xxjduqoi",
+   "source": "bluesky",
+   "sourceName": "Bluesky",
+   "kind": "post",
+   "title": "We toured Trump’s DC vanity projects. It’s a mess. Come with us on a video tour around Donald Trump’s DC and see for yo…",
+   "url": "https://bsky.app/profile/motherjones.com/post/3mus2pifr5l2i",
+   "discussionUrl": "https://bsky.app/profile/motherjones.com/post/3mus2pifr5l2i",
+   "domain": "bsky.app",
+   "author": "Mother Jones (@motherjones.com)",
+   "publishedAt": "2026-09-05T18:01:00.120Z",
+   "excerpt": "We toured Trump’s DC vanity projects. It’s a mess. Come with us on a video tour around Donald Trump’s DC and see for yourself.",
+   "signals": {
+    "likes": 470,
+    "reposts": 267
+   }
+  },
+  {
+   "id": "bsky:3murzrilmqs2j:4ucmrdmu",
+   "source": "bluesky",
+   "sourceName": "Bluesky",
+   "kind": "post",
+   "title": "Charlotte Wainwright restoring and saving old/ancient books. www.wainwrightbookbinding.com",
+   "url": "https://bsky.app/profile/arepublic86.bsky.social/post/3murzrilmqs2j",
+   "discussionUrl": "https://bsky.app/profile/arepublic86.bsky.social/post/3murzrilmqs2j",
+   "domain": "bsky.app",
+   "author": "Dan (@arepublic86.bsky.social)",
+   "publishedAt": "2026-09-05T17:44:13.752Z",
+   "excerpt": "Charlotte Wainwright restoring and saving old/ancient books. www.wainwrightbookbinding.com",
+   "signals": {
+    "likes": 14511,
+    "reposts": 3967
+   }
+  },
+  {
+   "id": "bsky:3mutq5kqo2c22:gj44snaw",
+   "source": "bluesky",
+   "sourceName": "Bluesky",
+   "kind": "post",
+   "title": "Pierrot By Carlos Bonvalot",
+   "url": "https://bsky.app/profile/pmamtraveller.bsky.social/post/3mutq5kqo2c22",
+   "discussionUrl": "https://bsky.app/profile/pmamtraveller.bsky.social/post/3mutq5kqo2c22",
+   "domain": "bsky.app",
+   "author": "@pmamtraveller.bsky.social",
+   "publishedAt": "2026-09-06T09:57:20.724Z",
+   "excerpt": "Pierrot By Carlos Bonvalot",
+   "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vt67jrpurra7lod3gj44snaw/bafkreic3hh3adty2ssfoxfdpar7ksvokehmqfq2vq7xkb32pq6ev33bn6q",
+   "signals": {
+    "likes": 29,
+    "reposts": 2
+   }
   },
   {
    "id": "bsky:3mus4btaifs2x:aojkgfop",
@@ -1514,310 +1727,118 @@
    "excerpt": "Latest haul in Montreal at Librarie Drawn & Quarterly",
    "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:v2mhyvdrpjsvnuaqaojkgfop/bafkreidxvpbjmfvbxrufxfapscc26r64huhd34ly6mrn5v3r3zare25vii",
    "signals": {
-    "likes": 2138,
-    "reposts": 127
-   },
-   "key": "bsky.app/profile/joshjohnsoncomedy.bsky.social/post/3mus4btaifs2x"
+    "likes": 6716,
+    "reposts": 408
+   }
   },
   {
-   "id": "bsky:3mus6nnpy522q:223tmpjk",
+   "id": "bsky:3mutqkaln2k2j:idzpslrf",
    "source": "bluesky",
    "sourceName": "Bluesky",
    "kind": "post",
-   "title": "Behold the chaotic, violent hellscape that is New York City. Mamdani has transformed this once idyllic utopia into a ce…",
-   "url": "https://bsky.app/profile/wajali.bsky.social/post/3mus6nnpy522q",
-   "discussionUrl": "https://bsky.app/profile/wajali.bsky.social/post/3mus6nnpy522q",
+   "title": "Aquest Nadal, escudella i carn d'olla en calça curta. M'hi jugaria un pèsol.",
+   "url": "https://bsky.app/profile/pestalella.eurosky.social/post/3mutqkaln2k2j",
+   "discussionUrl": "https://bsky.app/profile/pestalella.eurosky.social/post/3mutqkaln2k2j",
    "domain": "bsky.app",
-   "author": "Wajahat Ali (@wajali.bsky.social)",
-   "publishedAt": "2026-09-05T19:11:33.624Z",
-   "excerpt": "Behold the chaotic, violent hellscape that is New York City. Mamdani has transformed this once idyllic utopia into a cesspool of dysfunction and despair! Pray for the people!",
-   "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:flfa7b6kgjqp3bbh223tmpjk/bafkreifjgzy64fwtj4uokjfkkcvaegzujs537w7qohjie2mpgaqqx45wsm",
+   "author": "Pau Estalella 💀 (@pestalella.eurosky.social)",
+   "publishedAt": "2026-09-06T10:04:26.277Z",
+   "excerpt": "Aquest Nadal, escudella i carn d'olla en calça curta. M'hi jugaria un pèsol.",
    "signals": {
-    "likes": 2677,
-    "reposts": 385
-   },
-   "key": "bsky.app/profile/wajali.bsky.social/post/3mus6nnpy522q"
+    "likes": 6,
+    "reposts": 0
+   }
   },
   {
-   "id": "bsky:3murclvyyk226:eai3a6ut",
+   "id": "bsky:3muss4uefzq2c:6yeuxtpt",
    "source": "bluesky",
    "sourceName": "Bluesky",
    "kind": "post",
-   "title": "Nature is so beautiful ❤️❤️",
-   "url": "https://bsky.app/profile/karma-chaos.bsky.social/post/3murclvyyk226",
-   "discussionUrl": "https://bsky.app/profile/karma-chaos.bsky.social/post/3murclvyyk226",
-   "domain": "bsky.app",
-   "author": "Karma & Chaos (@karma-chaos.bsky.social)",
-   "publishedAt": "2026-09-05T10:49:30.433Z",
-   "excerpt": "Nature is so beautiful ❤️❤️",
+   "title": "Listen to 911 Calls From Inside an Immigration Detention Center: “We Just Need to Take Him to the Hospital”",
+   "url": "https://bsky.app/profile/propublica.org/post/3muss4uefzq2c",
+   "discussionUrl": "https://bsky.app/profile/propublica.org/post/3muss4uefzq2c",
+   "domain": "propublica.org",
+   "linkUrl": "https://www.propublica.org/article/911-calls-camp-east-montana-texas-detention?utm_campaign=propublica-sprout&utm_content=1788656404&utm_medium=social&utm_source=bluesky",
+   "author": "ProPublica (@propublica.org)",
+   "publishedAt": "2026-09-06T01:00:04.986Z",
+   "excerpt": "In November 2025, a nurse at Camp East Montana called 911 to get help for a detained woman with COVID-19. “We don’t have any oxygen for her,” the nurse said as the woman’s oxygen saturation dropped. “She just doesn’t look good.”",
+   "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k4jt6heuiamymgi46yeuxtpt/bafkreibtnlsoat4cnz5lqcwfyd5eayaoihqznwvhnhwjo4rrwpzdsptjia",
    "signals": {
-    "likes": 2165,
-    "reposts": 359
-   },
-   "key": "bsky.app/profile/karma-chaos.bsky.social/post/3murclvyyk226"
+    "likes": 717,
+    "reposts": 355
+   }
   },
   {
-   "id": "bsky:3murzssgx5k2t:2diirpcd",
+   "id": "bsky:3mut5435uju2i:gf4a3tb2",
    "source": "bluesky",
    "sourceName": "Bluesky",
    "kind": "post",
-   "title": "Die No Angels treten in Hockenheim grade mit FCKAF💩-Shirts auf. ❤️‍🔥",
-   "url": "https://bsky.app/profile/brittstgt.bsky.social/post/3murzssgx5k2t",
-   "discussionUrl": "https://bsky.app/profile/brittstgt.bsky.social/post/3murzssgx5k2t",
-   "domain": "bsky.app",
-   "author": "brittstgt (@brittstgt.bsky.social)",
-   "publishedAt": "2026-09-05T17:44:57.633Z",
-   "excerpt": "Die No Angels treten in Hockenheim grade mit FCKAF💩-Shirts auf. ❤️‍🔥",
+   "title": "Dodgers 6, Nationals 5: Tommy Edman plays the hero as Dodgers come back to beat the Nats",
+   "url": "https://bsky.app/profile/dodgersdigest.bsky.social/post/3mut5435uju2i",
+   "discussionUrl": "https://bsky.app/profile/dodgersdigest.bsky.social/post/3mut5435uju2i",
+   "domain": "dodgersdigest.com",
+   "linkUrl": "https://dodgersdigest.com/2026/09/05/dodgers-6-nationals-5-tommy-edman-plays-the-hero-as-dodgers-come-back-to-beat-the-nats/?utm_source=dlvr.it&utm_medium=bluesky&utm_campaign=dodgers-6-nationals-5-tommy-edman-plays-the-hero-as-dodgers-come-back-to-beat-the-nats",
+   "author": "Dodgers Digest (@dodgersdigest.bsky.social)",
+   "publishedAt": "2026-09-06T04:16:29.000Z",
+   "excerpt": "Dodgers 6, Nationals 5: Tommy Edman plays the hero as Dodgers come back to beat the Nats",
+   "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iwl6ifmtf75pchajgf4a3tb2/bafkreidkbtv7tcg7zbjuqegpqlspcvjkf6uurybr7qgt7zuymi7wmdlfj4",
    "signals": {
-    "likes": 354,
-    "reposts": 30
-   },
-   "key": "bsky.app/profile/brittstgt.bsky.social/post/3murzssgx5k2t"
+    "likes": 11,
+    "reposts": 0
+   }
   },
   {
-   "id": "bsky:3murzjmopjs2s:iynpjh2z",
+   "id": "bsky:3murytlxzox2v:h7lp2ryr",
    "source": "bluesky",
    "sourceName": "Bluesky",
    "kind": "post",
-   "title": "One more from my garden. Fuchsia. ♥️ #Photography #Scape #PNW #PDX #Flowers #Bloomscrolling #Gardens",
-   "url": "https://bsky.app/profile/mjwyatt.bsky.social/post/3murzjmopjs2s",
-   "discussionUrl": "https://bsky.app/profile/mjwyatt.bsky.social/post/3murzjmopjs2s",
-   "domain": "bsky.app",
-   "author": "Mary (@mjwyatt.bsky.social)",
-   "publishedAt": "2026-09-05T17:39:49.611Z",
-   "excerpt": "One more from my garden. Fuchsia. ♥️ #Photography #Scape #PNW #PDX #Flowers #Bloomscrolling #Gardens",
-   "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:efh23t4xq6zcocomiynpjh2z/bafkreieefpl6gjrh2upttpspaqywxhyroi6o2qbbdglhr3subgdmmeoywa",
-   "signals": {
-    "likes": 102,
-    "reposts": 9
-   },
-   "key": "bsky.app/profile/mjwyatt.bsky.social/post/3murzjmopjs2s"
-  },
-  {
-   "id": "bsky:3murvr7g3n42a:h7lp2ryr",
-   "source": "bluesky",
-   "sourceName": "Bluesky",
-   "kind": "post",
-   "title": "Anthony Howe is a kinetic sculptor who creates wind-driven sculptures resembling pulsing, alien creatures and vortices.…",
-   "url": "https://bsky.app/profile/rainmaker1973-m.bsky.social/post/3murvr7g3n42a",
-   "discussionUrl": "https://bsky.app/profile/rainmaker1973-m.bsky.social/post/3murvr7g3n42a",
+   "title": "Did you know? There's this nice natural geological formation in Iceland, called the 'Elephant rock' for a precise reaso…",
+   "url": "https://bsky.app/profile/rainmaker1973-m.bsky.social/post/3murytlxzox2v",
+   "discussionUrl": "https://bsky.app/profile/rainmaker1973-m.bsky.social/post/3murytlxzox2v",
    "domain": "bsky.app",
    "author": "Massimo (mirror) (@rainmaker1973-m.bsky.social)",
-   "publishedAt": "2026-09-05T16:32:29.143Z",
-   "excerpt": "Anthony Howe is a kinetic sculptor who creates wind-driven sculptures resembling pulsing, alien creatures and vortices. This one is in downtown Montreal. Original post",
+   "publishedAt": "2026-09-05T17:27:30.582Z",
+   "excerpt": "Did you know? There's this nice natural geological formation in Iceland, called the 'Elephant rock' for a precise reason. Repost of @Realnitesh945: Original post",
    "signals": {
-    "likes": 4434,
-    "reposts": 811
-   },
-   "key": "bsky.app/profile/rainmaker1973-m.bsky.social/post/3murvr7g3n42a"
+    "likes": 6200,
+    "reposts": 899
+   }
   },
   {
-   "id": "bsky:3musczyz5dx2q:xxjduqoi",
+   "id": "bsky:3mutf4mboeu2b:3w7scd74",
    "source": "bluesky",
    "sourceName": "Bluesky",
    "kind": "post",
-   "title": "\"I’m walking through the streets of the United States... carrying a feeling of shame and humiliation\"",
-   "url": "https://bsky.app/profile/motherjones.com/post/3musczyz5dx2q",
-   "discussionUrl": "https://bsky.app/profile/motherjones.com/post/3musczyz5dx2q",
-   "domain": "motherjones.com",
-   "linkUrl": "https://www.motherjones.com/politics/2026/09/pierre-damas-bel-death-ice-tps/",
-   "author": "Mother Jones (@motherjones.com)",
-   "publishedAt": "2026-09-05T20:30:02.086Z",
-   "excerpt": "Devastating. \"I’m walking through the streets of the United States with a GPS monitor on my leg, carrying a feeling of shame and humiliation that I never imagined I would experience.”",
-   "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qobvnkudcv3zlaklxxjduqoi/bafkreibsjm32ax2sm7ivg6ek7hqcsousnmhwmn556g6nwfr445nwie6zjq",
+   "title": "‘Every girl now wants to be a boxer’: excitement in Katie Taylor’s home town for her valedictory bout",
+   "url": "https://bsky.app/profile/us.theguardian.com/post/3mutf4mboeu2b",
+   "discussionUrl": "https://bsky.app/profile/us.theguardian.com/post/3mutf4mboeu2b",
+   "domain": "theguardian.com",
+   "linkUrl": "https://www.theguardian.com/world/2026/sep/05/katie-taylor-boxing-valedictory-bout-croke-park-ireland?utm_term=Autofeed&CMP=us_bsky&utm_medium=Social&utm_source=Bluesky#Echobox=1788663916",
+   "author": "Guardian US (@us.theguardian.com)",
+   "publishedAt": "2026-09-06T06:39:57.328Z",
+   "excerpt": "Irish boxer lauded for her tenacity and inspiration before her last fight in front of 80,000 people at Croke Park",
+   "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nl32untxngcg74dl3w7scd74/bafkreicvthgcuqhtfzbzx46ufsoequn7x2fup65uhbmodlmeeflcpnwhb4",
    "signals": {
-    "likes": 205,
-    "reposts": 73
-   },
-   "key": "motherjones.com/politics/2026/09/pierre-damas-bel-death-ice-tps"
+    "likes": 13,
+    "reposts": 1
+   }
   },
   {
-   "id": "bsky:3murv5c2o622b:wsxus3gb",
+   "id": "bsky:3muto4i7cmc2r:rpczzgrn",
    "source": "bluesky",
    "sourceName": "Bluesky",
    "kind": "post",
-   "title": "ZOOM! Photo from my collection, 1979. ❄️",
-   "url": "https://bsky.app/profile/catsofyore.bsky.social/post/3murv5c2o622b",
-   "discussionUrl": "https://bsky.app/profile/catsofyore.bsky.social/post/3murv5c2o622b",
+   "title": "Finished! Hiked 26 miles in 20 hours and raised £4326 for MacMillan Cancer Support. The beautiful Northumberland coasta…",
+   "url": "https://bsky.app/profile/jocaulfield.bsky.social/post/3muto4i7cmc2r",
+   "discussionUrl": "https://bsky.app/profile/jocaulfield.bsky.social/post/3muto4i7cmc2r",
    "domain": "bsky.app",
-   "author": "Cats of Yore (@catsofyore.bsky.social)",
-   "publishedAt": "2026-09-05T16:21:20.803Z",
-   "excerpt": "ZOOM! Photo from my collection, 1979. ❄️",
-   "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xrr5j2okn7ew2zvcwsxus3gb/bafkreic4xvl4xpzdo67tywe6mhymw6drb7ckgfck4trqmqvcvnmlnd3wdy",
+   "author": "Jo Caulfield (@jocaulfield.bsky.social)",
+   "publishedAt": "2026-09-06T09:20:57.016Z",
+   "excerpt": "Finished! Hiked 26 miles in 20 hours and raised £4326 for MacMillan Cancer Support. The beautiful Northumberland coastal path was stunning & we were extremely lucky with the weather. THANK YOU to everyone who has donated, it is hugely appreciated. 💚",
+   "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qas63kor2d64vac3rpczzgrn/bafkreiadw3pnasv6p5uvu2omxllehgchn5ch65d7lmy2vojn4ipc7mchpq",
    "signals": {
-    "likes": 1491,
-    "reposts": 167
-   },
-   "key": "bsky.app/profile/catsofyore.bsky.social/post/3murv5c2o622b"
-  },
-  {
-   "id": "bsky:3murqte242s2z:kgwup6hg",
-   "source": "bluesky",
-   "sourceName": "Bluesky",
-   "kind": "post",
-   "title": "Green Wood Hoopoe 44 cm live: sub-Saharan Africa Tree hollow for nest feed on insects and larvae in bark of trees Live…",
-   "url": "https://bsky.app/profile/joycomes.bsky.social/post/3murqte242s2z",
-   "discussionUrl": "https://bsky.app/profile/joycomes.bsky.social/post/3murqte242s2z",
-   "domain": "bsky.app",
-   "author": "🇨🇦JOY 🇨🇦 (@joycomes.bsky.social)",
-   "publishedAt": "2026-09-05T15:04:12.415Z",
-   "excerpt": "Green Wood Hoopoe 44 cm live: sub-Saharan Africa Tree hollow for nest feed on insects and larvae in bark of trees Live in a tight territorial groups 16 or more breeding pairs non-breeding helpers, all helping with incubation and feeding the new chicks, and another month after ch…",
-   "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:guj2wk2cutw2j4urkgwup6hg/bafkreidhnutbg6n4ebakmjjd22rewjyupgritu7g5bp53iehcgfisswftu",
-   "signals": {
-    "likes": 98,
-    "reposts": 13
-   },
-   "key": "bsky.app/profile/joycomes.bsky.social/post/3murqte242s2z"
-  },
-  {
-   "id": "bsky:3murlwbaugc2t:hxwqybxl",
-   "source": "bluesky",
-   "sourceName": "Bluesky",
-   "kind": "post",
-   "title": "Sometimes Uni expands. Why?",
-   "url": "https://bsky.app/profile/unicouniuni3.bsky.social/post/3murlwbaugc2t",
-   "discussionUrl": "https://bsky.app/profile/unicouniuni3.bsky.social/post/3murlwbaugc2t",
-   "domain": "bsky.app",
-   "author": "I'm Uni :3 (@unicouniuni3.bsky.social)",
-   "publishedAt": "2026-09-05T13:36:21.435Z",
-   "excerpt": "Sometimes Uni expands. Why?",
-   "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5ysft3tkkncrn3xohxwqybxl/bafkreiabdl2yiclv7bko5aoo2ui5ikhqk3sryoemvfhfhr3femn2t4pi7y",
-   "signals": {
-    "likes": 4094,
-    "reposts": 629
-   },
-   "key": "bsky.app/profile/unicouniuni3.bsky.social/post/3murlwbaugc2t"
-  },
-  {
-   "id": "bsky:3murs6pxz6k2p:qdx3corx",
-   "source": "bluesky",
-   "sourceName": "Bluesky",
-   "kind": "post",
-   "title": "Nostalgia time ⚡️ #americandragon #americandragonjakelong",
-   "url": "https://bsky.app/profile/montesmith.bsky.social/post/3murs6pxz6k2p",
-   "discussionUrl": "https://bsky.app/profile/montesmith.bsky.social/post/3murs6pxz6k2p",
-   "domain": "bsky.app",
-   "author": "Monte Smith 🌸🌴🪩 (@montesmith.bsky.social)",
-   "publishedAt": "2026-09-05T15:28:27.756Z",
-   "excerpt": "Nostalgia time ⚡️ #americandragon #americandragonjakelong",
-   "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4kb3irolld75myr6qdx3corx/bafkreighdqsjjrspxoaivo373lnfu2eif5opdleo4mysa3pzu6czmgmqke",
-   "signals": {
-    "likes": 915,
-    "reposts": 248
-   },
-   "key": "bsky.app/profile/montesmith.bsky.social/post/3murs6pxz6k2p"
-  },
-  {
-   "id": "bsky:3murtpvengk2p:ey245upy",
-   "source": "bluesky",
-   "sourceName": "Bluesky",
-   "kind": "post",
-   "title": "🌿♥️ this pure love between sentient souls 🤎🩷💛❤️🤎🌱",
-   "url": "https://bsky.app/profile/keeprising.bsky.social/post/3murtpvengk2p",
-   "discussionUrl": "https://bsky.app/profile/keeprising.bsky.social/post/3murtpvengk2p",
-   "domain": "bsky.app",
-   "author": "💙🪄 Keep Rising 🪄💙 (@keeprising.bsky.social)",
-   "publishedAt": "2026-09-05T15:55:57.593Z",
-   "excerpt": "🌿♥️ this pure love between sentient souls 🤎🩷💛❤️🤎🌱",
-   "signals": {
-    "likes": 4174,
-    "reposts": 617
-   },
-   "key": "bsky.app/profile/keeprising.bsky.social/post/3murtpvengk2p"
-  },
-  {
-   "id": "bsky:3mus6d4kpcc2w:ngegpgrr",
-   "source": "bluesky",
-   "sourceName": "Bluesky",
-   "kind": "post",
-   "title": "\"Dead King\" - my charcoal drawing",
-   "url": "https://bsky.app/profile/artandriifrolov.bsky.social/post/3mus6d4kpcc2w",
-   "discussionUrl": "https://bsky.app/profile/artandriifrolov.bsky.social/post/3mus6d4kpcc2w",
-   "domain": "bsky.app",
-   "author": "Andrii Frolov (@artandriifrolov.bsky.social)",
-   "publishedAt": "2026-09-05T19:05:40.080Z",
-   "excerpt": "\"Dead King\" - my charcoal drawing",
-   "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ncugrgpa74r6lto4ngegpgrr/bafkreiept6fnopbmgcmpgd5kuktqmquqfrfy6lr4zs5ar5u4fmmx35zcdy",
-   "signals": {
-    "likes": 1597,
-    "reposts": 117
-   },
-   "key": "bsky.app/profile/artandriifrolov.bsky.social/post/3mus6d4kpcc2w"
-  },
-  {
-   "id": "bsky:3murwucodck25:fqvfxzot",
-   "source": "bluesky",
-   "sourceName": "Bluesky",
-   "kind": "post",
-   "title": "After losing our sweet rescue dog Marra back in March we swore no more pets. Marra was mostly blind and suffered from s…",
-   "url": "https://bsky.app/profile/pepereg.bsky.social/post/3murwucodck25",
-   "discussionUrl": "https://bsky.app/profile/pepereg.bsky.social/post/3murwucodck25",
-   "domain": "bsky.app",
-   "author": "Pepere G (@pepereg.bsky.social)",
-   "publishedAt": "2026-09-05T16:52:06.979Z",
-   "excerpt": "After losing our sweet rescue dog Marra back in March we swore no more pets. Marra was mostly blind and suffered from seizures. Well, it only lasted 5 months. Picked up this cute little guy on Tuesday. 1 year old schnauzer mix, another rescue",
-   "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hesmzfcmawkgiravfqvfxzot/bafkreiae7lc3khtebt727saquxwymf5gkh5q6vkiniruquz6pyn2qxlrwy",
-   "signals": {
-    "likes": 3940,
-    "reposts": 191
-   },
-   "key": "bsky.app/profile/pepereg.bsky.social/post/3murwucodck25"
-  },
-  {
-   "id": "bsky:3mupduxjdgs2d:jsvrms3s",
-   "source": "bluesky",
-   "sourceName": "Bluesky",
-   "kind": "post",
-   "title": "Romanian prosecutors indict Andrew Tate on trafficking minors and money laundering",
-   "url": "https://bsky.app/profile/nbcnews.com/post/3mupduxjdgs2d",
-   "discussionUrl": "https://bsky.app/profile/nbcnews.com/post/3mupduxjdgs2d",
-   "domain": "nbcnews.com",
-   "linkUrl": "https://www.nbcnews.com/news/us-news/romanian-prosecutors-indict-andrew-tate-trafficking-minors-money-laund-rcna596122",
-   "author": "NBC News (@nbcnews.com)",
-   "publishedAt": "2026-09-04T16:07:08.271Z",
-   "excerpt": "NEW: Romanian prosecutors indict social media influencer Andrew Tate on charges of trafficking minors, sex with a minor, and money laundering. www.nbcnews.com/news/us-news...",
-   "thumbnail": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wmho6q2uiyktkam3jsvrms3s/bafkreibndm5tzqk4tc5d6pogrsvjbl7jstfwxmmg47pjulvatd3poki62m",
-   "signals": {
-    "likes": 12484,
-    "reposts": 3183
-   },
-   "key": "nbcnews.com/news/us-news/romanian-prosecutors-indict-andrew-tate-trafficking-minors-money-laund-rcna596122"
-  },
-  {
-   "id": "bsky:3murwbwk2jk22:wv63nnh4",
-   "source": "bluesky",
-   "sourceName": "Bluesky",
-   "kind": "post",
-   "title": "Under the gold edge of this Chronicles of Narnia set lies a hidden painted scene, visible only when the pages fan open.",
-   "url": "https://bsky.app/profile/yourdigitalbrain.bsky.social/post/3murwbwk2jk22",
-   "discussionUrl": "https://bsky.app/profile/yourdigitalbrain.bsky.social/post/3murwbwk2jk22",
-   "domain": "bsky.app",
-   "author": "Digital Brain (@yourdigitalbrain.bsky.social)",
-   "publishedAt": "2026-09-05T16:41:30.000Z",
-   "excerpt": "Under the gold edge of this Chronicles of Narnia set lies a hidden painted scene, visible only when the pages fan open.",
-   "signals": {
-    "likes": 947,
-    "reposts": 156
-   },
-   "key": "bsky.app/profile/yourdigitalbrain.bsky.social/post/3murwbwk2jk22"
-  },
-  {
-   "id": "bsky:3murj62jvmk2p:sdayiyyz",
-   "source": "bluesky",
-   "sourceName": "Bluesky",
-   "kind": "post",
-   "title": "On the way to her new home, She has just been adopted ❤ Look how cute she is 😍😍 Original post",
-   "url": "https://bsky.app/profile/tweeetsofdogsauto.bsky.social/post/3murj62jvmk2p",
-   "discussionUrl": "https://bsky.app/profile/tweeetsofdogsauto.bsky.social/post/3murj62jvmk2p",
-   "domain": "bsky.app",
-   "author": "Tweeets of Dogs Automated (@tweeetsofdogsauto.bsky.social)",
-   "publishedAt": "2026-09-05T12:47:01.592Z",
-   "excerpt": "On the way to her new home, She has just been adopted ❤ Look how cute she is 😍😍 Original post",
-   "signals": {
-    "likes": 2709,
-    "reposts": 232
-   },
-   "key": "bsky.app/profile/tweeetsofdogsauto.bsky.social/post/3murj62jvmk2p"
+    "likes": 52,
+    "reposts": 5
+   }
   },
   {
    "id": "yt:rOKBvd7pxK8",
@@ -1834,9 +1855,8 @@
    "publishedAt": "2026-08-25T14:57:14.000Z",
    "excerpt": "1-Page PDF Summary: https://lozeron-academy-llc.kit.com/build Book Link: https://amzn.to/3Uhqj9L The Productivity Game Academy: https://productivitygame.com Animated core message from Tony Fadell's b…",
    "signals": {
-    "views": 8911
-   },
-   "key": "youtube.com/watch?v=rokbvd7pxk8"
+    "views": 8980
+   }
   },
   {
    "id": "yt:bVCLsovwZys",
@@ -1853,9 +1873,8 @@
    "publishedAt": "2026-08-11T14:51:52.000Z",
    "excerpt": "1-Page PDF Summary: https://lozeron-academy-llc.kit.com/stories-that-stick Book Link: https://amzn.to/4bIJK1f The Productivity Game Academy: https://ProductivityGame.com Animated core message from Ki…",
    "signals": {
-    "views": 10357
-   },
-   "key": "youtube.com/watch?v=bvclsovwzys"
+    "views": 10377
+   }
   },
   {
    "id": "yt:3SmJHbT4RAw",
@@ -1872,9 +1891,8 @@
    "publishedAt": "2026-07-28T11:36:08.000Z",
    "excerpt": "1-Page PDF Summary: https://lozeron-academy-llc.kit.com/think-like-a-warrior Book Link: https://amzn.to/4fCj5UF The Productivity Game Academy: https://productivitygame.com Animated core message from…",
    "signals": {
-    "views": 9441
-   },
-   "key": "youtube.com/watch?v=3smjhbt4raw"
+    "views": 9459
+   }
   },
   {
    "id": "yt:QCFPmqo9fVY",
@@ -1891,9 +1909,8 @@
    "publishedAt": "2026-07-14T11:47:47.000Z",
    "excerpt": "1-Page PDF Summary: https://lozeron-academy-llc.kit.com/beyond-belief Book Link: https://amzn.to/4fyvkTn The Productivity Game Academy: https://productivitygame.com/ Animated core message from Nir Ey…",
    "signals": {
-    "views": 11008
-   },
-   "key": "youtube.com/watch?v=qcfpmqo9fvy"
+    "views": 11020
+   }
   },
   {
    "id": "yt:n0R7GJjJMTw",
@@ -1910,9 +1927,8 @@
    "publishedAt": "2026-08-15T14:30:39.000Z",
    "excerpt": "Hi! Time for another book discussion. This time? Four great ideas from LOTR that you'd never find IN the book. Well, at least three of them. But even the last one took me a long time to pin down. Wha…",
    "signals": {
-    "views": 533
-   },
-   "key": "youtube.com/watch?v=n0r7gjjjmtw"
+    "views": 534
+   }
   },
   {
    "id": "yt:ChWN1bOqazQ",
@@ -1930,8 +1946,7 @@
    "excerpt": "Hey! Long time no see. Figured I'd try something new. Something real. Something Youtube, I believe, was always meant to be: real people sharing real stories. No Hollywood production. No jump cuts eve…",
    "signals": {
     "views": 864
-   },
-   "key": "youtube.com/watch?v=chwn1boqazq"
+   }
   },
   {
    "id": "yt:TsU00pg6dmY",
@@ -1948,9 +1963,8 @@
    "publishedAt": "2026-08-25T13:00:41.000Z",
    "excerpt": "For a free month of Wispr Flow Pro: ref.wisprflow.ai/ali_shorts I run an online business school, and a big chunk of my week is replying to students on Slack. That used to be an hour of context switch…",
    "signals": {
-    "views": 10777
-   },
-   "key": "youtube.com/watch?v=tsu00pg6dmy"
+    "views": 10917
+   }
   },
   {
    "id": "yt:D11PMo1JVU4",
@@ -1967,9 +1981,8 @@
    "publishedAt": "2026-08-20T11:45:08.000Z",
    "excerpt": "Click this link for a free 30-day Manychat Pro trial: get.manychat.com/course-creators?utm_source=influencer&utm_medium=cold&utm_campaign=AliAbdaalEmpireYTS&utm_content=YTS or use the coupon code: AL…",
    "signals": {
-    "views": 16240
-   },
-   "key": "youtube.com/watch?v=d11pmo1jvu4"
+    "views": 16365
+   }
   },
   {
    "id": "yt:nH-sP5Afyxk",
@@ -1986,9 +1999,8 @@
    "publishedAt": "2026-08-17T10:00:08.000Z",
    "excerpt": "If you want to give Viktor a go and get $100 of his work completely free, no credit card required, copy and paste this link: ref.viktor.com/vik-aa-aug-reel When we hired Viktor last month, I genuinel…",
    "signals": {
-    "views": 18246
-   },
-   "key": "youtube.com/watch?v=nh-sp5afyxk"
+    "views": 18300
+   }
   },
   {
    "id": "yt:fEMHMd7fovM",
@@ -2005,9 +2017,26 @@
    "publishedAt": "2026-08-15T14:00:00.000Z",
    "excerpt": "Try the free Niche Lab, built with Perplexity Computer: https://pplx.ai/ali-abdaal-youtube #PerplexityPartner 🧠 Superfocus: Our Ultimate Productivity System for People with More Ambition than Time →…",
    "signals": {
-    "views": 129157
-   },
-   "key": "youtube.com/watch?v=femhmd7fovm"
+    "views": 130245
+   }
+  },
+  {
+   "id": "yt:WKivPV0Szkw",
+   "source": "youtube",
+   "sourceName": "Daily Stoic",
+   "kind": "video",
+   "title": "I’m Coming to a City Near You",
+   "url": "https://www.youtube.com/watch?v=WKivPV0Szkw",
+   "domain": "youtube.com",
+   "videoId": "WKivPV0Szkw",
+   "thumbnail": "https://i.ytimg.com/vi/WKivPV0Szkw/hqdefault.jpg",
+   "author": "Daily Stoic",
+   "channelId": "UCkUaT0T03TJvafYkfATM2Ag",
+   "publishedAt": "2026-09-06T00:00:12.000Z",
+   "excerpt": "📖 Order the final book in Ryan Holiday's Stoic Virtues Series: https://store.dailystoic.com/pages/wisdom-takes-work ✉️ Want Stoic wisdom delivered to your inbox daily? Sign up for the FREE Daily Sto…",
+   "signals": {
+    "views": 3242
+   }
   },
   {
    "id": "yt:AdMrk0zQKSs",
@@ -2024,9 +2053,8 @@
    "publishedAt": "2026-09-05T15:00:21.000Z",
    "excerpt": "📖 Order the final book in Ryan Holiday's Stoic Virtues Series: https://store.dailystoic.com/pages/wisdom-takes-work ✉️ Want Stoic wisdom delivered to your inbox daily? Sign up for the FREE Daily Sto…",
    "signals": {
-    "views": 2320
-   },
-   "key": "youtube.com/watch?v=admrk0zqkss"
+    "views": 5447
+   }
   },
   {
    "id": "yt:HXXLOIiNxVA",
@@ -2043,9 +2071,8 @@
    "publishedAt": "2026-09-05T00:00:39.000Z",
    "excerpt": "📖 Order the final book in Ryan Holiday's Stoic Virtues Series: https://store.dailystoic.com/pages/wisdom-takes-work ✉️ Want Stoic wisdom delivered to your inbox daily? Sign up for the FREE Daily Sto…",
    "signals": {
-    "views": 1673
-   },
-   "key": "youtube.com/watch?v=hxxloiinxva"
+    "views": 2177
+   }
   },
   {
    "id": "yt:Bv7_ishrY7Q",
@@ -2062,28 +2089,8 @@
    "publishedAt": "2026-09-04T15:00:18.000Z",
    "excerpt": "📖 Order the final book in Ryan Holiday's Stoic Virtues Series: https://store.dailystoic.com/pages/wisdom-takes-work ✉️ Want Stoic wisdom delivered to your inbox daily? Sign up for the FREE Daily Sto…",
    "signals": {
-    "views": 5154
-   },
-   "key": "youtube.com/watch?v=bv7_ishry7q"
-  },
-  {
-   "id": "yt:VaNxv-Y0qFY",
-   "source": "youtube",
-   "sourceName": "Daily Stoic",
-   "kind": "video",
-   "title": "Three Stoic Strategies For Managing Your Time Better",
-   "url": "https://www.youtube.com/watch?v=VaNxv-Y0qFY",
-   "domain": "youtube.com",
-   "videoId": "VaNxv-Y0qFY",
-   "thumbnail": "https://i.ytimg.com/vi/VaNxv-Y0qFY/hqdefault.jpg",
-   "author": "Daily Stoic",
-   "channelId": "UCkUaT0T03TJvafYkfATM2Ag",
-   "publishedAt": "2026-09-04T00:00:39.000Z",
-   "excerpt": "📖 Order the final book in Ryan Holiday's Stoic Virtues Series: https://store.dailystoic.com/pages/wisdom-takes-work ✉️ Want Stoic wisdom delivered to your inbox daily? Sign up for the FREE Daily Sto…",
-   "signals": {
-    "views": 4051
-   },
-   "key": "youtube.com/watch?v=vanxv-y0qfy"
+    "views": 5875
+   }
   },
   {
    "id": "hf:deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
@@ -2097,11 +2104,10 @@
    "publishedAt": "2026-08-31T06:16:18.000Z",
    "excerpt": "Task: image-text-to-text · Library: transformers · License: mit",
    "signals": {
-    "likes": 674,
-    "downloads": 184542,
-    "trending": 608
-   },
-   "key": "huggingface.co/deepseek-ai/deepseek-v4-flash-vision-exp"
+    "likes": 703,
+    "downloads": 209191,
+    "trending": 627
+   }
   },
   {
    "id": "hf:Qwen/Qwen3.8-27B",
@@ -2115,29 +2121,10 @@
    "publishedAt": "2026-08-05T08:22:59.000Z",
    "excerpt": "Task: image-text-to-text · Library: transformers · License: apache-2.0",
    "signals": {
-    "likes": 14033,
-    "downloads": 6024467,
-    "trending": 537
-   },
-   "key": "huggingface.co/qwen/qwen3.8-27b"
-  },
-  {
-   "id": "hf:Qwen/Qwen3.8-Flash-Next",
-   "source": "huggingface",
-   "sourceName": "Hugging Face",
-   "kind": "model",
-   "title": "Qwen/Qwen3.8-Flash-Next",
-   "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
-   "domain": "huggingface.co",
-   "author": "Qwen",
-   "publishedAt": "2026-08-24T08:24:59.000Z",
-   "excerpt": "Task: image-text-to-text · Library: transformers · License: other",
-   "signals": {
-    "likes": 4913,
-    "downloads": 401327,
-    "trending": 481
-   },
-   "key": "huggingface.co/qwen/qwen3.8-flash-next"
+    "likes": 14067,
+    "downloads": 6190807,
+    "trending": 528
+   }
   },
   {
    "id": "hf:XHToken/Spark-X2.5-4B",
@@ -2151,11 +2138,27 @@
    "publishedAt": "2026-08-24T06:34:34.000Z",
    "excerpt": "Task: text-generation · Library: transformers · License: apache-2.0",
    "signals": {
-    "likes": 534,
-    "downloads": 4755,
+    "likes": 573,
+    "downloads": 5477,
+    "trending": 477
+   }
+  },
+  {
+   "id": "hf:Qwen/Qwen3.8-Flash-Next",
+   "source": "huggingface",
+   "sourceName": "Hugging Face",
+   "kind": "model",
+   "title": "Qwen/Qwen3.8-Flash-Next",
+   "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+   "domain": "huggingface.co",
+   "author": "Qwen",
+   "publishedAt": "2026-08-24T08:24:59.000Z",
+   "excerpt": "Task: image-text-to-text · Library: transformers · License: other",
+   "signals": {
+    "likes": 4931,
+    "downloads": 432966,
     "trending": 442
-   },
-   "key": "huggingface.co/xhtoken/spark-x2.5-4b"
+   }
   },
   {
    "id": "hf:google/timesfm-3.0-pytorch",
@@ -2169,65 +2172,10 @@
    "publishedAt": "2026-08-24T22:05:51.000Z",
    "excerpt": "Task: time-series-forecasting · License: other",
    "signals": {
-    "likes": 453,
-    "downloads": 123025,
-    "trending": 397
-   },
-   "key": "huggingface.co/google/timesfm-3.0-pytorch"
-  },
-  {
-   "id": "hf:zai-org/GLM-5.3-Flash",
-   "source": "huggingface",
-   "sourceName": "Hugging Face",
-   "kind": "model",
-   "title": "zai-org/GLM-5.3-Flash",
-   "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
-   "domain": "huggingface.co",
-   "author": "zai-org",
-   "publishedAt": "2026-08-25T06:43:14.000Z",
-   "excerpt": "Task: image-text-to-text · Library: transformers · License: mit",
-   "signals": {
-    "likes": 2077,
-    "downloads": 727610,
-    "trending": 384
-   },
-   "key": "huggingface.co/zai-org/glm-5.3-flash"
-  },
-  {
-   "id": "hf:Lightricks/LTX-2.5",
-   "source": "huggingface",
-   "sourceName": "Hugging Face",
-   "kind": "model",
-   "title": "Lightricks/LTX-2.5",
-   "url": "https://huggingface.co/Lightricks/LTX-2.5",
-   "domain": "huggingface.co",
-   "author": "Lightricks",
-   "publishedAt": "2026-07-23T07:55:24.000Z",
-   "excerpt": "Task: image-to-video · Library: diffusion-single-file · License: other",
-   "signals": {
-    "likes": 2874,
-    "downloads": 1484329,
-    "trending": 371
-   },
-   "key": "huggingface.co/lightricks/ltx-2.5"
-  },
-  {
-   "id": "hf:zai-org/GLM-5.3",
-   "source": "huggingface",
-   "sourceName": "Hugging Face",
-   "kind": "model",
-   "title": "zai-org/GLM-5.3",
-   "url": "https://huggingface.co/zai-org/GLM-5.3",
-   "domain": "huggingface.co",
-   "author": "zai-org",
-   "publishedAt": "2026-08-25T06:42:50.000Z",
-   "excerpt": "Task: text-generation · Library: transformers · License: other",
-   "signals": {
-    "likes": 1717,
-    "downloads": 370417,
-    "trending": 355
-   },
-   "key": "huggingface.co/zai-org/glm-5.3"
+    "likes": 476,
+    "downloads": 144455,
+    "trending": 417
+   }
   },
   {
    "id": "hf:ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
@@ -2241,11 +2189,61 @@
    "publishedAt": "2026-08-28T18:38:03.000Z",
    "excerpt": "Task: image-text-to-text · Library: gguf · License: apache-2.0",
    "signals": {
-    "likes": 398,
-    "downloads": 297493,
-    "trending": 339
-   },
-   "key": "huggingface.co/ista-daslab/qwen3.8-27b-gsq-rco-gguf"
+    "likes": 439,
+    "downloads": 348389,
+    "trending": 365
+   }
+  },
+  {
+   "id": "hf:Lightricks/LTX-2.5",
+   "source": "huggingface",
+   "sourceName": "Hugging Face",
+   "kind": "model",
+   "title": "Lightricks/LTX-2.5",
+   "url": "https://huggingface.co/Lightricks/LTX-2.5",
+   "domain": "huggingface.co",
+   "author": "Lightricks",
+   "publishedAt": "2026-07-23T07:55:24.000Z",
+   "excerpt": "Task: image-to-video · Library: diffusion-single-file · License: other",
+   "signals": {
+    "likes": 2917,
+    "downloads": 1526928,
+    "trending": 356
+   }
+  },
+  {
+   "id": "hf:zai-org/GLM-5.3-Flash",
+   "source": "huggingface",
+   "sourceName": "Hugging Face",
+   "kind": "model",
+   "title": "zai-org/GLM-5.3-Flash",
+   "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+   "domain": "huggingface.co",
+   "author": "zai-org",
+   "publishedAt": "2026-08-25T06:43:14.000Z",
+   "excerpt": "Task: image-text-to-text · Library: transformers · License: mit",
+   "signals": {
+    "likes": 2086,
+    "downloads": 761364,
+    "trending": 354
+   }
+  },
+  {
+   "id": "hf:zai-org/GLM-5.3",
+   "source": "huggingface",
+   "sourceName": "Hugging Face",
+   "kind": "model",
+   "title": "zai-org/GLM-5.3",
+   "url": "https://huggingface.co/zai-org/GLM-5.3",
+   "domain": "huggingface.co",
+   "author": "zai-org",
+   "publishedAt": "2026-08-25T06:42:50.000Z",
+   "excerpt": "Task: text-generation · Library: transformers · License: other",
+   "signals": {
+    "likes": 1726,
+    "downloads": 410074,
+    "trending": 317
+   }
   },
   {
    "id": "hf:unsloth/Qwen3.8-27B-GGUF",
@@ -2259,47 +2257,10 @@
    "publishedAt": "2026-08-13T08:28:40.000Z",
    "excerpt": "License: apache-2.0",
    "signals": {
-    "likes": 3540,
-    "downloads": 10157510,
+    "likes": 3559,
+    "downloads": 10311462,
     "trending": 280
-   },
-   "key": "huggingface.co/unsloth/qwen3.8-27b-gguf"
-  },
-  {
-   "id": "hf:sentence-transformers/all-MiniLM-L6-v2",
-   "source": "huggingface",
-   "sourceName": "Hugging Face",
-   "kind": "model",
-   "title": "sentence-transformers/all-MiniLM-L6-v2",
-   "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-   "domain": "huggingface.co",
-   "author": "sentence-transformers",
-   "publishedAt": "2022-03-02T23:29:05.000Z",
-   "excerpt": "Task: sentence-similarity · Library: sentence-transformers · License: apache-2.0",
-   "signals": {
-    "likes": 5553,
-    "downloads": 255006933,
-    "trending": 248
-   },
-   "key": "huggingface.co/sentence-transformers/all-minilm-l6-v2"
-  },
-  {
-   "id": "hf:BreezeBlue/Breeze-TTS-2",
-   "source": "huggingface",
-   "sourceName": "Hugging Face",
-   "kind": "model",
-   "title": "BreezeBlue/Breeze-TTS-2",
-   "url": "https://huggingface.co/BreezeBlue/Breeze-TTS-2",
-   "domain": "huggingface.co",
-   "author": "BreezeBlue",
-   "publishedAt": "2026-08-25T16:39:34.000Z",
-   "excerpt": "Task: text-to-speech · Library: transformers · License: other",
-   "signals": {
-    "likes": 448,
-    "downloads": 5962,
-    "trending": 247
-   },
-   "key": "huggingface.co/breezeblue/breeze-tts-2"
+   }
   },
   {
    "id": "hf:openai-community/gpt2",
@@ -2313,11 +2274,44 @@
    "publishedAt": "2022-03-02T23:29:04.000Z",
    "excerpt": "Task: text-generation · Library: transformers · License: mit",
    "signals": {
-    "likes": 3691,
-    "downloads": 14739982,
-    "trending": 243
-   },
-   "key": "huggingface.co/openai-community/gpt2"
+    "likes": 3705,
+    "downloads": 14612342,
+    "trending": 256
+   }
+  },
+  {
+   "id": "hf:sentence-transformers/all-MiniLM-L6-v2",
+   "source": "huggingface",
+   "sourceName": "Hugging Face",
+   "kind": "model",
+   "title": "sentence-transformers/all-MiniLM-L6-v2",
+   "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
+   "domain": "huggingface.co",
+   "author": "sentence-transformers",
+   "publishedAt": "2022-03-02T23:29:05.000Z",
+   "excerpt": "Task: sentence-similarity · Library: sentence-transformers · License: apache-2.0",
+   "signals": {
+    "likes": 5561,
+    "downloads": 253029336,
+    "trending": 256
+   }
+  },
+  {
+   "id": "hf:BreezeBlue/Breeze-TTS-2",
+   "source": "huggingface",
+   "sourceName": "Hugging Face",
+   "kind": "model",
+   "title": "BreezeBlue/Breeze-TTS-2",
+   "url": "https://huggingface.co/BreezeBlue/Breeze-TTS-2",
+   "domain": "huggingface.co",
+   "author": "BreezeBlue",
+   "publishedAt": "2026-08-25T16:39:34.000Z",
+   "excerpt": "Task: text-to-speech · Library: transformers · License: other",
+   "signals": {
+    "likes": 452,
+    "downloads": 6357,
+    "trending": 246
+   }
   },
   {
    "id": "hf:MiniMaxAI/MiniMax-H3",
@@ -2331,29 +2325,27 @@
    "publishedAt": "2026-07-28T10:45:18.000Z",
    "excerpt": "Task: image-text-to-video · Library: minimax-h3 · License: other",
    "signals": {
-    "likes": 4932,
-    "downloads": 5057414,
+    "likes": 4948,
+    "downloads": 4986349,
     "trending": 232
-   },
-   "key": "huggingface.co/minimaxai/minimax-h3"
+   }
   },
   {
-   "id": "hf:unsloth/Qwen3.8-Flash-Next-GGUF",
+   "id": "hf:google-bert/bert-base-uncased",
    "source": "huggingface",
    "sourceName": "Hugging Face",
    "kind": "model",
-   "title": "unsloth/Qwen3.8-Flash-Next-GGUF",
-   "url": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
+   "title": "google-bert/bert-base-uncased",
+   "url": "https://huggingface.co/google-bert/bert-base-uncased",
    "domain": "huggingface.co",
-   "author": "unsloth",
-   "publishedAt": "2026-08-26T12:29:32.000Z",
-   "excerpt": "Task: image-text-to-text · License: other",
+   "author": "google-bert",
+   "publishedAt": "2022-03-02T23:29:04.000Z",
+   "excerpt": "Task: fill-mask · Library: transformers · License: apache-2.0",
    "signals": {
-    "likes": 796,
-    "downloads": 780823,
-    "trending": 218
-   },
-   "key": "huggingface.co/unsloth/qwen3.8-flash-next-gguf"
+    "likes": 2987,
+    "downloads": 52338347,
+    "trending": 222
+   }
   }
  ]
 }
