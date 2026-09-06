@@ -8,3 +8,6 @@ dist/
 Thumbs.db
 test-results/
 playwright-report/
+shots/
+lighthouse/
+build.log

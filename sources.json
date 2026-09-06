@@ -1,0 +1,25 @@
+{
+  "_comment": "Keyless sources for scripts/build-feed.mjs. Edit from the GitHub app; the Routine reads this on every rebuild. Channel IDs were resolved from youtube.com/@handle on 2026-09-05.",
+  "hackerNews": { "top": 60, "minPoints": 20 },
+  "lobsters": { "enabled": true },
+  "bluesky": {
+    "whatsHot": true,
+    "whatsHotLimit": 30,
+    "handles": []
+  },
+  "youtube": {
+    "perChannel": 4,
+    "maxAgeDays": 180,
+    "channels": [
+      { "name": "Productivity Game", "handle": "ProductivityGame", "id": "UC02x9yG9ZFF_VZp1VnMoptg" },
+      { "name": "FightMediocrity", "handle": "FightMediocrity", "id": "UCXLesGEfmyhxqOjoAqhRwhA" },
+      { "name": "The Swedish Investor", "handle": "TheSwedishInvestor", "id": "UCAeAB8ABXGoGMbXuYPmiu2A" },
+      { "name": "Escaping Ordinary", "handle": "EscapingOrdinary", "id": "UCojW9HkenDUSAIjWV_qkRWA" },
+      { "name": "Four Minute Books", "handle": "FourMinuteBooks", "id": "UCoGzv_eLEDEHncFEl_xuiqg" },
+      { "name": "Ali Abdaal", "handle": "aliabdaal", "id": "UCoOae5nYA7VqaXzerajD0lg" },
+      { "name": "Daily Stoic", "handle": "DailyStoic", "id": "UCkUaT0T03TJvafYkfATM2Ag" }
+    ]
+  },
+  "huggingFace": { "limit": 15 },
+  "maxAgeDays": 7
+}

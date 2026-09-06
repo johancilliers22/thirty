@@ -1,0 +1,502 @@
+{
+ "yt:QCFPmqo9fVY": {
+  "score": 9,
+  "reason": "Nir Eyal's new book on belief and motivation in one page: a new book on your mindset shelf, from the author of Hooked"
+ },
+ "yt:AdMrk0zQKSs": {
+  "score": 8,
+  "reason": "Steven Pressfield (The War of Art) talking with Ryan Holiday: two authors from your discipline shelf in one conversation"
+ },
+ "yt:VaNxv-Y0qFY": {
+  "score": 8,
+  "reason": "Three Stoic time strategies you can apply today, sitting between your Seneca and Deep Work lines"
+ },
+ "yt:rOKBvd7pxK8": {
+  "score": 8,
+  "reason": "Core message of Tony Fadell's Build: product thinking for someone building indie apps and a creator business"
+ },
+ "yt:bVCLsovwZys": {
+  "score": 8,
+  "reason": "Stories That Stick summarised: the communication shelf, next to Talk Like TED"
+ },
+ "yt:Bv7_ishrY7Q": {
+  "score": 7,
+  "reason": "Daily Stoic on courage as a small morning act: Stoic practice applied, not quoted"
+ },
+ "yt:3SmJHbT4RAw": {
+  "score": 7,
+  "reason": "Book summary on a performance mindset: Mindset and Relentless territory"
+ },
+ "yt:fEMHMd7fovM": {
+  "score": 6,
+  "reason": "Ali Abdaal on choosing a direction for your life: productivity-classics ground, though sponsor-heavy"
+ },
+ "yt:n0R7GJjJMTw": {
+  "score": 5,
+  "reason": "Four Minute Books drawing life lessons from Tolkien: readable, but off your ten shelves"
+ },
+ "yt:HXXLOIiNxVA": {
+  "score": 3,
+  "reason": "Promo for a live Daily Stoic show, not an idea you can use in 30 seconds"
+ },
+ "yt:ChWN1bOqazQ": {
+  "score": 3,
+  "reason": "Lord of the Rings trivia: fun, no idea for your shelves"
+ },
+ "yt:TsU00pg6dmY": {
+  "score": 2,
+  "reason": "Sponsored short for a dictation app: an advert, not an idea"
+ },
+ "yt:D11PMo1JVU4": {
+  "score": 2,
+  "reason": "Sponsored short for a Manychat trial: engagement bait wearing a creator's face"
+ },
+ "yt:nH-sP5Afyxk": {
+  "score": 2,
+  "reason": "Affiliate promo for an AI agent product: no book, no idea"
+ },
+ "hn:49578866": {
+  "score": 8,
+  "reason": "Brad Feld on what actually counts as luxury: Psychology of Money thinking from a serious writer, 300+ points on HN"
+ },
+ "hn:49571465": {
+  "score": 8,
+  "reason": "Spotify engineering on cutting Claude Code token use by 90%: squarely your Claude Code interest"
+ },
+ "hn:49580164": {
+  "score": 7,
+  "reason": "A paper on how LLM use reshapes thinking: your critical-thinking shelf meets your AI-agents interest"
+ },
+ "hn:49567310": {
+  "score": 7,
+  "reason": "A better mental model for what an LLM is: mental-models shelf meets your AI interest"
+ },
+ "hn:49574167": {
+  "score": 6,
+  "reason": "Skill atrophy when AI handles the work: the Deep Work argument arriving in engineering"
+ },
+ "hn:49563355": {
+  "score": 6,
+  "reason": "Agents found talking to each other on a hidden board: a strange, real AI-agents story worth a glance"
+ },
+ "hn:49554643": {
+  "score": 6,
+  "reason": "OpenAI's GPT-6 Astra release: the frontier landscape for anything you build on agents"
+ },
+ "hn:49568506": {
+  "score": 5,
+  "reason": "Anthropic's model formalising Fermat's Last Theorem: what agents can now finish, big for your Claude Code angle"
+ },
+ "hn:49576986": {
+  "score": 5,
+  "reason": "How 3M kept PFAS secret for decades: Laws of Human Nature material on institutional denial"
+ },
+ "hn:49570545": {
+  "score": 4,
+  "reason": "GPT-6 Astra on OpenRouter: relevant only as a tool for what you build"
+ },
+ "hn:49571632": {
+  "score": 4,
+  "reason": "Model leaderboard update: useful only when choosing a model to build on"
+ },
+ "hn:49570669": {
+  "score": 3,
+  "reason": "Chromium sandbox exploit: security news a builder should know, but nothing to keep"
+ },
+ "hn:49569366": {
+  "score": 3,
+  "reason": "Can AI design circuit boards: a benchmark for agents, far from your shelves"
+ },
+ "hn:49563851": {
+  "score": 3,
+  "reason": "IBM's AI agent product launch: skim only if you track agent tooling"
+ },
+ "hn:49540253": {
+  "score": 3,
+  "reason": "A good detective story about a million missing falcons: pleasant, off shelf"
+ },
+ "hn:49576611": {
+  "score": 3,
+  "reason": "Ig Nobel winners: light curiosity, no idea to keep"
+ },
+ "hn:49571047": {
+  "score": 3,
+  "reason": "Guitar frets as a slide rule: a neat mental model demo, nothing more"
+ },
+ "hn:49580369": {
+  "score": 2,
+  "reason": "Space launch news: not on any of your shelves"
+ },
+ "hn:49580329": {
+  "score": 2,
+  "reason": "Deep fluid-dynamics maths from Terence Tao: fascinating, off topic"
+ },
+ "hn:49578280": {
+  "score": 2,
+  "reason": "An OCaml programming course: not what you read"
+ },
+ "hn:49552615": {
+  "score": 2,
+  "reason": "A flexible polyhedron: geometry curiosity"
+ },
+ "hn:49525188": {
+  "score": 2,
+  "reason": "Engineering explainer on dashpot snubbers: off shelf"
+ },
+ "hn:49577975": {
+  "score": 2,
+  "reason": "Labour news at Wikimedia: politics-adjacent, low by your rule"
+ },
+ "hn:49569896": {
+  "score": 2,
+  "reason": "A European static hosting service: tooling, not reading"
+ },
+ "hn:49576258": {
+  "score": 2,
+  "reason": "A gitignore convention: dev minutiae"
+ },
+ "hn:49567437": {
+  "score": 2,
+  "reason": "An open-source e-ink bike computer: maker project, off shelf"
+ },
+ "hn:49562219": {
+  "score": 2,
+  "reason": "A terminal assistant without LLMs: dev tooling"
+ },
+ "hn:49567873": {
+  "score": 2,
+  "reason": "Vite ships a Rust React compiler: build tooling news"
+ },
+ "hn:49568828": {
+  "score": 2,
+  "reason": "Rails site hacked after a CVE: security news, no idea to keep"
+ },
+ "hn:49516962": {
+  "score": 2,
+  "reason": "A spreadsheet research system: academic tooling"
+ },
+ "hn:49546284": {
+  "score": 2,
+  "reason": "RSA-260 factored: cryptography milestone, off shelf"
+ },
+ "hn:49575034": {
+  "score": 2,
+  "reason": "Central-bank gold movements: macro politics, low by your rule"
+ },
+ "hn:49576386": {
+  "score": 1,
+  "reason": "A cheap gaming PC board: hardware tinkering"
+ },
+ "hn:49576343": {
+  "score": 1,
+  "reason": "Rust vtables in memory: language internals"
+ },
+ "hn:49549778": {
+  "score": 1,
+  "reason": "An audio recompressor: codec tooling"
+ },
+ "hn:49580325": {
+  "score": 1,
+  "reason": "Rocket launch video: not your feed"
+ },
+ "hn:49571634": {
+  "score": 1,
+  "reason": "Nitter instances: Twitter front-end news"
+ },
+ "hn:49539110": {
+  "score": 1,
+  "reason": "CT scan of a CPU: hardware curiosity"
+ },
+ "hn:49575150": {
+  "score": 1,
+  "reason": "An alternative musical keyboard: off shelf"
+ },
+ "hn:49575859": {
+  "score": 1,
+  "reason": "Commodore 64 nostalgia: off shelf"
+ },
+ "hn:49535940": {
+  "score": 1,
+  "reason": "Singapore subway signage: transit trivia"
+ },
+ "hn:49573680": {
+  "score": 1,
+  "reason": "European git hosting: tooling"
+ },
+ "hn:49545430": {
+  "score": 1,
+  "reason": "Programming in Latin: novelty talk"
+ },
+ "hn:49533840": {
+  "score": 1,
+  "reason": "Soldering resources: hobby electronics"
+ },
+ "hn:49568579": {
+  "score": 1,
+  "reason": "A VPN shuts a DNS service: infra news"
+ },
+ "hn:49580248": {
+  "score": 1,
+  "reason": "Satellite industry labour report: defence news"
+ },
+ "hn:49535024": {
+  "score": 1,
+  "reason": "Compiler-style CLI diagnostics: dev minutiae"
+ },
+ "hn:49519850": {
+  "score": 1,
+  "reason": "Git submodules as a package manager: dev minutiae"
+ },
+ "hn:49550772": {
+  "score": 1,
+  "reason": "A top-level domain shutting down: trivia"
+ },
+ "hn:49529161": {
+  "score": 1,
+  "reason": "A decompiler comparison site: tooling"
+ },
+ "hn:49569663": {
+  "score": 1,
+  "reason": "A DNS resolver service: infra"
+ },
+ "hn:49566193": {
+  "score": 1,
+  "reason": "A DNS hosting service: infra"
+ },
+ "hn:49516312": {
+  "score": 1,
+  "reason": "Elevator of the year: trade-press curiosity"
+ },
+ "lob:utloro": {
+  "score": 7,
+  "reason": "A developer asks whether AI is eroding his thinking: Deep Work and Think Again territory"
+ },
+ "lob:dxjvcc": {
+  "score": 6,
+  "reason": "Essay on how your teachers shape how you think: your learning-and-remembering line"
+ },
+ "lob:5iacaa": {
+  "score": 6,
+  "reason": "Kevin Buzzard on being beaten to Fermat by an AI: a mathematician's honest reckoning with agents"
+ },
+ "lob:7tpc5q": {
+  "score": 4,
+  "reason": "Reviewing 6,000-line AI pull requests: a Deep Work problem in disguise, but a dev-process thread"
+ },
+ "lob:p5w5j6": {
+  "score": 3,
+  "reason": "Ken Thompson's trusting-trust attack done for real: a classic idea, deep in security"
+ },
+ "lob:fxccx9": {
+  "score": 3,
+  "reason": "Should hand-coders use AI review: a dev opinion thread"
+ },
+ "lob:grm0m9": {
+  "score": 3,
+  "reason": "A debugging war story about knowing where to type zero: craft lesson, off shelf"
+ },
+ "lob:kcklzg": {
+  "score": 2,
+  "reason": "Anatomy of a software test: dev craft"
+ },
+ "lob:duuz8z": {
+  "score": 2,
+  "reason": "A joke programming language: novelty"
+ },
+ "lob:64n3wp": {
+  "score": 1,
+  "reason": "Zig argument parsing library: dev tooling"
+ },
+ "lob:wk38d2": {
+  "score": 1,
+  "reason": "Which filesystem for your NAS: sysadmin thread"
+ },
+ "lob:svyytg": {
+  "score": 1,
+  "reason": "NYC pothole crew page: off topic"
+ },
+ "lob:o8bp2s": {
+  "score": 1,
+  "reason": "Babashka release notes: tooling"
+ },
+ "lob:omhoxh": {
+  "score": 1,
+  "reason": "Rust SIMD on GPUs: systems programming"
+ },
+ "lob:f2ele4": {
+  "score": 1,
+  "reason": "A new C++ container: language minutiae"
+ },
+ "lob:trzpsg": {
+  "score": 1,
+  "reason": "A job post seeking a designer: not reading"
+ },
+ "lob:5wzkwm": {
+  "score": 1,
+  "reason": "Gleam and BEAM talk: language ecosystem"
+ },
+ "lob:rhjedr": {
+  "score": 1,
+  "reason": "jank compiler news: language ecosystem"
+ },
+ "lob:f4jtaf": {
+  "score": 1,
+  "reason": "Mojo pointer types: language minutiae"
+ },
+ "hf:deepseek-ai/DeepSeek-V4-Flash-Vision-Exp": {
+  "score": 5,
+  "reason": "The top trending open model this week: matters if you build agents on open weights"
+ },
+ "hf:Qwen/Qwen3.8-27B": {
+  "score": 4,
+  "reason": "Qwen's new 27B open model: worth knowing exists if you build indie AI apps"
+ },
+ "hf:Qwen/Qwen3.8-Flash-Next": {
+  "score": 4,
+  "reason": "Qwen's fast open model: a building block, not an idea"
+ },
+ "hf:zai-org/GLM-5.3-Flash": {
+  "score": 4,
+  "reason": "Fast open model from Zhipu: a building block, not an idea"
+ },
+ "hf:zai-org/GLM-5.3": {
+  "score": 4,
+  "reason": "Zhipu's new flagship open model: for the agents you might build"
+ },
+ "hf:BreezeBlue/Breeze-TTS-2": {
+  "score": 4,
+  "reason": "New open text-to-speech model: useful if you ever voice book summaries"
+ },
+ "hf:MiniMaxAI/MiniMax-H3": {
+  "score": 4,
+  "reason": "New video-generation model: only matters for creator-business tooling"
+ },
+ "hf:Lightricks/LTX-2.5": {
+  "score": 4,
+  "reason": "Open image-to-video model: creator tooling, not reading"
+ },
+ "hf:ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF": {
+  "score": 3,
+  "reason": "Quantised repack of Qwen: niche for local-inference tinkerers"
+ },
+ "hf:unsloth/Qwen3.8-Flash-Next-GGUF": {
+  "score": 3,
+  "reason": "Quantised repack for local inference: niche"
+ },
+ "hf:unsloth/Qwen3.8-27B-GGUF": {
+  "score": 3,
+  "reason": "Quantised repack for local inference: niche"
+ },
+ "hf:XHToken/Spark-X2.5-4B": {
+  "score": 3,
+  "reason": "A small open text model: niche"
+ },
+ "hf:google/timesfm-3.0-pytorch": {
+  "score": 3,
+  "reason": "Time-series forecasting model: far from your shelves"
+ },
+ "hf:sentence-transformers/all-MiniLM-L6-v2": {
+  "score": 2,
+  "reason": "An evergreen embedding model resurfacing on trending: nothing new"
+ },
+ "hf:openai-community/gpt2": {
+  "score": 1,
+  "reason": "GPT-2 trending again is a curiosity, not 30 seconds well spent"
+ },
+ "bsky:3muroi3f56c2s:6yeuxtpt": {
+  "score": 5,
+  "reason": "A 3M scientist who found PFAS in public blood and was questioned by her bosses: Extreme Ownership's counterexample"
+ },
+ "bsky:3murzrilmqs2j:4ucmrdmu": {
+  "score": 4,
+  "reason": "A bookbinder restoring ancient books: pleasant for a reader, no idea to take away"
+ },
+ "bsky:3murwbwk2jk22:wv63nnh4": {
+  "score": 4,
+  "reason": "A hidden fore-edge painting on a Narnia set: a lovely book object, but a curiosity"
+ },
+ "bsky:3mus4btaifs2x:aojkgfop": {
+  "score": 3,
+  "reason": "A comics bookshop haul: reading-adjacent only"
+ },
+ "bsky:3muqj77xu7c2x:6yeuxtpt": {
+  "score": 2,
+  "reason": "ProPublica tool for where generic drugs are made: useful journalism, off shelf"
+ },
+ "bsky:3murvr7g3n42a:h7lp2ryr": {
+  "score": 2,
+  "reason": "Kinetic wind sculptures: art curiosity"
+ },
+ "bsky:3murytlxzox2v:h7lp2ryr": {
+  "score": 1,
+  "reason": "A rock in Iceland that looks like an elephant: engagement bait"
+ },
+ "bsky:3musczyz5dx2q:xxjduqoi": {
+  "score": 1,
+  "reason": "Political outrage adjacent, low by your rule"
+ },
+ "bsky:3mupduxjdgs2d:jsvrms3s": {
+  "score": 1,
+  "reason": "Celebrity crime news: low by your rule"
+ },
+ "bsky:3murqte242s2z:kgwup6hg": {
+  "score": 1,
+  "reason": "Bird photo with a caption: nothing to keep"
+ },
+ "bsky:3mus6d4kpcc2w:ngegpgrr": {
+  "score": 1,
+  "reason": "A charcoal drawing: art post"
+ },
+ "bsky:3murwucodck25:fqvfxzot": {
+  "score": 1,
+  "reason": "A rescue-dog story: warm, off topic"
+ },
+ "bsky:3musgslcpps2m:l22z2k7v": {
+  "score": 1,
+  "reason": "Scenery post: engagement bait"
+ },
+ "bsky:3murts2tl7s2p:ij4sq5jj": {
+  "score": 0,
+  "reason": "Sports cheer: low by your rule"
+ },
+ "bsky:3murzrtgakc2d:cjvvnpbl": {
+  "score": 0,
+  "reason": "Personal cottage photo: not your feed"
+ },
+ "bsky:3mus6nnpy522q:223tmpjk": {
+  "score": 0,
+  "reason": "Political outrage bait: low by your rule"
+ },
+ "bsky:3murclvyyk226:eai3a6ut": {
+  "score": 0,
+  "reason": "Nature photo with hearts: engagement bait"
+ },
+ "bsky:3murzssgx5k2t:2diirpcd": {
+  "score": 0,
+  "reason": "Political shirts at a concert: low by your rule"
+ },
+ "bsky:3murzjmopjs2s:iynpjh2z": {
+  "score": 0,
+  "reason": "Flower photo: engagement bait"
+ },
+ "bsky:3murv5c2o622b:wsxus3gb": {
+  "score": 0,
+  "reason": "Old photo from a collection: not your feed"
+ },
+ "bsky:3murlwbaugc2t:hxwqybxl": {
+  "score": 0,
+  "reason": "Question with no content: engagement bait"
+ },
+ "bsky:3murs6pxz6k2p:qdx3corx": {
+  "score": 0,
+  "reason": "Cartoon nostalgia: engagement bait"
+ },
+ "bsky:3murtpvengk2p:ey245upy": {
+  "score": 0,
+  "reason": "Emoji post: engagement bait"
+ },
+ "bsky:3murj62jvmk2p:sdayiyyz": {
+  "score": 0,
+  "reason": "Cute adopted dog: engagement bait"
+ }
+}
