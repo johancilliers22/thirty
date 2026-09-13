@@ -243,10 +243,14 @@ function attachLongPress(node, fn) {
     disarm();
     timer = setTimeout(() => { timer = null; armed = true; node.classList.add('held'); }, LONG_PRESS_MS);
   });
-  node.addEventListener('pointermove', (e) => { if (timer && Math.hypot(e.clientX - sx, e.clientY - sy) > 10) disarm(); });
+  // movement cancels whether or not the press has already armed: resting a thumb on a card for 550 ms and
+  // then flicking up to the next card is a scroll, not a request to mute the source for a week
+  node.addEventListener('pointermove', (e) => { if ((timer || armed) && Math.hypot(e.clientX - sx, e.clientY - sy) > 10) disarm(); });
   const finish = () => { const run = armed; disarm(); if (run) fn(); };
   node.addEventListener('pointerup', finish);
-  node.addEventListener('pointercancel', finish);
+  // a cancelled pointer is the gesture being taken away (iOS starting a scroll, an incoming call); it is
+  // never a completed long press, so it must not commit the mute
+  node.addEventListener('pointercancel', disarm);
   node.addEventListener('pointerleave', () => { if (!armed) disarm(); });
 }
 
