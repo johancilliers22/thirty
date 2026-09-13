@@ -252,11 +252,22 @@ async function main() {
       try { const r = await fn(); console.error(`${name}: ${r.length}`); return r; } catch (err) { warn(`${name} failed: ${err.message}`); return []; }
     }));
     const okSources = results.filter((r) => r.length > 0).length;
-    let previousCount = 0;
-    try { previousCount = JSON.parse(await readFile(P.feed, 'utf8')).items.length; } catch { /* first build */ }
+    let previousCount = 0, previousCounts = {};
+    try { const prev = JSON.parse(await readFile(P.feed, 'utf8')); previousCount = prev.items.length; previousCounts = prev.counts || {}; } catch { /* first build */ }
     const fetched = results.flat().length;
-    if (fetched === 0 || (previousCount > 0 && fetched < previousCount * 0.25)) {
-      console.error(`refusing to publish: ${fetched} items fetched from ${okSources} sources (previous feed had ${previousCount}); feed.json, scores.json and candidates.json left untouched`);
+    // A source that carried the last build, errored on this one and returned nothing is an outage, not a
+    // quiet news day. The count guard alone cannot see it: YouTube is ~12% of the items but most of the top
+    // of the feed, so losing all seven channels still leaves 85% of the count and publishes a feed with no
+    // book summaries in it. Requiring a recorded warning keeps a source switched off in sources.json quiet.
+    const vanished = runs
+      .map(([name], i) => ({ name, n: results[i].length }))
+      .filter(({ name, n }) => n === 0 && (previousCounts[name] || 0) > 0 && warnings.some((w) => w.startsWith(`${name} `)))
+      .map(({ name }) => name);
+    if (fetched === 0 || (previousCount > 0 && fetched < previousCount * 0.25) || vanished.length) {
+      const why = vanished.length
+        ? `every item from ${vanished.map((s) => `${s} (had ${previousCounts[s]})`).join(', ')} is gone and the source errored`
+        : `${fetched} items fetched from ${okSources} sources (previous feed had ${previousCount})`;
+      console.error(`refusing to publish: ${why}; feed.json, scores.json and candidates.json left untouched`);
       process.exit(2);
     }
     const maxAge = (cfg.maxAgeDays ?? 7) * DAY;
