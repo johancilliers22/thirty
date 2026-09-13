@@ -135,7 +135,7 @@ for (const s of sizes) {
     await ctx.setOffline(false);
     results.push({ check: 'offline-reopen', ok: offlineOk, cards: offlineCards, strip: offlineStrip });
     // install screen on iOS Safari UA (not standalone)
-    const ios = await browser.newContext({ ...devices['iPhone 13'], viewport: { width: 390, height: 844 }, colorScheme: 'dark' });
+    const ios = await browser.newContext({ ...devices['iPhone 13'], viewport: { width: 390, height: 844 }, deviceScaleFactor: SCALE, colorScheme: 'dark' });
     const p2 = await ios.newPage();
     await routeThumbs(p2);
     await p2.goto(base + '/', { waitUntil: 'networkidle' });
