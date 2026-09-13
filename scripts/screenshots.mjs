@@ -6,7 +6,10 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
-const OUT = path.join(ROOT, 'shots');
+// THIRTY_SHOTS_DIR lets a QA run keep its shots (docs/qa/<date>) instead of the gitignored scratch dir
+const OUT = path.resolve(ROOT, process.env.THIRTY_SHOTS_DIR || 'shots');
+// dSF 3 is the iPhone's real ratio; a QA run that commits its PNGs drops to 2 to stay under 300 KB a shot
+const SCALE = Number(process.env.THIRTY_SHOTS_SCALE) || 3;
 const base = process.argv[2] || 'http://127.0.0.1:4173';
 await mkdir(OUT, { recursive: true });
 
@@ -29,13 +32,15 @@ async function routeThumbs(page) {
     } catch { route.abort(); }
   });
 }
-const browser = await chromium.launch({ executablePath: process.env.CHROME_PATH || '/opt/pw-browsers/chromium-1194/chrome-linux/chrome' });
+// CHROME_PATH pins a browser (the build VM needed one); with it unset Playwright resolves the Chromium
+// it installed itself, so the script runs on any machine with `npx playwright install chromium`.
+const browser = await chromium.launch(process.env.CHROME_PATH ? { executablePath: process.env.CHROME_PATH } : {});
 const results = [];
 for (const s of sizes) {
   const ctx = await browser.newContext({
     ...devices['iPhone 13'],
     viewport: { width: s.width, height: s.height },
-    deviceScaleFactor: 3,
+    deviceScaleFactor: SCALE,
     isMobile: true,
     hasTouch: true,
     colorScheme: 'dark',
@@ -63,9 +68,42 @@ for (const s of sizes) {
   for (let i = 0; i < 3; i++) titles.push(await cards.nth(i).locator('.title').textContent());
   // end of session card exists and is last
   const done = await page.locator('.card-done').count();
-  results.push({ size: s.name, cards: n, strip, progress, titles, doneCard: done === 1, errors });
+  // snapshot: the offline check below deliberately disconnects the network, and a live reference would
+  // backdate its ERR_INTERNET_DISCONNECTED into this viewport's clean run
+  results.push({ size: s.name, cards: n, strip, progress, titles, doneCard: done === 1, errors: [...errors] });
 
   if (s.name === '390x844') {
+    // installability, by hand: Lighthouse dropped its PWA category in v12, so each bit is asserted here
+    const man = await (await page.request.get(base + '/manifest.webmanifest')).json();
+    const dom = await page.evaluate(() => {
+      const deck = document.querySelector('.deck');
+      const card = document.querySelector('.card[data-id]');
+      let storage = 'unavailable';
+      try { const k = 'thirty:probe'; localStorage.setItem(k, '1'); localStorage.removeItem(k); storage = 'writable'; } catch { storage = 'threw (handled)'; }
+      return {
+        appleTouchIcon: document.querySelector('link[rel="apple-touch-icon"]')?.getAttribute('href') || null,
+        manifestLink: document.querySelector('link[rel="manifest"]')?.getAttribute('href') || null,
+        appleCapable: document.querySelector('meta[name="apple-mobile-web-app-capable"]')?.content || null,
+        snapType: deck && getComputedStyle(deck).scrollSnapType,
+        snapAlign: card && getComputedStyle(card).scrollSnapAlign,
+        snapStop: card && getComputedStyle(card).scrollSnapStop,
+        storage,
+        stored: (() => { try { return !!localStorage.getItem('thirty:v1'); } catch { return false; } })(),
+      };
+    });
+    const swState = await page.evaluate(async () => {
+      if (!('serviceWorker' in navigator)) return 'unsupported';
+      const reg = await navigator.serviceWorker.getRegistration();
+      if (!reg) return 'not registered';
+      return reg.active ? 'active' : reg.installing ? 'installing' : reg.waiting ? 'waiting' : 'registered';
+    });
+    results.push({
+      check: 'installability',
+      manifestDisplay: man.display, manifestOrientation: man.orientation, manifestIcons: (man.icons || []).length,
+      manifestStartUrl: man.start_url, manifestScope: man.scope,
+      ...dom, serviceWorker: swState, consoleErrors: errors.length,
+    });
+
     // light palette screenshot
     await page.emulateMedia({ colorScheme: 'light' });
     await cards.nth(0).scrollIntoViewIfNeeded();
@@ -104,6 +142,23 @@ for (const s of sizes) {
     const installShown = await p2.locator('#install[open]').count();
     await p2.screenshot({ path: path.join(OUT, `${s.name}-install.png`) });
     results.push({ check: 'install-screen-on-ios-safari', shown: installShown === 1 });
+
+    // seen/mute round-trip through localStorage, in this throwaway context so the deck above is untouched
+    if (installShown) await p2.click('#install-dismiss');
+    await p2.waitForSelector('.card[data-id]');
+    const before = await p2.locator('.card[data-id]:not([data-id="done"])').count();
+    await p2.locator('.card[data-id] .btn', { hasText: 'Mute' }).first().click();
+    await p2.waitForTimeout(300);
+    const persisted = await p2.evaluate(() => { try { return JSON.parse(localStorage.getItem('thirty:v1') || '{}'); } catch { return null; } });
+    await p2.reload({ waitUntil: 'networkidle' });
+    await p2.waitForSelector('.card[data-id]');
+    results.push({
+      check: 'mute-persists-across-reload',
+      mutedKeys: Object.keys(persisted?.muted || {}).length,
+      seenKeys: Object.keys(persisted?.seen || {}).length,
+      cardsBefore: before,
+      cardsAfterReload: await p2.locator('.card[data-id]:not([data-id="done"])').count(),
+    });
     await ios.close();
   }
   await ctx.close();
