@@ -82,7 +82,9 @@ export function normaliseUrl(raw) {
 const domainOf = (url) => { try { return new URL(url).hostname.replace(/^www\./, ''); } catch { return ''; } };
 const clean = (s = '') => s.replace(/\s+/g, ' ').trim();
 // a source's timestamp is untrusted: fall back through candidates, reject the unparseable and the future
-const isoOr = (...vals) => { for (const v of vals) { const t = Date.parse(v); if (Number.isFinite(t) && t < now + DAY) return new Date(t).toISOString(); } return new Date(now).toISOString(); };
+// Hacker News hands us epoch milliseconds as a number, and Date.parse() only takes strings: it stringifies
+// 1757726633000 and fails to parse it, so every HN story used to fall through to the build time.
+const isoOr = (...vals) => { for (const v of vals) { const t = typeof v === 'number' ? v : Date.parse(v); if (Number.isFinite(t) && t < now + DAY) return new Date(t).toISOString(); } return new Date(now).toISOString(); };
 const excerptOf = (s = '', n = 220) => { const c = clean(s); return c.length > n ? c.slice(0, n - 1).trimEnd() + '…' : c; };
 const decodeXml = (s = '') => s.replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1').replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"').replace(/&#39;|&apos;/g, "'").replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCodePoint(parseInt(h, 16))).replace(/&#(\d+);/g, (_, d) => String.fromCodePoint(+d));
 
