@@ -12,7 +12,7 @@
     "feed": "node scripts/build-feed.mjs",
     "icons": "node scripts/make-icons.mjs",
     "shots": "node scripts/screenshots.mjs",
-    "lighthouse": "CHROME_PATH=/opt/pw-browsers/chromium-1194/chrome-linux/chrome npx lighthouse@13.4.1 http://127.0.0.1:4173/ --preset=perf --form-factor=mobile --screenEmulation.width=390 --screenEmulation.height=844 --screenEmulation.deviceScaleFactor=3 --screenEmulation.mobile --only-categories=performance,accessibility,best-practices,seo --output=json --output=html --output-path=./lighthouse/report --chrome-flags=\"--headless=new --no-sandbox\""
+    "lighthouse": "mkdir -p lighthouse && CHROME_PATH=\"${CHROME_PATH:-$(node -p 'require(\"playwright-core\").chromium.executablePath()')}\" npx lighthouse@13.4.1 http://127.0.0.1:4173/ --preset=perf --form-factor=mobile --screenEmulation.width=390 --screenEmulation.height=844 --screenEmulation.deviceScaleFactor=3 --screenEmulation.mobile --only-categories=performance,accessibility,best-practices,seo --output=json --output=html --output-path=./lighthouse/report --chrome-flags=\"--headless=new --no-sandbox\""
   },
   "devDependencies": {
     "@playwright/test": "^1.63.0",
