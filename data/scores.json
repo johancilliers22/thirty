@@ -918,5 +918,530 @@
   "score": 0,
   "reason": "BERT trending again is registry noise",
   "scoredAt": "2026-09-06T11:49:45.173Z"
+ },
+ "hn:49674050": {
+  "score": 1,
+  "reason": "A walkthrough for editing map data, a weekend hobby with nothing on your ten book shelves",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49676820": {
+  "score": 4,
+  "reason": "An AI coding benchmark on private enterprise repos, near your Claude Code line but not about building",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49673098": {
+  "score": 2,
+  "reason": "Macro finance reporting on chip supply, not the wealth-building thinking on your money shelf",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49619848": {
+  "score": 1,
+  "reason": "A nostalgia piece about Apple retail engraving, pure tech trivia with no idea to apply",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49636479": {
+  "score": 1,
+  "reason": "Low-level Apple silicon bandwidth tuning, a hardware deep dive far from books and ideas",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49625056": {
+  "score": 2,
+  "reason": "Front-page Rust language internals, competent work but nothing on your shelves",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49645480": {
+  "score": 1,
+  "reason": "Consumer gadget privacy news cycle, the kind of tech noise this feed exists to replace",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49639647": {
+  "score": 1,
+  "reason": "A game mod stunt video, brand marketing as entertainment with no idea worth thirty seconds",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49672510": {
+  "score": 5,
+  "reason": "Anthropic's CEO on the pace of AI progress, big-picture thinking behind the tools you build with",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49674498": {
+  "score": 1,
+  "reason": "Telecom standards speculation, engineering trivia with no link to your reading list",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49672842": {
+  "score": 2,
+  "reason": "A build-time profiling tool for Bun, developer tooling rather than anything you would build on",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49673580": {
+  "score": 1,
+  "reason": "Reverse-engineered 1980s chip microcode, retro hardware craft with nothing for your shelves",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49675902": {
+  "score": 2,
+  "reason": "Linux desktop privacy bug on the front page, nothing near your book shelves or your agent building",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49676324": {
+  "score": 1,
+  "reason": "Consumer-electronics drama in video form, closer to engagement bait than anything you actually read",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49671237": {
+  "score": 3,
+  "reason": "Forensic tooling for verifying chat logs: solid security craft, but off every shelf on your list",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49670032": {
+  "score": 2,
+  "reason": "Silicon reverse-engineering at the driver level, far from the AI agent work you are building",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49658672": {
+  "score": 1,
+  "reason": "Right-to-repair reporting about farm equipment, no thread back to your business or money shelves",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49665502": {
+  "score": 2,
+  "reason": "A mobile networking leak deep in Android internals, nothing for your shelves or your Claude Code work",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49672365": {
+  "score": 4,
+  "reason": "Anthropic's paper on how transformers compute inside: background to your Claude Code line, not applied",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49625108": {
+  "score": 1,
+  "reason": "A personal essay about fruit peels, pleasant trivia with no idea you could use tomorrow",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49623933": {
+  "score": 2,
+  "reason": "Runtime benchmark numbers for WebAssembly, engineering detail well outside what this feed is for",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49626718": {
+  "score": 3,
+  "reason": "A careful survey of async language design: real thinking, but about syntax, not your decision shelf",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49662214": {
+  "score": 2,
+  "reason": "A block-based teaching language for CS classes, nothing on your shelves or your indie app line",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49671159": {
+  "score": 2,
+  "reason": "A romp through AI-agent spam pitches, niche internet drama rather than agent design you could use",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49643543": {
+  "score": 3,
+  "reason": "Cache eviction benchmarking for LLM serving: infrastructure depth, nothing on your ten shelves",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49668386": {
+  "score": 2,
+  "reason": "Scraping countermeasure teardown on Google search: infra plumbing, not your books or agent work",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49662371": {
+  "score": 3,
+  "reason": "Terence Tao on AI faking mathematical rigor: a real trust question, but far from your reading list",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49637381": {
+  "score": 1,
+  "reason": "Equine welfare research on handling and temperament: animal science, nothing your feed is for",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49677391": {
+  "score": 1,
+  "reason": "A newspaper's 404 page as a curiosity: front-page filler with no idea you can use",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49624456": {
+  "score": 1,
+  "reason": "Fish longevity and conservation science: wildlife trivia, nothing touching your reading list",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49676849": {
+  "score": 2,
+  "reason": "OpenAI IPO timing chatter: corporate finance news, not the business-building craft of E-Myth or Traction",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49671972": {
+  "score": 3,
+  "reason": "A tour of language design ideas: craftsman's essay for developers, not the agent building you care about",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49668777": {
+  "score": 1,
+  "reason": "A search engine over old Usenet archives: internet nostalgia, nothing on your shelves",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49662990": {
+  "score": 5,
+  "reason": "An indie dev's ad-spend audit finding 60% bot installs: hard numbers for your indie app line",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49595505": {
+  "score": 2,
+  "reason": "Game animation math for foot placement: graphics craft, nothing connected to your books or agents",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49662020": {
+  "score": 1,
+  "reason": "Archaeology on ritual drug use in the Andes: science trivia, not the human behaviour shelf you read",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49672549": {
+  "score": 1,
+  "reason": "Waymo and a ghost gun in LA: local crime news off a robotaxi, nothing near your shelves",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49662767": {
+  "score": 3,
+  "reason": "A trimmed-down LiteLLM gateway for calling models: dev plumbing, not the agent thinking your build line needs",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49666735": {
+  "score": 3,
+  "reason": "Agents loose in a package-registry security story: supply-chain drama, not agent design you can use",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49671329": {
+  "score": 6,
+  "reason": "An argument for shipping your work anyway, the same fight The War of Art calls Resistance",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49668706": {
+  "score": 1,
+  "reason": "A millennium-prize fluid maths announcement, brilliant and completely off your reading list",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49665549": {
+  "score": 1,
+  "reason": "A mapped photo essay on vanished woodland: pretty, but nothing for your thirty seconds",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49643011": {
+  "score": 2,
+  "reason": "2023 CSS layout notes for folding screens: frontend craft, far from your book shelves",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49660149": {
+  "score": 2,
+  "reason": "A build tool going open source: developer infrastructure with no line into your indie-app interest",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49672557": {
+  "score": 1,
+  "reason": "Energy-policy commentary on European demand, the macro noise this feed exists to cut out",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49672641": {
+  "score": 1,
+  "reason": "One developer keeping a circuit simulator alive: admirable preservation work, not one of your shelves",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49624717": {
+  "score": 1,
+  "reason": "A genomics model cataloguing DNA variants: impressive science, nothing you can apply tomorrow",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49649789": {
+  "score": 1,
+  "reason": "A personal site collecting strange body stories: fun curiosity, not the human behaviour shelf you read",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hn:49610834": {
+  "score": 1,
+  "reason": "Industrial history of how British bread is made; none of your ten shelves touches food manufacturing",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "lob:7guove": {
+  "score": 2,
+  "reason": "A developer's personal essay on feeling sad about AI; mood piece, not an idea you can apply anywhere",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "lob:ub8q3s": {
+  "score": 7,
+  "reason": "Agent tasks beyond writing code, sitting right on your AI agents and Claude Code building line",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "lob:o6rlho": {
+  "score": 1,
+  "reason": "A font made from xkcd handwriting; a fun repo, nothing near your books or your agent work",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "lob:bfiose": {
+  "score": 2,
+  "reason": "Filename encoding trivia from a systems blog; pure engineering detail, nothing on your shelves",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "lob:imdwmj": {
+  "score": 2,
+  "reason": "An argument for retiring the pandas library; tooling opinion for data engineers, not your feed",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "lob:fcttpk": {
+  "score": 3,
+  "reason": "Conference talk on GPG flaws and disclosure norms; security craft, well off your ten shelves",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "lob:xsbz3l": {
+  "score": 3,
+  "reason": "Terry Tao on AI overclaiming in maths proofs: sharp thinking about evidence, but a mathematician's fight",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "lob:jtmyg2": {
+  "score": 2,
+  "reason": "A 3133x speedup in one Rust lint; front-page compiler internals, nothing on your shelves",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "lob:oh5hqw": {
+  "score": 1,
+  "reason": "MIT's page on Logo, the 1960s teaching language; computing history, not an idea you can use",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "lob:co3jkg": {
+  "score": 3,
+  "reason": "Reactive state patterns for app architecture; developer craft, not the indie-app thinking you want",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "lob:betbip": {
+  "score": 1,
+  "reason": "How to stop macOS pushing updates; a machine-admin tip with nothing to do with your shelves",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "lob:be7tgu": {
+  "score": 2,
+  "reason": "Tech-politics essay on platform power, not the human-nature kind of power on your Greene shelf",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "lob:pwoxht": {
+  "score": 3,
+  "reason": "Talk on why teams drop Haskell: language-adoption shop talk, nothing on your shelves",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "lob:yhfmtx": {
+  "score": 3,
+  "reason": "Another terminal editor on GitHub: dev tooling, not the Claude Code agent-building line you care about",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "lob:mcioou": {
+  "score": 1,
+  "reason": "Release notes for a small password tool, no idea in it and nothing near your reading list",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "lob:n54ybt": {
+  "score": 2,
+  "reason": "A list of macOS tweak commands: desktop config trivia, not a book idea or an agent you could build",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "lob:cegf7n": {
+  "score": 1,
+  "reason": "A colour scheme project page: pure developer aesthetics, nothing your shelves would recognise",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "bsky:3mve3r5wans2p:pv3cpcb7": {
+  "score": 1,
+  "reason": "Museum mineral photo from Western Australia: science trivia, no idea you can use in thirty seconds",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "bsky:3mvdj4ltdq223:pbu6ffzn": {
+  "score": 0,
+  "reason": "Two words of college sports cheering: the exact sports-score noise your list says to score zero",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "bsky:3mve42z4mav2i:2zblxby4": {
+  "score": 1,
+  "reason": "Conservation news from a Greek island: pleasant, but nothing from your books or your building line",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "bsky:3mvds4f4eg22w:cko63h4r": {
+  "score": 1,
+  "reason": "Fossil find in a California creek: science curiosity, no idea for your productivity or money shelves",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "bsky:3mvdypbqi4k2r:n6r6izve": {
+  "score": 0,
+  "reason": "Celebrity comeback story, the gossip category your interests file tells this feed to score zero",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "bsky:3mvdcxc6h2s25:tkcmn2gl": {
+  "score": 0,
+  "reason": "A border-account joke post: engagement bait with nothing behind it, scored zero by your own rule",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "bsky:3mvdy7buxlk2y:rsk3dj2j": {
+  "score": 1,
+  "reason": "Wildlife photography from the what's-hot feed; nothing from your ten shelves is anywhere near it",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "bsky:3mve7kbgk5c2y:wmcix67s": {
+  "score": 1,
+  "reason": "A wish for a TV show that teaches maths, a throwaway post with no idea and no source behind it",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "bsky:3mvdrimdqec2i:xamo3wwx": {
+  "score": 0,
+  "reason": "Spanish street-politics coverage: the political outrage lane you told the feed to score at zero",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "bsky:3mvdo6shqmk2j:qd4gbc4g": {
+  "score": 0,
+  "reason": "Four words with nothing behind them, the engagement bait your list says to score at zero",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "bsky:3mvdefnpohu2c:irmhcgu3": {
+  "score": 0,
+  "reason": "Madrid local-politics video, straight into the political outrage you asked to be filtered out",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "bsky:3mvdw6ycim22w:fxuytkar": {
+  "score": 0,
+  "reason": "Celebrity nostalgia about an actor's death; the gossip lane sits at the bottom of your list",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "bsky:3mvdd4cfgk22p:edsvumwz": {
+  "score": 0,
+  "reason": "Emoji agreement with no argument inside it, the engagement bait you score at zero",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "bsky:3mvdhaztve72n:xxjduqoi": {
+  "score": 0,
+  "reason": "US political outrage dressed as a money take; nothing here for your Psychology of Money shelf",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "bsky:3mvec4fgpc22x:vf2ogwna": {
+  "score": 1,
+  "reason": "A raccoon meme off the what's-hot feed, unconnected to your books or to anything you build",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "bsky:3mve4jessvc2h:m6iyb445": {
+  "score": 1,
+  "reason": "A studio-gossip joke about the Muppets: a laugh, but nothing from any of your ten shelves",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "bsky:3mvdvjleyas2t:yed3iwcv": {
+  "score": 1,
+  "reason": "A mushroom photo, pleasant and about as far from your reading shelves as this feed gets",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "bsky:3mvda3dti3c27:qctcpxqz": {
+  "score": 2,
+  "reason": "Solar-farm ecology trivia: a real result, but no line in your interests points toward it",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "bsky:3mvdthlcnkk2g:fapyefyb": {
+  "score": 1,
+  "reason": "Monarch migration trivia: a good nature fact, but it touches nothing on your ten shelves",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "bsky:3mve224yl7c2f:ngegpgrr": {
+  "score": 1,
+  "reason": "An oil painting posted to Bluesky; pleasant to look at, nowhere near your books-and-ideas feed",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "bsky:3mvd4qus7ic2r:vrx3yhya": {
+  "score": 0,
+  "reason": "Political name-calling with no argument in it, squarely on the score-low list you wrote",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "bsky:3mvdahzu6ok2o:whyjxvgk": {
+  "score": 0,
+  "reason": "Sports-crowd politics: a senator booed at a game, both things you told this feed to skip",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "bsky:3mveb6pxucs26:wlefkoak": {
+  "score": 1,
+  "reason": "A garden hummingbird photo from a birding account, wildlife rather than anything off your shelves",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "yt:BsT1gU_DpsE": {
+  "score": 8,
+  "reason": "Barbara Oakley's Learn Like A Pro in one page: a learning book sitting right beside your Deep Work line",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "yt:K8AMhj-ImMI": {
+  "score": 7,
+  "reason": "Ali Abdaal on closing the gap between ambition and consistency, next to your The One Thing line",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "yt:CzDTaLqozlQ": {
+  "score": 6,
+  "reason": "A first $1,000 online, step by step: creator-business craft adjacent to your Fastlane shelf",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "yt:ohkYZZKGFIc": {
+  "score": 9,
+  "reason": "Ryan Holiday on discipline that bends rather than breaks: your Stoicism and Can't Hurt Me shelves at once",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "yt:Q4XkRinBOK0": {
+  "score": 7,
+  "reason": "Nine Stoic lessons pulled from Roman politics, Seneca-era power plays applied rather than outrage",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "yt:lOUUaQgG6KI": {
+  "score": 6,
+  "reason": "Three Marcus Aurelius lines with the source named: short, but it is your Meditations shelf, not filler",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "yt:q1QJOhi_mWw": {
+  "score": 7,
+  "reason": "Holiday and Tom Junod on the people who read you accurately: Laws of Human Nature territory",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hf:deepseek-ai/DeepSeek-V4.1-Flash": {
+  "score": 4,
+  "reason": "Flagship vision-language drop from DeepSeek: usable inside an agent stack, but no idea here for your shelves",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hf:openbmb/MiniCPM5-2B": {
+  "score": 2,
+  "reason": "A 2B on-device text model listing, model-zoo plumbing rather than anything your Claude Code line needs",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hf:nex-agi/Nex-N2.5-mini": {
+  "score": 1,
+  "reason": "An unknown lab's small text model, a bare weights listing with nothing that touches your shelves",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hf:Edge0/Edge0-35B-A3B-preview": {
+  "score": 1,
+  "reason": "Preview weights packaged for Apple silicon, hardware plumbing you would never build a product on",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hf:nex-agi/Nex-N2.5-Pro": {
+  "score": 1,
+  "reason": "The larger sibling of the same unknown upload, still just weights with no idea or writing behind it",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hf:WarmBloodAban/Minimax-h3_Singularity": {
+  "score": 1,
+  "reason": "An image-to-video weights repost: media generation, nowhere near your books or your agent building",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hf:m-a-p/YuE2-3B": {
+  "score": 1,
+  "reason": "Music generation weights under a non-commercial licence, off every one of your ten shelves",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hf:dealignai/GLM-5.3-CYBERSECURITY-FP8": {
+  "score": 2,
+  "reason": "A security-tuned quant of GLM: infosec tooling, tangential even to your one Claude Code interest",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
+ },
+ "hf:DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF": {
+  "score": 1,
+  "reason": "A hobbyist merge-and-quant with a fifteen-word name, local-LLM tinkering with no idea inside it",
+  "scoredAt": "2026-09-13T01:26:37.353Z"
  }
 }
