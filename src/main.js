@@ -160,7 +160,9 @@ function buildSession(items) {
 
 const bandOf = (s) => (s >= 7 ? 'high' : s >= 4 ? 'mid' : 'low');
 // feed URLs are third-party text: only http(s) ever reaches an href, an <img> or window.open
-const safeUrl = (u) => { try { const p = new URL(u, location.href); return p.protocol === 'https:' || p.protocol === 'http:' ? p.href : null; } catch { return null; } };
+// nullish first: `new URL(undefined, base)` does not throw, it resolves to "<origin>/undefined", which is
+// https and would sail through the protocol check as a real link. Most items carry no linkUrl at all.
+const safeUrl = (u) => { if (typeof u !== 'string' || !u) return null; try { const p = new URL(u, location.href); return p.protocol === 'https:' || p.protocol === 'http:' ? p.href : null; } catch { return null; } };
 function openUrl(url) {
   const u = safeUrl(url);
   if (!u) return;
