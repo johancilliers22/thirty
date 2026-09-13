@@ -1,0 +1,63 @@
+[
+ {
+  "size": "390x844",
+  "cards": 30,
+  "strip": "built just now",
+  "progress": "3 / 30",
+  "titles": [
+   "The Ultimate Form of Discipline Is Flexibility",
+   "Be a top 1% learner: LEARN LIKE A PRO by Barbara Oakley & Olav Schewe",
+   "Useful Things Agents Can Do That Are Not Writing Code"
+  ],
+  "doneCard": true,
+  "errors": []
+ },
+ {
+  "check": "installability",
+  "manifestDisplay": "standalone",
+  "manifestOrientation": "portrait",
+  "manifestIcons": 3,
+  "manifestStartUrl": "/?source=pwa",
+  "manifestScope": "/",
+  "appleTouchIcon": "/icons/apple-touch-icon.png",
+  "manifestLink": "/manifest.webmanifest",
+  "appleCapable": "yes",
+  "snapType": "y mandatory",
+  "snapAlign": "start",
+  "snapStop": "always",
+  "storage": "writable",
+  "stored": true,
+  "serviceWorker": "active",
+  "consoleErrors": 0
+ },
+ {
+  "check": "offline-reopen",
+  "ok": true,
+  "cards": 30,
+  "strip": "built just now · offline copy"
+ },
+ {
+  "check": "install-screen-on-ios-safari",
+  "shown": true
+ },
+ {
+  "check": "mute-persists-across-reload",
+  "mutedKeys": 1,
+  "seenKeys": 0,
+  "cardsBefore": 30,
+  "cardsAfterReload": 30
+ },
+ {
+  "size": "430x932",
+  "cards": 30,
+  "strip": "built just now",
+  "progress": "3 / 30",
+  "titles": [
+   "The Ultimate Form of Discipline Is Flexibility",
+   "Be a top 1% learner: LEARN LIKE A PRO by Barbara Oakley & Olav Schewe",
+   "Useful Things Agents Can Do That Are Not Writing Code"
+  ],
+  "doneCard": true,
+  "errors": []
+ }
+]
