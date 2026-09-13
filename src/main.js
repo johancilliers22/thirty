@@ -208,11 +208,16 @@ function renderCard(it, index) {
   return card;
 }
 
+// i.ytimg.com sends Access-Control-Allow-Origin, so a CORS-mode <img> both renders and gives the worker a
+// non-opaque response it can cache for offline. cdn.bsky.app sends no such header, so asking for CORS there
+// fails the load outright and the thumbnail never appears. Ask only where it is answered.
+const corsThumb = (u) => { try { return /(^|\.)ytimg\.com$/.test(new URL(u).hostname) ? 'anonymous' : null; } catch { return null; } };
+
 function renderMedia(it) {
   const thumb = safeUrl(it.thumbnail);
   if (it.kind === 'video' && /^[\w-]{6,20}$/.test(it.videoId || '')) {
     const wrap = el('div', { class: 'media' },
-      thumb ? el('img', { src: thumb, alt: '', width: 480, height: 360, loading: 'lazy', decoding: 'async', crossorigin: 'anonymous', referrerpolicy: 'no-referrer', onerror: (e) => { e.target.remove(); wrap.classList.add('no-thumb'); wrap.prepend(el('span', { text: 'Video · thumbnail unavailable' })); } }) : el('span', { text: 'Video' }),
+      thumb ? el('img', { src: thumb, alt: '', width: 480, height: 360, loading: 'lazy', decoding: 'async', crossorigin: corsThumb(thumb), referrerpolicy: 'no-referrer', onerror: (e) => { e.target.remove(); wrap.classList.add('no-thumb'); wrap.prepend(el('span', { text: 'Video · thumbnail unavailable' })); } }) : el('span', { text: 'Video' }),
       el('button', { class: 'play', type: 'button', 'aria-label': `Play ${it.title}` }, el('span', { text: '▶', 'aria-hidden': 'true' })),
     );
     if (!thumb) wrap.classList.add('no-thumb');
@@ -226,7 +231,7 @@ function renderMedia(it) {
   }
   if (thumb) {
     const wrap = el('div', { class: 'media' });
-    wrap.append(el('img', { src: thumb, alt: '', loading: 'lazy', decoding: 'async', crossorigin: 'anonymous', referrerpolicy: 'no-referrer', onerror: () => wrap.remove() }));
+    wrap.append(el('img', { src: thumb, alt: '', loading: 'lazy', decoding: 'async', crossorigin: corsThumb(thumb), referrerpolicy: 'no-referrer', onerror: () => wrap.remove() }));
     return wrap;
   }
   return null;
